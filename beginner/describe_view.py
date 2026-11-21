@@ -139,7 +139,7 @@ def check(result: dict) -> None:
     """Print the checks a person should do. The AI drafts; a person checks."""
     print(f"alt length: {len(result['alt'])} characters (limit 150) "
           f"{'OK' if len(result['alt']) <= 150 else 'TOO LONG'}")
-    numbers = re.findall(r"[$€£]?\d[\d,]*(?:\.\d+)?%?", result["alt"] + " " + result["summary"])
+    numbers = re.findall(r"\d{1,2}/\d{1,2}/\d{2,4}|[$€£]?\d+(?:,\d{3})*(?:\.\d+)?%?", result["alt"] + " " + result["summary"])
     print("Numbers to check against the dashboard:", ", ".join(dict.fromkeys(numbers)) or "(none)")
 
 

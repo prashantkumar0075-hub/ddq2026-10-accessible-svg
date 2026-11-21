@@ -133,7 +133,7 @@ def load_prompt(context: str, langs: list[str]) -> str:
     return text.replace("{context}", context or "none").replace("{langs}", ", ".join(langs))
 
 
-NUMBER = re.compile(r"[$€£]?\d[\d,]*(?:\.\d+)?%?")
+NUMBER = re.compile(r"\d{1,2}/\d{1,2}/\d{2,4}|[$€£]?\d+(?:,\d{3})*(?:\.\d+)?%?")
 
 
 def unlisted_numbers(result: dict, langs: list[str]) -> list[str]:
