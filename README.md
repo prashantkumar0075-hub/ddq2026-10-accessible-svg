@@ -2,6 +2,10 @@
 
 Turns Tableau's SVG export into an image a screen reader can describe — one accessible SVG **per Region**, in one script.
 
+This repo holds both levels of the challenge:
+- **Beginner** — export one view as PNG + SVG and describe it with AI: [`beginner/`](beginner/README.md)
+- **Intermediate** — write the AI text into the SVG for every Region: this page
+
 | Format | Goes to | Why |
 |---|---|---|
 | PNG | the AI (Claude) | pixels are easy for a vision model to read |
