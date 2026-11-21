@@ -1,10 +1,19 @@
 {
+  "numbers_used": [
+    "$739,814",
+    "$110,799",
+    "15.0%",
+    "10.89%",
+    "12,466",
+    "1/3/2023",
+    "12/30/2026"
+  ],
   "en": {
-    "alt": "Superstore West region: $739,814 sales, $110,799 profit, 15.0% profit ratio, the best region; Colorado, Oregon, Arizona lose money.",
-    "summary": "Executive profitability dashboard for the West region, orders from January 2023 to December 2026. Sales total $739,814 with $110,799 profit, a 15.0% profit ratio, an average discount of 10.89% and 12,466 items sold, the highest sales and margin of the four regions. Colorado, Oregon and Arizona appear in orange with negative profit ratios, while California, Washington and western Canada are profitable."
+    "alt": "West region profitability dashboard: $739,814 sales, $110,799 profit, 15.0% profit ratio, the highest of the four regions.",
+    "summary": "Executive profitability overview for the West region, orders from 1/3/2023 to 12/30/2026. Sales are $739,814 and profit $110,799, a 15.0% profit ratio with a 10.89% average discount on 12,466 items. West leads all regions, although Colorado, Oregon and Arizona have a negative profit ratio."
   },
   "es": {
-    "alt": "Superstore región Oeste: ventas $739,814, beneficio $110,799, margen 15.0%, la mejor región; Colorado, Oregón y Arizona pierden.",
-    "summary": "Panel ejecutivo de rentabilidad de la región Oeste, pedidos de enero de 2023 a diciembre de 2026. Las ventas suman $739,814 con $110,799 de beneficio, un margen del 15.0%, un descuento medio del 10.89% y 12,466 unidades vendidas, las ventas y el margen más altos de las cuatro regiones. Colorado, Oregón y Arizona aparecen en naranja con margen negativo, mientras que California, Washington y el oeste de Canadá son rentables."
+    "alt": "Panel de rentabilidad de la región Oeste: ventas $739,814, beneficio $110,799, margen 15.0%, el más alto de las cuatro regiones.",
+    "summary": "Resumen ejecutivo de rentabilidad de la región Oeste, pedidos del 1/3/2023 al 12/30/2026. Las ventas son $739,814 y el beneficio $110,799, un margen del 15.0% con un descuento medio del 10.89% en 12,466 artículos. Oeste lidera todas las regiones, aunque Colorado, Oregón y Arizona tienen margen negativo."
   }
 }

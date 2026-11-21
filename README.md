@@ -85,12 +85,22 @@ Tableau's own SVG export shipped with `<title>TEMP_0wsolca0sagx8w1f4o2ls1o5v8sr<
 
 | Region | Alt text (`<title>`) |
 |---|---|
-| Central | Superstore Central region: $503,171 sales, $39,865 profit, 7.9% profit ratio; Texas and Illinois show negative profit. |
-| East | Superstore East region: $691,828 sales, $94,883 profit, 13.7% profit ratio; Ohio, Pennsylvania and Nova Scotia lose money. |
-| South | Superstore South region: $391,722 sales, $46,749 profit, 11.9% profit ratio; Tennessee, North Carolina and Florida lose money. |
-| West | Superstore West region: $739,814 sales, $110,799 profit, 15.0% profit ratio, the best region; Colorado, Oregon, Arizona lose money. |
+| Central | Central region profitability dashboard: $503,171 sales, $39,865 profit, 7.9% profit ratio, the lowest of the four regions. |
+| East | East region profitability dashboard: $691,828 sales, $94,883 profit, 13.7% profit ratio; Ohio and Pennsylvania lose money. |
+| South | South region profitability dashboard: $391,722 sales, the lowest of the four regions, $46,749 profit, 11.9% profit ratio. |
+| West | West region profitability dashboard: $739,814 sales, $110,799 profit, 15.0% profit ratio, the highest of the four regions. |
 
 Every number was checked against the exported PNG before shipping. Files: [`results/`](results/) — open `results/index.html` for the gallery with the EN/ES switch.
+
+## The universal prompt
+
+[`prompts/universal_prompt.md`](prompts/universal_prompt.md) is one prompt for any chart, dashboard or infographic, in any language, for any vision model (Claude, ChatGPT, Gemini). The script loads it from that file, so you can improve the prompt without touching code. Copy the text between the markers to use it in a chat app.
+
+What makes it reliable:
+- **No invented numbers:** numbers are copied exactly from the image, never calculated, and the model returns them in `numbers_used`. The script flags any number in the text that is missing from that list (`CHECK: en: 22% is not in numbers_used`), so the reviewer knows what to check first.
+- **Screen-reader friendly:** colors are described by meaning ("negative profit ratio"), not by name ("orange").
+- **Same structure every time:** alt text up to 150 characters, plus a 3-sentence summary covering scope, key numbers and insight.
+- **Comparisons only when given:** cross-region claims ("highest of the four regions") come only from the `{context}` you pass in.
 
 ## Two-stage mode (any AI, or no API credit)
 

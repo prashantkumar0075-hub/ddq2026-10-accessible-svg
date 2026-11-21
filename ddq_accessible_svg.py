@@ -122,12 +122,36 @@ def export_view(server, view, out_dir: Path, filter_field: str | None, value: st
 # ===========================================================================
 # STEP 2 - DESCRIBE (Claude vision -> structured JSON)
 # ===========================================================================
-PROMPT = """You are writing accessibility text for a Tableau dashboard image.
-{context}
-Write, for each language code in {langs}:
-- "alt": alt text, UNDER 150 characters, saying what the chart shows and the single most important takeaway.
-- "summary": exactly three sentences: what the dashboard is, the key numbers (only numbers you can actually read in the image), and the main insight.
-Do not invent numbers. If a value is unreadable, describe it qualitatively."""
+PROMPT_FILE = Path(__file__).with_name("prompts") / "universal_prompt.md"
+
+
+def load_prompt(context: str, langs: list[str]) -> str:
+    """Read the universal prompt (between the PROMPT START/END markers) and fill its placeholders."""
+    text = PROMPT_FILE.read_text(encoding="utf-8")
+    text = text.split("<!-- PROMPT START -->", 1)[1].split("<!-- PROMPT END -->", 1)[0].strip()
+    # str.replace, not .format: the prompt contains literal JSON braces
+    return text.replace("{context}", context or "none").replace("{langs}", ", ".join(langs))
+
+
+NUMBER = re.compile(r"[$€£]?\d[\d,]*(?:\.\d+)?%?")
+
+
+def unlisted_numbers(result: dict, langs: list[str]) -> list[str]:
+    """Numbers written in alt/summary that are not in the model's own numbers_used list.
+
+    Each one is a possible hallucination for the human reviewer to look at first.
+    Matching ignores $ , % so "$739,814" in the text matches "739814" in the list.
+    """
+    digits = lambda x: re.sub(r"[^\d.]", "", x).strip(".")
+    listed = [digits(n) for n in result.get("numbers_used", [])]
+    suspects = []
+    for lang in langs:
+        text = result[lang]["alt"] + " " + result[lang]["summary"]
+        for n in NUMBER.findall(text):
+            d = digits(n)
+            if d and not any(d in l for l in listed):
+                suspects.append(f"{lang}: {n}")
+    return suspects
 
 
 def describe_png(png_path: Path, langs: list[str], context: str = "") -> dict:
@@ -145,8 +169,9 @@ def describe_png(png_path: Path, langs: list[str], context: str = "") -> dict:
     }
     schema = {
         "type": "object",
-        "properties": {lang: per_lang for lang in langs},
-        "required": langs,
+        "properties": {"numbers_used": {"type": "array", "items": {"type": "string"}},
+                       **{lang: per_lang for lang in langs}},
+        "required": ["numbers_used", *langs],
         "additionalProperties": False,
     }
 
@@ -160,7 +185,7 @@ def describe_png(png_path: Path, langs: list[str], context: str = "") -> dict:
                 "role": "user",
                 "content": [
                     {"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": image_b64}},
-                    {"type": "text", "text": PROMPT.format(context=context, langs=", ".join(langs))},
+                    {"type": "text", "text": load_prompt(context, langs)},
                 ],
             }
         ],
@@ -172,10 +197,15 @@ def describe_png(png_path: Path, langs: list[str], context: str = "") -> dict:
     result = json.loads(text)
 
     # Enforce the 150-character rule in code - never trust, always verify.
-    for lang, block in result.items():
+    for lang in langs:
+        block = result[lang]
         if len(block["alt"]) > 150:
             print(f"  NOTE: {lang} alt text is {len(block['alt'])} chars, trimming to 150.")
             block["alt"] = block["alt"][:147].rstrip() + "..."
+
+    # Flag numbers the model wrote but did not list as read from the image
+    for suspect in unlisted_numbers(result, langs):
+        print(f"  CHECK: {suspect} is not in numbers_used - verify it against the PNG")
     return result
 
 

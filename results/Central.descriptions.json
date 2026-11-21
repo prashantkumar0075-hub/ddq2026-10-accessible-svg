@@ -1,10 +1,19 @@
 {
+  "numbers_used": [
+    "$503,171",
+    "$39,865",
+    "7.9%",
+    "24.10%",
+    "8,820",
+    "1/3/2023",
+    "12/30/2026"
+  ],
   "en": {
-    "alt": "Superstore Central region: $503,171 sales, $39,865 profit, 7.9% profit ratio; Texas and Illinois show negative profit.",
-    "summary": "Executive profitability dashboard for the Central region, orders from January 2023 to December 2026. Sales total $503,171 with $39,865 profit, a 7.9% profit ratio, an average discount of 24.10% and 8,820 items sold. The map shows most states profitable in blue, while Texas and Illinois are orange with negative profit ratios, pulling Central to the lowest margin of the four regions."
+    "alt": "Central region profitability dashboard: $503,171 sales, $39,865 profit, 7.9% profit ratio, the lowest of the four regions.",
+    "summary": "Executive profitability overview for the Central region, orders from 1/3/2023 to 12/30/2026. Sales are $503,171 and profit $39,865, a 7.9% profit ratio with a 24.10% average discount on 8,820 items. Most states are profitable, but Texas and Illinois have a negative profit ratio, which keeps Central the least profitable region."
   },
   "es": {
-    "alt": "Superstore región Central: ventas $503,171, beneficio $39,865, margen 7.9%; Texas e Illinois tienen pérdidas.",
-    "summary": "Panel ejecutivo de rentabilidad de la región Central, pedidos de enero de 2023 a diciembre de 2026. Las ventas suman $503,171 con $39,865 de beneficio, un margen del 7.9%, un descuento medio del 24.10% y 8,820 unidades vendidas. El mapa muestra la mayoría de los estados con beneficio en azul, pero Texas e Illinois aparecen en naranja con margen negativo, dejando a Central con el margen más bajo de las cuatro regiones."
+    "alt": "Panel de rentabilidad de la región Central: ventas $503,171, beneficio $39,865, margen 7.9%, el más bajo de las cuatro regiones.",
+    "summary": "Resumen ejecutivo de rentabilidad de la región Central, pedidos del 1/3/2023 al 12/30/2026. Las ventas son $503,171 y el beneficio $39,865, un margen del 7.9% con un descuento medio del 24.10% en 8,820 artículos. La mayoría de los estados son rentables, pero Texas e Illinois tienen margen negativo, lo que deja a Central como la región menos rentable."
   }
 }

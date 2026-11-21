@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="211.931mm" height="211.931mm"
  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" role="img" aria-labelledby="alt summary" lang="en">
-<title id="alt">Superstore East region: $691,828 sales, $94,883 profit, 13.7% profit ratio; Ohio, Pennsylvania and Nova Scotia lose money.</title>
-<desc id="summary">Executive profitability dashboard for the East region, orders from January 2023 to December 2026. Sales total $691,828 with $94,883 profit, a 13.7% profit ratio, an average discount of 14.34% and 11,159 items sold. Most states and provinces are profitable in blue, while Ohio, Pennsylvania and Nova Scotia appear in orange with negative profit ratios.</desc>
+<title id="alt">East region profitability dashboard: $691,828 sales, $94,883 profit, 13.7% profit ratio; Ohio and Pennsylvania lose money.</title>
+<desc id="summary">Executive profitability overview for the East region, orders from 1/3/2023 to 12/30/2026. Sales are $691,828 and profit $94,883, a 13.7% profit ratio with a 14.34% average discount on 11,159 items. Most states and provinces are profitable, while Ohio, Pennsylvania and Nova Scotia have a negative profit ratio.</desc>
 <defs>
 <clipPath id="clipPath1">
 <path vector-effect="none" fill-rule="evenodd" d="M7,56 L793,56 L793,81 L7,81 L7,56"/>
