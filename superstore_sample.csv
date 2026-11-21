@@ -1,0 +1,2001 @@
+Order ID,Order Date,Region,Segment,Category,Sub-Category,Sales,Profit,Quantity
+US-2025-100000,2025-02-22,West,Consumer,Furniture,Bookcases,1071.48,186.01,9
+US-2025-100001,2025-09-09,South,Home Office,Office Supplies,Storage,532.92,126.99,8
+US-2025-100002,2025-02-20,East,Corporate,Technology,Accessories,160.22,-1.02,1
+US-2025-100003,2025-07-02,South,Corporate,Office Supplies,Paper,143.5,-3.48,9
+US-2025-100004,2025-05-28,West,Corporate,Office Supplies,Paper,123.63,14.72,3
+US-2025-100005,2025-02-16,Central,Corporate,Technology,Accessories,468.63,37.74,9
+US-2025-100006,2025-11-04,South,Corporate,Technology,Copiers,521.47,117.37,7
+US-2025-100007,2025-09-23,Central,Consumer,Furniture,Bookcases,709.82,63.6,4
+US-2025-100008,2025-11-15,East,Corporate,Technology,Accessories,845.56,156.63,8
+US-2025-100009,2025-12-25,East,Corporate,Furniture,Chairs,844.44,-75.15,8
+US-2025-100010,2025-11-28,Central,Home Office,Office Supplies,Paper,517.98,1.98,8
+US-2025-100011,2025-01-17,South,Consumer,Furniture,Chairs,195.33,-3.02,8
+US-2025-100012,2025-09-19,South,Corporate,Furniture,Chairs,174.23,16.17,7
+US-2025-100013,2025-08-13,West,Home Office,Furniture,Tables,528.42,3.14,9
+US-2025-100014,2025-09-03,Central,Consumer,Furniture,Chairs,740.52,200.84,5
+US-2025-100015,2025-03-16,South,Corporate,Furniture,Chairs,133.87,37.26,1
+US-2025-100016,2025-02-12,West,Home Office,Technology,Copiers,1061.93,335.66,4
+US-2025-100017,2025-05-18,East,Home Office,Technology,Accessories,104.37,12.86,6
+US-2025-100018,2025-09-09,East,Home Office,Technology,Copiers,1064.5,145.99,3
+US-2025-100019,2025-12-21,East,Home Office,Furniture,Bookcases,149.02,22.21,5
+US-2025-100020,2025-10-28,West,Corporate,Furniture,Bookcases,201.13,-16.56,9
+US-2025-100021,2025-01-08,South,Consumer,Furniture,Chairs,334.34,-17.27,7
+US-2025-100022,2025-01-14,West,Consumer,Technology,Copiers,1177.44,373.57,9
+US-2025-100023,2025-03-04,South,Corporate,Furniture,Bookcases,201.06,2.62,8
+US-2025-100024,2025-06-22,East,Corporate,Technology,Accessories,839.98,56.11,4
+US-2025-100025,2025-03-30,West,Consumer,Office Supplies,Paper,62.57,10.86,9
+US-2025-100026,2025-01-11,West,Consumer,Furniture,Bookcases,232.38,47.75,9
+US-2025-100027,2025-07-19,East,Corporate,Office Supplies,Binders,177.26,48.25,7
+US-2025-100028,2025-05-15,South,Corporate,Technology,Copiers,322.92,7.11,8
+US-2025-100029,2025-08-16,South,Consumer,Furniture,Tables,123.01,-17.26,9
+US-2025-100030,2025-08-21,Central,Home Office,Technology,Phones,304.06,99.38,6
+US-2025-100031,2025-03-22,South,Corporate,Office Supplies,Storage,126.39,-17.24,9
+US-2025-100032,2025-10-18,East,Home Office,Technology,Accessories,1144.16,146.34,4
+US-2025-100033,2025-05-16,Central,Consumer,Office Supplies,Paper,518.39,-43.38,7
+US-2025-100034,2025-04-05,East,Home Office,Technology,Accessories,128.79,3.62,2
+US-2025-100035,2025-06-11,Central,Consumer,Furniture,Bookcases,643.37,-2.88,5
+US-2025-100036,2025-05-12,Central,Corporate,Technology,Phones,519.85,155.45,1
+US-2025-100037,2025-12-18,West,Home Office,Technology,Phones,80.44,-7.12,6
+US-2025-100038,2025-01-20,Central,Corporate,Furniture,Bookcases,485.04,100.46,6
+US-2025-100039,2025-03-03,East,Home Office,Office Supplies,Paper,434.49,81.67,6
+US-2025-100040,2025-08-12,Central,Consumer,Furniture,Tables,725.4,-160.92,5
+US-2025-100041,2025-03-04,Central,Corporate,Furniture,Bookcases,733.8,183.39,7
+US-2025-100042,2025-10-15,Central,Consumer,Office Supplies,Binders,422.53,8.98,2
+US-2025-100043,2025-07-01,East,Home Office,Office Supplies,Binders,136.5,-11.9,5
+US-2025-100044,2025-07-13,West,Consumer,Furniture,Bookcases,163.93,9.45,7
+US-2025-100045,2025-10-05,East,Home Office,Technology,Phones,876.09,158.38,9
+US-2025-100046,2025-10-05,South,Corporate,Furniture,Chairs,154.61,-21.91,7
+US-2025-100047,2025-04-02,Central,Home Office,Furniture,Chairs,723.28,106.2,1
+US-2025-100048,2025-01-29,Central,Home Office,Furniture,Bookcases,406.3,90.01,1
+US-2025-100049,2025-03-19,East,Home Office,Furniture,Chairs,961.15,182.21,7
+US-2025-100050,2025-04-13,Central,Corporate,Technology,Accessories,1019.41,22.27,6
+US-2025-100051,2025-12-11,South,Home Office,Office Supplies,Paper,352.06,30.64,5
+US-2025-100052,2025-01-03,East,Corporate,Technology,Accessories,671.04,62.02,9
+US-2025-100053,2025-10-07,South,Home Office,Technology,Accessories,192.49,-0.09,5
+US-2025-100054,2025-10-01,East,Consumer,Office Supplies,Storage,119.53,36.07,5
+US-2025-100055,2025-11-26,West,Home Office,Furniture,Tables,617.88,52.86,3
+US-2025-100056,2025-05-14,West,Corporate,Technology,Phones,1329.33,22.34,1
+US-2025-100057,2025-03-10,East,Corporate,Technology,Copiers,492.55,-3.55,4
+US-2025-100058,2025-10-03,West,Consumer,Office Supplies,Storage,553.01,33.91,9
+US-2025-100059,2025-03-01,West,Home Office,Technology,Copiers,988.81,-67.27,1
+US-2025-100060,2025-11-03,Central,Home Office,Technology,Copiers,389.41,45.2,4
+US-2025-100061,2025-02-07,East,Corporate,Technology,Copiers,785.69,225.48,5
+US-2025-100062,2025-03-03,Central,Home Office,Office Supplies,Binders,277.15,84.46,9
+US-2025-100063,2025-06-26,East,Consumer,Furniture,Bookcases,811.19,250.53,2
+US-2025-100064,2025-03-28,West,Corporate,Furniture,Tables,316.83,-21.84,7
+US-2025-100065,2025-06-10,Central,Consumer,Furniture,Bookcases,508.47,49.12,4
+US-2025-100066,2025-06-29,South,Corporate,Technology,Accessories,928.9,213.1,7
+US-2025-100067,2025-03-07,East,Corporate,Technology,Copiers,1186.0,211.61,5
+US-2025-100068,2025-05-15,Central,Consumer,Technology,Copiers,346.09,98.08,9
+US-2025-100069,2025-03-05,Central,Corporate,Technology,Copiers,1190.79,155.58,5
+US-2025-100070,2025-06-18,South,Home Office,Office Supplies,Paper,260.06,32.47,7
+US-2025-100071,2025-12-14,Central,Home Office,Technology,Accessories,945.33,92.02,9
+US-2025-100072,2025-07-24,East,Home Office,Furniture,Tables,649.48,-240.3,3
+US-2025-100073,2025-10-24,West,Home Office,Furniture,Bookcases,796.86,-67.49,7
+US-2025-100074,2025-11-22,South,Consumer,Furniture,Tables,21.24,-0.45,5
+US-2025-100075,2025-11-15,Central,Home Office,Technology,Phones,973.56,104.63,6
+US-2025-100076,2025-02-18,West,Consumer,Office Supplies,Storage,231.42,54.26,6
+US-2025-100077,2025-06-08,East,Consumer,Furniture,Chairs,608.69,-39.33,7
+US-2025-100078,2025-04-05,East,Home Office,Technology,Phones,454.73,27.18,9
+US-2025-100079,2025-06-12,East,Home Office,Furniture,Bookcases,663.83,14.46,8
+US-2025-100080,2025-09-08,Central,Consumer,Furniture,Tables,644.54,-245.98,1
+US-2025-100081,2025-07-08,South,Corporate,Furniture,Tables,529.29,-88.36,9
+US-2025-100082,2025-02-03,South,Home Office,Furniture,Chairs,372.35,95.87,9
+US-2025-100083,2025-09-25,Central,Home Office,Furniture,Bookcases,84.86,8.89,6
+US-2025-100084,2025-10-15,South,Consumer,Furniture,Bookcases,223.2,-13.26,5
+US-2025-100085,2025-01-15,South,Corporate,Office Supplies,Binders,584.11,198.47,4
+US-2025-100086,2025-04-19,East,Corporate,Furniture,Bookcases,850.11,-73.75,8
+US-2025-100087,2025-11-30,East,Corporate,Office Supplies,Storage,835.69,10.76,9
+US-2025-100088,2025-03-15,East,Consumer,Technology,Accessories,889.07,302.17,1
+US-2025-100089,2025-05-17,West,Home Office,Furniture,Tables,1060.07,-329.16,6
+US-2025-100090,2025-04-06,East,Home Office,Furniture,Chairs,202.6,-24.96,3
+US-2025-100091,2025-01-15,South,Corporate,Office Supplies,Storage,315.68,38.84,4
+US-2025-100092,2025-03-21,Central,Corporate,Office Supplies,Binders,365.3,81.67,3
+US-2025-100093,2025-12-27,West,Home Office,Furniture,Chairs,88.99,2.36,5
+US-2025-100094,2025-02-16,Central,Corporate,Technology,Phones,629.51,179.12,7
+US-2025-100095,2025-04-19,East,Corporate,Technology,Phones,383.14,127.95,3
+US-2025-100096,2025-04-18,South,Corporate,Office Supplies,Paper,296.98,9.38,8
+US-2025-100097,2025-02-10,South,Corporate,Technology,Phones,750.81,-69.13,3
+US-2025-100098,2025-08-08,West,Consumer,Technology,Phones,1168.35,-64.67,9
+US-2025-100099,2025-07-06,East,Corporate,Office Supplies,Storage,786.19,-5.06,1
+US-2025-100100,2025-09-07,South,Consumer,Office Supplies,Paper,560.23,151.39,2
+US-2025-100101,2025-11-08,East,Home Office,Office Supplies,Binders,960.64,74.94,1
+US-2025-100102,2025-10-07,Central,Home Office,Furniture,Bookcases,75.96,6.4,9
+US-2025-100103,2025-02-05,West,Home Office,Furniture,Tables,65.95,-6.92,8
+US-2025-100104,2025-11-11,West,Corporate,Furniture,Bookcases,905.21,298.46,9
+US-2025-100105,2025-02-17,West,Consumer,Technology,Copiers,276.4,-26.93,9
+US-2025-100106,2025-11-05,Central,Home Office,Technology,Phones,923.52,-105.69,2
+US-2025-100107,2025-06-14,Central,Home Office,Office Supplies,Binders,246.66,21.06,8
+US-2025-100108,2025-08-03,East,Consumer,Furniture,Chairs,519.64,142.49,8
+US-2025-100109,2025-10-29,East,Corporate,Office Supplies,Binders,446.49,104.65,7
+US-2025-100110,2025-01-18,South,Home Office,Office Supplies,Binders,321.36,-13.08,8
+US-2025-100111,2025-08-10,East,Home Office,Furniture,Chairs,855.04,5.93,1
+US-2025-100112,2025-10-16,Central,Corporate,Office Supplies,Storage,141.44,16.29,4
+US-2025-100113,2025-02-24,West,Corporate,Office Supplies,Binders,528.02,134.05,7
+US-2025-100114,2025-03-28,West,Home Office,Technology,Phones,129.96,29.36,5
+US-2025-100115,2025-04-22,Central,Home Office,Technology,Copiers,227.82,69.66,9
+US-2025-100116,2025-12-22,West,Corporate,Furniture,Bookcases,758.72,21.12,9
+US-2025-100117,2025-05-30,West,Consumer,Technology,Accessories,1186.12,107.62,3
+US-2025-100118,2025-01-23,West,Corporate,Furniture,Chairs,33.03,5.25,5
+US-2025-100119,2025-09-22,West,Home Office,Office Supplies,Storage,626.18,77.48,9
+US-2025-100120,2025-07-21,East,Corporate,Furniture,Chairs,546.34,-19.59,2
+US-2025-100121,2025-08-14,East,Home Office,Technology,Phones,675.64,86.44,3
+US-2025-100122,2025-06-22,East,Corporate,Technology,Phones,901.25,92.31,5
+US-2025-100123,2025-03-08,East,Home Office,Furniture,Chairs,40.34,-4.55,9
+US-2025-100124,2025-03-31,East,Corporate,Furniture,Bookcases,166.22,41.46,9
+US-2025-100125,2025-12-24,West,Corporate,Technology,Phones,1473.35,-155.0,7
+US-2025-100126,2025-01-11,Central,Home Office,Office Supplies,Paper,79.25,15.12,5
+US-2025-100127,2025-11-01,East,Home Office,Technology,Copiers,1394.53,448.6,3
+US-2025-100128,2025-03-31,Central,Home Office,Office Supplies,Storage,24.84,-3.37,8
+US-2025-100129,2025-11-07,West,Home Office,Technology,Accessories,869.77,279.14,8
+US-2025-100130,2025-03-17,West,Corporate,Technology,Phones,47.0,5.35,5
+US-2025-100131,2025-11-21,West,Home Office,Furniture,Bookcases,350.04,-26.15,1
+US-2025-100132,2025-08-16,South,Consumer,Office Supplies,Binders,73.28,19.49,7
+US-2025-100133,2025-05-09,Central,Corporate,Furniture,Tables,561.48,8.66,7
+US-2025-100134,2025-10-08,South,Consumer,Furniture,Tables,517.93,-180.85,4
+US-2025-100135,2025-07-26,East,Consumer,Office Supplies,Paper,711.77,163.69,6
+US-2025-100136,2025-11-27,East,Home Office,Technology,Phones,631.74,95.25,7
+US-2025-100137,2025-07-13,East,Home Office,Office Supplies,Storage,315.19,38.28,5
+US-2025-100138,2025-11-15,Central,Consumer,Furniture,Chairs,148.37,0.15,5
+US-2025-100139,2025-07-12,East,Home Office,Furniture,Bookcases,583.89,42.28,8
+US-2025-100140,2025-09-21,West,Corporate,Office Supplies,Paper,836.69,209.02,9
+US-2025-100141,2025-10-01,Central,Home Office,Furniture,Chairs,753.05,124.04,5
+US-2025-100142,2025-09-27,Central,Corporate,Furniture,Tables,410.26,-161.33,7
+US-2025-100143,2025-01-15,Central,Consumer,Technology,Accessories,726.85,20.43,4
+US-2025-100144,2025-03-22,East,Corporate,Technology,Copiers,992.01,85.75,9
+US-2025-100145,2025-03-01,East,Consumer,Furniture,Chairs,549.9,187.47,7
+US-2025-100146,2025-11-17,West,Consumer,Furniture,Bookcases,406.71,43.91,7
+US-2025-100147,2025-02-03,East,Corporate,Furniture,Tables,890.76,-313.23,3
+US-2025-100148,2025-04-08,South,Home Office,Office Supplies,Paper,75.32,-7.33,8
+US-2025-100149,2025-03-18,Central,Corporate,Office Supplies,Binders,110.21,2.56,8
+US-2025-100150,2025-01-11,West,Home Office,Office Supplies,Paper,853.95,-72.18,8
+US-2025-100151,2025-06-29,South,Home Office,Technology,Copiers,513.1,38.18,2
+US-2025-100152,2025-12-31,West,Home Office,Furniture,Chairs,495.96,-57.36,9
+US-2025-100153,2025-03-14,East,Home Office,Furniture,Chairs,360.87,-23.66,5
+US-2025-100154,2025-02-08,Central,Corporate,Furniture,Chairs,536.76,17.42,2
+US-2025-100155,2025-06-09,Central,Consumer,Furniture,Tables,658.67,21.98,9
+US-2025-100156,2025-05-09,East,Home Office,Office Supplies,Paper,266.96,34.11,8
+US-2025-100157,2025-12-29,Central,Home Office,Furniture,Bookcases,654.51,-12.89,8
+US-2025-100158,2025-02-26,East,Home Office,Furniture,Bookcases,321.08,-5.54,4
+US-2025-100159,2025-11-23,West,Consumer,Technology,Accessories,1087.09,215.88,6
+US-2025-100160,2025-12-12,South,Consumer,Office Supplies,Paper,391.16,60.38,6
+US-2025-100161,2025-07-03,South,Consumer,Office Supplies,Paper,373.96,50.37,6
+US-2025-100162,2025-01-06,South,Corporate,Office Supplies,Paper,502.08,121.08,7
+US-2025-100163,2025-10-04,South,Home Office,Technology,Accessories,45.21,9.25,1
+US-2025-100164,2025-12-30,West,Corporate,Furniture,Tables,312.79,-78.19,1
+US-2025-100165,2025-12-29,East,Corporate,Technology,Phones,155.86,-9.62,9
+US-2025-100166,2025-11-13,South,Consumer,Technology,Accessories,626.11,67.67,5
+US-2025-100167,2025-02-04,East,Consumer,Technology,Copiers,390.47,77.07,2
+US-2025-100168,2025-01-13,South,Corporate,Technology,Phones,456.86,121.97,7
+US-2025-100169,2025-01-27,Central,Corporate,Office Supplies,Storage,641.31,45.27,5
+US-2025-100170,2025-11-07,East,Corporate,Furniture,Bookcases,922.92,108.99,1
+US-2025-100171,2025-11-22,West,Home Office,Furniture,Bookcases,478.85,42.62,3
+US-2025-100172,2025-05-19,West,Home Office,Furniture,Chairs,900.88,58.45,8
+US-2025-100173,2025-06-01,East,Consumer,Technology,Copiers,281.81,70.64,2
+US-2025-100174,2025-02-08,East,Consumer,Furniture,Tables,96.59,-19.76,6
+US-2025-100175,2025-02-17,West,Corporate,Furniture,Bookcases,265.74,5.34,9
+US-2025-100176,2025-06-28,West,Consumer,Office Supplies,Binders,783.67,64.25,3
+US-2025-100177,2025-05-09,East,Home Office,Technology,Accessories,425.56,-38.37,8
+US-2025-100178,2025-08-31,Central,Consumer,Technology,Phones,936.84,298.88,3
+US-2025-100179,2025-04-26,Central,Home Office,Office Supplies,Binders,756.83,17.08,5
+US-2025-100180,2025-08-21,South,Corporate,Office Supplies,Binders,578.97,-42.89,2
+US-2025-100181,2025-08-01,East,Consumer,Furniture,Chairs,272.16,51.42,8
+US-2025-100182,2025-01-25,Central,Consumer,Furniture,Tables,114.95,8.15,5
+US-2025-100183,2025-01-06,South,Consumer,Technology,Phones,667.14,212.53,6
+US-2025-100184,2025-09-13,East,Home Office,Technology,Accessories,1337.44,-137.9,7
+US-2025-100185,2025-12-13,Central,Home Office,Office Supplies,Storage,477.43,-61.41,8
+US-2025-100186,2025-07-05,South,Consumer,Office Supplies,Paper,52.37,9.19,9
+US-2025-100187,2025-10-03,Central,Consumer,Office Supplies,Storage,409.54,101.89,1
+US-2025-100188,2025-08-30,South,Consumer,Furniture,Bookcases,46.22,6.9,8
+US-2025-100189,2025-03-04,South,Corporate,Technology,Accessories,924.6,259.86,2
+US-2025-100190,2025-04-20,East,Corporate,Furniture,Chairs,646.69,-7.03,1
+US-2025-100191,2025-03-30,West,Corporate,Technology,Accessories,1748.63,152.68,3
+US-2025-100192,2025-08-09,East,Corporate,Office Supplies,Storage,313.9,1.22,7
+US-2025-100193,2025-07-08,South,Consumer,Office Supplies,Paper,137.77,6.65,9
+US-2025-100194,2025-06-19,South,Home Office,Furniture,Tables,616.72,-173.06,2
+US-2025-100195,2025-04-23,East,Home Office,Office Supplies,Paper,202.66,16.21,4
+US-2025-100196,2025-05-21,Central,Home Office,Office Supplies,Paper,365.95,28.3,5
+US-2025-100197,2025-08-26,West,Corporate,Office Supplies,Binders,328.47,96.8,2
+US-2025-100198,2025-02-16,South,Consumer,Office Supplies,Storage,279.8,2.02,5
+US-2025-100199,2025-06-16,West,Home Office,Office Supplies,Binders,598.73,-51.04,6
+US-2025-100200,2025-05-26,East,Consumer,Furniture,Bookcases,673.85,-96.52,5
+US-2025-100201,2025-02-08,South,Home Office,Furniture,Tables,620.09,-15.31,3
+US-2025-100202,2025-02-17,Central,Home Office,Furniture,Tables,22.91,-4.69,6
+US-2025-100203,2025-02-05,South,Consumer,Office Supplies,Storage,18.69,2.42,1
+US-2025-100204,2025-09-08,West,Consumer,Office Supplies,Paper,723.19,-101.73,1
+US-2025-100205,2025-03-21,West,Corporate,Furniture,Chairs,243.63,61.34,4
+US-2025-100206,2025-06-09,East,Home Office,Technology,Copiers,736.77,-37.05,9
+US-2025-100207,2025-08-04,South,Home Office,Furniture,Bookcases,339.91,79.69,7
+US-2025-100208,2025-02-11,West,Consumer,Technology,Copiers,745.25,20.67,3
+US-2025-100209,2025-06-06,West,Consumer,Technology,Accessories,462.9,-60.42,4
+US-2025-100210,2025-08-15,West,Consumer,Technology,Copiers,333.32,-17.19,7
+US-2025-100211,2025-10-30,South,Consumer,Technology,Copiers,917.67,-55.85,1
+US-2025-100212,2025-02-17,West,Consumer,Technology,Copiers,815.1,86.07,8
+US-2025-100213,2025-03-30,South,Home Office,Technology,Copiers,797.82,121.09,3
+US-2025-100214,2025-04-08,East,Consumer,Office Supplies,Storage,87.38,25.23,8
+US-2025-100215,2025-08-03,West,Consumer,Technology,Copiers,1244.32,-123.96,6
+US-2025-100216,2025-02-24,West,Corporate,Technology,Accessories,1553.78,228.7,8
+US-2025-100217,2025-05-14,West,Home Office,Office Supplies,Paper,542.88,11.08,6
+US-2025-100218,2025-06-18,West,Consumer,Furniture,Tables,1089.89,-310.72,7
+US-2025-100219,2025-06-12,South,Home Office,Furniture,Bookcases,104.29,31.47,8
+US-2025-100220,2025-03-02,East,Corporate,Furniture,Bookcases,723.67,-58.57,3
+US-2025-100221,2025-07-28,South,Corporate,Furniture,Chairs,515.65,115.85,3
+US-2025-100222,2025-03-31,East,Consumer,Office Supplies,Binders,983.45,274.7,9
+US-2025-100223,2025-01-14,East,Home Office,Office Supplies,Storage,322.2,53.38,5
+US-2025-100224,2025-12-21,East,Consumer,Furniture,Chairs,526.87,169.88,6
+US-2025-100225,2025-10-05,West,Home Office,Furniture,Chairs,989.73,171.85,9
+US-2025-100226,2025-10-02,South,Consumer,Technology,Copiers,142.78,-12.82,2
+US-2025-100227,2025-04-02,East,Corporate,Technology,Accessories,1003.52,21.54,6
+US-2025-100228,2025-03-13,South,Corporate,Office Supplies,Binders,622.2,53.08,7
+US-2025-100229,2025-10-29,West,Corporate,Office Supplies,Storage,171.89,33.37,2
+US-2025-100230,2025-02-01,East,Corporate,Technology,Phones,853.91,19.41,1
+US-2025-100231,2025-12-20,West,Home Office,Technology,Phones,415.36,21.72,7
+US-2025-100232,2025-07-22,Central,Corporate,Technology,Copiers,292.24,27.87,6
+US-2025-100233,2025-03-03,West,Consumer,Technology,Phones,1569.54,350.14,1
+US-2025-100234,2025-08-31,South,Consumer,Technology,Accessories,499.94,-57.23,2
+US-2025-100235,2025-08-02,East,Corporate,Furniture,Chairs,249.92,8.24,9
+US-2025-100236,2025-10-07,Central,Consumer,Technology,Accessories,1062.61,188.82,2
+US-2025-100237,2025-04-10,Central,Home Office,Furniture,Chairs,98.02,-10.97,1
+US-2025-100238,2025-03-23,East,Consumer,Technology,Copiers,37.91,-3.63,6
+US-2025-100239,2025-11-30,West,Corporate,Technology,Copiers,975.94,-79.44,2
+US-2025-100240,2025-03-10,East,Consumer,Furniture,Chairs,571.24,160.23,9
+US-2025-100241,2025-03-09,South,Home Office,Office Supplies,Storage,54.54,-1.99,2
+US-2025-100242,2025-09-25,East,Home Office,Technology,Phones,1493.52,300.09,7
+US-2025-100243,2025-05-29,East,Home Office,Furniture,Bookcases,471.19,22.54,1
+US-2025-100244,2025-12-19,Central,Corporate,Furniture,Chairs,231.07,10.1,5
+US-2025-100245,2025-02-06,East,Home Office,Furniture,Chairs,754.11,49.19,3
+US-2025-100246,2025-07-25,South,Consumer,Furniture,Tables,464.88,-82.61,5
+US-2025-100247,2025-01-27,South,Home Office,Technology,Phones,626.75,28.6,6
+US-2025-100248,2025-08-21,Central,Consumer,Technology,Copiers,714.78,23.05,7
+US-2025-100249,2025-04-15,West,Home Office,Furniture,Tables,316.45,-91.76,8
+US-2025-100250,2025-01-06,East,Home Office,Furniture,Bookcases,839.19,69.08,7
+US-2025-100251,2025-01-23,Central,Consumer,Furniture,Tables,315.84,-31.92,8
+US-2025-100252,2025-03-07,East,Corporate,Technology,Copiers,681.25,-19.02,7
+US-2025-100253,2025-07-15,West,Corporate,Furniture,Tables,452.57,-46.91,2
+US-2025-100254,2025-09-26,South,Consumer,Office Supplies,Paper,350.48,34.97,1
+US-2025-100255,2025-10-25,East,Home Office,Office Supplies,Paper,187.45,-11.18,9
+US-2025-100256,2025-11-12,South,Corporate,Furniture,Bookcases,218.66,46.58,2
+US-2025-100257,2025-09-13,West,Corporate,Technology,Phones,1410.0,153.43,1
+US-2025-100258,2025-01-07,West,Corporate,Technology,Accessories,1469.55,-97.63,1
+US-2025-100259,2025-11-13,West,Home Office,Office Supplies,Paper,1080.11,-83.83,5
+US-2025-100260,2025-07-14,Central,Home Office,Technology,Copiers,645.32,-80.28,3
+US-2025-100261,2025-08-13,Central,Corporate,Furniture,Chairs,63.9,5.34,7
+US-2025-100262,2025-08-10,South,Home Office,Furniture,Chairs,116.01,-5.35,8
+US-2025-100263,2025-12-24,South,Corporate,Furniture,Bookcases,111.5,-0.75,4
+US-2025-100264,2025-12-03,Central,Corporate,Furniture,Tables,497.47,-48.71,8
+US-2025-100265,2025-10-30,East,Home Office,Office Supplies,Paper,856.31,-101.43,1
+US-2025-100266,2025-12-28,East,Corporate,Technology,Phones,147.94,31.76,9
+US-2025-100267,2025-02-15,South,Consumer,Office Supplies,Binders,615.93,-41.15,9
+US-2025-100268,2025-09-08,East,Consumer,Technology,Phones,1395.28,-18.76,6
+US-2025-100269,2025-07-11,West,Consumer,Office Supplies,Binders,727.12,169.95,3
+US-2025-100270,2025-06-14,West,Corporate,Furniture,Tables,213.2,-44.21,9
+US-2025-100271,2025-06-01,East,Corporate,Furniture,Chairs,493.92,25.73,3
+US-2025-100272,2025-06-11,South,Consumer,Technology,Accessories,443.45,92.98,2
+US-2025-100273,2025-07-30,West,Consumer,Furniture,Tables,698.09,-15.57,7
+US-2025-100274,2025-01-24,Central,Consumer,Office Supplies,Storage,229.67,50.45,8
+US-2025-100275,2025-10-06,Central,Consumer,Office Supplies,Storage,258.94,78.33,1
+US-2025-100276,2025-08-08,West,Consumer,Technology,Phones,152.61,36.78,5
+US-2025-100277,2025-09-19,West,Home Office,Office Supplies,Storage,941.36,280.61,2
+US-2025-100278,2025-01-08,Central,Consumer,Office Supplies,Storage,712.24,43.07,1
+US-2025-100279,2025-12-31,West,Corporate,Office Supplies,Storage,1080.16,287.17,5
+US-2025-100280,2025-09-07,Central,Corporate,Furniture,Chairs,291.19,100.86,4
+US-2025-100281,2025-10-20,East,Home Office,Technology,Phones,1070.68,27.35,1
+US-2025-100282,2025-01-31,East,Corporate,Office Supplies,Binders,554.48,56.57,6
+US-2025-100283,2025-04-28,East,Consumer,Technology,Copiers,312.32,28.99,7
+US-2025-100284,2025-09-26,South,Corporate,Office Supplies,Paper,540.16,-55.07,5
+US-2025-100285,2025-09-18,East,Consumer,Furniture,Tables,315.77,15.93,6
+US-2025-100286,2025-07-07,Central,Home Office,Office Supplies,Storage,50.8,1.99,6
+US-2025-100287,2025-05-20,South,Corporate,Office Supplies,Binders,479.16,-28.45,7
+US-2025-100288,2025-11-27,West,Corporate,Office Supplies,Paper,800.67,-15.33,7
+US-2025-100289,2025-07-30,West,Home Office,Technology,Copiers,910.88,28.09,5
+US-2025-100290,2025-12-03,East,Consumer,Furniture,Bookcases,395.43,63.54,5
+US-2025-100291,2025-02-11,East,Corporate,Technology,Phones,757.3,246.75,4
+US-2025-100292,2025-04-10,West,Home Office,Furniture,Tables,531.24,-94.69,9
+US-2025-100293,2025-12-23,South,Corporate,Office Supplies,Storage,58.55,-8.46,2
+US-2025-100294,2025-01-24,South,Corporate,Technology,Phones,664.28,116.67,6
+US-2025-100295,2025-10-26,South,Home Office,Technology,Phones,983.38,-54.87,6
+US-2025-100296,2025-01-31,Central,Home Office,Office Supplies,Paper,755.87,-71.55,8
+US-2025-100297,2025-03-16,Central,Home Office,Furniture,Tables,414.54,24.65,5
+US-2025-100298,2025-01-07,South,Consumer,Furniture,Tables,61.86,2.06,9
+US-2025-100299,2025-10-11,Central,Consumer,Office Supplies,Paper,112.98,38.65,3
+US-2025-100300,2025-08-16,Central,Home Office,Office Supplies,Paper,587.9,148.1,2
+US-2025-100301,2025-10-20,South,Home Office,Furniture,Bookcases,330.05,34.93,7
+US-2025-100302,2025-11-28,West,Corporate,Furniture,Bookcases,529.23,150.53,6
+US-2025-100303,2025-07-04,South,Corporate,Furniture,Tables,278.21,-7.23,9
+US-2025-100304,2025-12-25,East,Home Office,Office Supplies,Storage,700.43,213.43,7
+US-2025-100305,2025-06-23,South,Consumer,Technology,Accessories,560.74,54.37,2
+US-2025-100306,2025-08-22,South,Consumer,Technology,Copiers,788.47,228.36,8
+US-2025-100307,2025-11-21,South,Corporate,Furniture,Bookcases,567.18,-28.57,1
+US-2025-100308,2025-03-29,East,Consumer,Technology,Phones,145.95,-15.6,1
+US-2025-100309,2025-01-22,East,Corporate,Furniture,Tables,351.85,-85.71,8
+US-2025-100310,2025-10-28,South,Consumer,Office Supplies,Paper,441.45,11.62,1
+US-2025-100311,2025-11-09,West,Consumer,Furniture,Bookcases,1008.02,-60.93,9
+US-2025-100312,2025-05-24,East,Corporate,Technology,Copiers,172.97,15.74,2
+US-2025-100313,2025-10-22,Central,Consumer,Technology,Copiers,1056.11,-95.79,8
+US-2025-100314,2025-12-23,South,Corporate,Technology,Copiers,421.16,99.42,8
+US-2025-100315,2025-03-26,West,Corporate,Furniture,Tables,239.94,-69.1,6
+US-2025-100316,2025-08-18,East,Corporate,Office Supplies,Paper,485.38,-17.87,5
+US-2025-100317,2025-08-01,West,Corporate,Furniture,Chairs,931.57,126.4,3
+US-2025-100318,2025-04-19,East,Consumer,Furniture,Chairs,825.45,270.97,6
+US-2025-100319,2025-05-29,West,Home Office,Office Supplies,Binders,1035.9,-102.94,6
+US-2025-100320,2025-10-02,South,Corporate,Furniture,Tables,59.13,-0.52,7
+US-2025-100321,2025-12-21,East,Consumer,Office Supplies,Paper,94.22,-7.71,1
+US-2025-100322,2025-02-10,Central,Home Office,Office Supplies,Binders,312.79,92.19,7
+US-2025-100323,2025-05-01,East,Corporate,Furniture,Bookcases,973.76,19.16,1
+US-2025-100324,2025-03-16,East,Home Office,Furniture,Chairs,68.93,14.2,7
+US-2025-100325,2025-06-27,Central,Consumer,Office Supplies,Storage,244.99,-34.34,9
+US-2025-100326,2025-08-20,East,Consumer,Technology,Phones,1550.64,254.22,5
+US-2025-100327,2025-04-02,South,Home Office,Furniture,Tables,607.32,-106.44,3
+US-2025-100328,2025-01-25,East,Consumer,Furniture,Bookcases,541.12,172.23,3
+US-2025-100329,2025-09-23,South,Home Office,Office Supplies,Paper,171.65,43.3,9
+US-2025-100330,2025-01-01,East,Corporate,Technology,Phones,813.64,-13.22,1
+US-2025-100331,2025-07-09,South,Corporate,Technology,Accessories,147.74,37.67,4
+US-2025-100332,2025-05-26,Central,Corporate,Furniture,Bookcases,641.72,158.53,5
+US-2025-100333,2025-10-17,Central,Corporate,Office Supplies,Paper,76.66,25.3,6
+US-2025-100334,2025-10-04,East,Consumer,Office Supplies,Storage,849.03,125.94,8
+US-2025-100335,2025-04-08,West,Home Office,Office Supplies,Binders,807.36,-84.28,9
+US-2025-100336,2025-03-15,South,Corporate,Technology,Phones,667.63,49.29,9
+US-2025-100337,2025-06-17,West,Home Office,Furniture,Tables,598.96,-117.68,2
+US-2025-100338,2025-06-24,East,Consumer,Office Supplies,Storage,480.2,-44.65,9
+US-2025-100339,2025-01-19,East,Home Office,Furniture,Tables,337.58,-95.1,8
+US-2025-100340,2025-07-16,East,Consumer,Technology,Accessories,47.67,-6.01,8
+US-2025-100341,2025-06-17,South,Consumer,Technology,Phones,437.38,113.78,8
+US-2025-100342,2025-05-17,Central,Consumer,Technology,Copiers,787.31,186.55,2
+US-2025-100343,2025-07-27,West,Consumer,Furniture,Bookcases,786.3,74.62,5
+US-2025-100344,2025-06-14,East,Consumer,Technology,Copiers,1507.52,-148.9,2
+US-2025-100345,2025-07-03,South,Home Office,Office Supplies,Paper,312.29,22.97,3
+US-2025-100346,2025-02-14,South,Home Office,Technology,Copiers,576.4,177.53,9
+US-2025-100347,2025-03-22,Central,Home Office,Office Supplies,Storage,593.53,65.08,1
+US-2025-100348,2025-02-14,South,Corporate,Furniture,Chairs,385.35,-14.68,6
+US-2025-100349,2025-07-13,South,Corporate,Technology,Copiers,68.79,3.26,7
+US-2025-100350,2025-05-04,Central,Corporate,Furniture,Tables,461.8,31.99,7
+US-2025-100351,2025-02-01,West,Consumer,Furniture,Bookcases,524.67,34.63,5
+US-2025-100352,2025-08-03,East,Home Office,Technology,Copiers,521.41,105.83,7
+US-2025-100353,2025-08-13,West,Corporate,Technology,Copiers,1223.58,-32.15,5
+US-2025-100354,2025-09-01,South,Home Office,Furniture,Chairs,216.87,-1.94,4
+US-2025-100355,2025-04-30,East,Corporate,Office Supplies,Binders,465.9,107.85,7
+US-2025-100356,2025-02-17,East,Consumer,Technology,Copiers,433.16,-44.44,9
+US-2025-100357,2025-01-27,East,Corporate,Technology,Phones,773.04,-44.9,5
+US-2025-100358,2025-02-27,West,Corporate,Office Supplies,Storage,1018.48,5.04,4
+US-2025-100359,2025-08-28,East,Home Office,Technology,Copiers,1068.39,96.84,5
+US-2025-100360,2025-02-13,Central,Corporate,Office Supplies,Storage,167.01,43.09,4
+US-2025-100361,2025-09-12,South,Home Office,Furniture,Tables,69.32,-21.24,3
+US-2025-100362,2025-08-08,Central,Corporate,Furniture,Bookcases,258.35,87.45,2
+US-2025-100363,2025-01-21,South,Consumer,Furniture,Tables,93.3,-17.95,2
+US-2025-100364,2025-04-06,East,Corporate,Technology,Accessories,1302.79,57.92,8
+US-2025-100365,2025-08-07,East,Home Office,Furniture,Tables,657.53,-134.09,8
+US-2025-100366,2025-02-06,West,Corporate,Furniture,Bookcases,747.31,173.27,5
+US-2025-100367,2025-01-16,West,Home Office,Office Supplies,Storage,765.81,265.43,4
+US-2025-100368,2025-05-29,South,Home Office,Office Supplies,Storage,596.15,156.68,7
+US-2025-100369,2025-01-06,East,Consumer,Technology,Copiers,589.89,100.81,5
+US-2025-100370,2025-10-08,South,Consumer,Technology,Accessories,328.68,90.01,8
+US-2025-100371,2025-01-19,East,Corporate,Furniture,Bookcases,356.41,10.43,4
+US-2025-100372,2025-03-27,South,Consumer,Furniture,Tables,22.93,-7.46,7
+US-2025-100373,2025-08-05,West,Corporate,Furniture,Tables,1056.9,-140.08,4
+US-2025-100374,2025-08-30,Central,Consumer,Technology,Accessories,738.51,-93.64,9
+US-2025-100375,2025-01-23,South,Corporate,Furniture,Chairs,460.39,41.62,8
+US-2025-100376,2025-07-19,West,Home Office,Furniture,Chairs,1075.9,-88.99,3
+US-2025-100377,2025-11-27,Central,Consumer,Office Supplies,Binders,102.87,7.55,8
+US-2025-100378,2025-03-09,South,Home Office,Furniture,Tables,470.23,-53.37,5
+US-2025-100379,2025-01-13,Central,Home Office,Technology,Phones,224.17,38.77,5
+US-2025-100380,2025-08-05,East,Consumer,Furniture,Chairs,905.62,125.33,5
+US-2025-100381,2025-03-21,East,Consumer,Furniture,Chairs,558.13,143.0,7
+US-2025-100382,2025-02-21,East,Home Office,Office Supplies,Storage,782.86,33.37,7
+US-2025-100383,2025-05-01,East,Corporate,Technology,Phones,440.42,-41.22,3
+US-2025-100384,2025-01-17,Central,Corporate,Furniture,Bookcases,353.8,-17.32,1
+US-2025-100385,2025-08-21,East,Corporate,Office Supplies,Storage,497.3,81.46,8
+US-2025-100386,2025-12-21,Central,Consumer,Office Supplies,Storage,379.27,-41.25,1
+US-2025-100387,2025-11-10,West,Home Office,Technology,Phones,1754.96,-146.09,4
+US-2025-100388,2025-09-13,West,Corporate,Furniture,Tables,896.32,82.25,2
+US-2025-100389,2025-10-01,East,Home Office,Technology,Copiers,1244.43,-87.23,8
+US-2025-100390,2025-05-08,East,Consumer,Technology,Accessories,449.4,125.0,2
+US-2025-100391,2025-06-09,South,Consumer,Technology,Accessories,567.73,-10.57,4
+US-2025-100392,2025-03-24,South,Consumer,Furniture,Chairs,33.66,-3.52,3
+US-2025-100393,2025-03-17,West,Consumer,Office Supplies,Paper,446.87,28.65,6
+US-2025-100394,2025-03-19,Central,Home Office,Office Supplies,Storage,594.95,-19.61,3
+US-2025-100395,2025-02-15,Central,Corporate,Technology,Copiers,831.87,202.09,7
+US-2025-100396,2025-08-06,Central,Corporate,Furniture,Tables,64.85,5.16,3
+US-2025-100397,2025-02-21,Central,Consumer,Office Supplies,Binders,168.39,29.61,5
+US-2025-100398,2025-06-22,South,Home Office,Office Supplies,Binders,41.16,-2.71,9
+US-2025-100399,2025-04-07,East,Consumer,Office Supplies,Binders,481.76,18.07,3
+US-2025-100400,2025-05-31,Central,Home Office,Technology,Phones,1182.52,-77.1,3
+US-2025-100401,2025-05-07,Central,Consumer,Furniture,Chairs,758.33,218.6,4
+US-2025-100402,2025-10-09,Central,Consumer,Furniture,Bookcases,370.08,-36.3,6
+US-2025-100403,2025-07-23,South,Consumer,Office Supplies,Storage,480.36,70.06,6
+US-2025-100404,2025-03-02,East,Home Office,Technology,Accessories,1365.35,41.92,2
+US-2025-100405,2025-10-10,West,Home Office,Technology,Copiers,937.12,184.15,6
+US-2025-100406,2025-08-25,Central,Consumer,Technology,Phones,872.04,259.01,2
+US-2025-100407,2025-03-01,South,Corporate,Technology,Phones,861.58,162.93,9
+US-2025-100408,2025-12-23,Central,Corporate,Furniture,Tables,277.49,-24.19,2
+US-2025-100409,2025-01-15,Central,Home Office,Furniture,Chairs,406.95,-22.56,9
+US-2025-100410,2025-04-23,East,Home Office,Office Supplies,Storage,864.57,292.43,5
+US-2025-100411,2025-02-04,West,Corporate,Office Supplies,Binders,675.72,63.89,8
+US-2025-100412,2025-05-30,Central,Consumer,Office Supplies,Storage,507.2,-67.47,5
+US-2025-100413,2025-06-23,West,Home Office,Office Supplies,Binders,403.67,117.35,1
+US-2025-100414,2025-06-11,West,Consumer,Office Supplies,Binders,946.33,229.11,1
+US-2025-100415,2025-03-21,West,Consumer,Technology,Accessories,558.34,63.45,4
+US-2025-100416,2025-03-06,Central,Corporate,Technology,Copiers,484.28,-48.58,8
+US-2025-100417,2025-07-13,South,Consumer,Technology,Copiers,249.71,10.39,1
+US-2025-100418,2025-06-15,West,Consumer,Technology,Phones,74.51,20.71,1
+US-2025-100419,2025-11-27,South,Consumer,Technology,Accessories,797.85,166.45,6
+US-2025-100420,2025-01-07,East,Consumer,Furniture,Bookcases,859.19,251.8,8
+US-2025-100421,2025-06-04,East,Home Office,Furniture,Chairs,749.26,-49.2,6
+US-2025-100422,2025-05-06,Central,Home Office,Office Supplies,Binders,224.75,-17.81,2
+US-2025-100423,2025-12-20,East,Home Office,Technology,Phones,925.12,-124.69,3
+US-2025-100424,2025-03-01,South,Home Office,Furniture,Bookcases,179.16,29.67,7
+US-2025-100425,2025-07-21,Central,Consumer,Office Supplies,Binders,311.76,95.14,4
+US-2025-100426,2025-11-19,East,Corporate,Furniture,Bookcases,722.94,174.93,7
+US-2025-100427,2025-10-17,South,Corporate,Office Supplies,Storage,235.46,-23.66,7
+US-2025-100428,2025-08-28,Central,Consumer,Technology,Phones,159.99,-20.77,6
+US-2025-100429,2025-01-30,South,Consumer,Furniture,Tables,620.61,-233.97,9
+US-2025-100430,2025-04-23,East,Corporate,Technology,Phones,483.81,-6.5,3
+US-2025-100431,2025-10-31,South,Corporate,Furniture,Chairs,316.38,22.96,5
+US-2025-100432,2025-02-22,West,Corporate,Furniture,Chairs,352.62,-14.98,7
+US-2025-100433,2025-05-20,Central,Home Office,Office Supplies,Storage,73.25,-4.1,1
+US-2025-100434,2025-10-11,South,Home Office,Furniture,Chairs,116.03,33.63,1
+US-2025-100435,2025-05-02,Central,Corporate,Furniture,Bookcases,571.89,157.75,4
+US-2025-100436,2025-07-30,Central,Home Office,Furniture,Tables,339.26,-110.19,6
+US-2025-100437,2025-08-08,South,Home Office,Technology,Phones,228.11,8.4,2
+US-2025-100438,2025-12-29,South,Consumer,Furniture,Tables,517.53,-205.31,7
+US-2025-100439,2025-11-29,Central,Home Office,Technology,Accessories,553.64,-21.37,7
+US-2025-100440,2025-03-11,South,Consumer,Furniture,Chairs,333.5,1.89,8
+US-2025-100441,2025-04-21,South,Corporate,Office Supplies,Paper,518.07,113.95,3
+US-2025-100442,2025-04-17,South,Corporate,Furniture,Tables,254.73,-3.84,7
+US-2025-100443,2025-12-25,West,Home Office,Technology,Phones,905.23,-67.15,7
+US-2025-100444,2025-09-06,West,Consumer,Technology,Phones,890.08,5.89,1
+US-2025-100445,2025-05-18,Central,Corporate,Technology,Copiers,772.61,95.36,9
+US-2025-100446,2025-12-12,Central,Home Office,Furniture,Bookcases,144.79,34.07,3
+US-2025-100447,2025-11-13,Central,Consumer,Technology,Accessories,425.4,144.45,3
+US-2025-100448,2025-11-11,East,Corporate,Furniture,Bookcases,748.67,-73.52,2
+US-2025-100449,2025-03-13,West,Corporate,Furniture,Bookcases,1099.46,-158.69,8
+US-2025-100450,2025-02-16,Central,Corporate,Technology,Phones,1114.59,387.88,5
+US-2025-100451,2025-12-23,South,Home Office,Technology,Phones,299.29,90.57,6
+US-2025-100452,2025-01-17,South,Corporate,Furniture,Tables,489.3,-93.15,6
+US-2025-100453,2025-08-02,Central,Corporate,Office Supplies,Storage,258.88,59.16,3
+US-2025-100454,2025-07-31,East,Home Office,Technology,Accessories,1172.2,51.71,3
+US-2025-100455,2025-06-03,Central,Home Office,Office Supplies,Storage,301.22,12.28,6
+US-2025-100456,2025-06-08,West,Home Office,Furniture,Chairs,250.3,-7.4,4
+US-2025-100457,2025-08-22,South,Home Office,Office Supplies,Paper,158.13,35.14,9
+US-2025-100458,2025-11-26,West,Corporate,Technology,Copiers,587.32,48.36,7
+US-2025-100459,2025-09-28,Central,Consumer,Office Supplies,Paper,127.66,34.6,9
+US-2025-100460,2025-02-08,West,Home Office,Technology,Phones,1685.71,304.72,8
+US-2025-100461,2025-05-19,West,Home Office,Technology,Phones,62.48,12.25,1
+US-2025-100462,2025-03-21,West,Home Office,Furniture,Tables,867.78,-233.66,4
+US-2025-100463,2025-01-06,West,Home Office,Office Supplies,Storage,222.41,-1.67,1
+US-2025-100464,2025-05-26,Central,Home Office,Technology,Copiers,612.21,-5.22,9
+US-2025-100465,2025-10-27,South,Corporate,Technology,Copiers,953.94,-105.4,5
+US-2025-100466,2025-05-22,South,Corporate,Furniture,Bookcases,488.77,-46.88,4
+US-2025-100467,2025-06-24,West,Corporate,Furniture,Tables,275.05,-109.01,5
+US-2025-100468,2025-11-22,West,Corporate,Office Supplies,Binders,118.43,-11.99,1
+US-2025-100469,2025-01-05,Central,Corporate,Furniture,Tables,268.21,-29.49,3
+US-2025-100470,2025-11-19,West,Consumer,Furniture,Tables,611.57,50.19,2
+US-2025-100471,2025-09-02,West,Home Office,Technology,Copiers,229.94,61.24,8
+US-2025-100472,2025-07-24,Central,Corporate,Office Supplies,Paper,579.3,-72.36,2
+US-2025-100473,2025-09-23,South,Corporate,Office Supplies,Paper,616.34,104.65,7
+US-2025-100474,2025-11-16,West,Home Office,Technology,Phones,1719.55,-16.28,2
+US-2025-100475,2025-07-02,South,Corporate,Office Supplies,Paper,70.74,-9.85,7
+US-2025-100476,2025-10-07,Central,Corporate,Office Supplies,Storage,620.91,194.02,7
+US-2025-100477,2025-09-25,West,Consumer,Office Supplies,Paper,574.77,142.88,4
+US-2025-100478,2025-02-28,East,Consumer,Furniture,Bookcases,983.4,-49.49,7
+US-2025-100479,2025-07-17,East,Consumer,Furniture,Tables,415.2,-36.86,5
+US-2025-100480,2025-05-13,West,Home Office,Office Supplies,Storage,1057.02,-97.38,7
+US-2025-100481,2025-02-02,West,Corporate,Office Supplies,Binders,325.72,85.36,8
+US-2025-100482,2025-10-31,Central,Consumer,Technology,Accessories,1178.97,240.96,4
+US-2025-100483,2025-05-17,East,Consumer,Furniture,Chairs,418.66,42.02,1
+US-2025-100484,2025-03-16,East,Corporate,Office Supplies,Binders,505.02,-54.77,3
+US-2025-100485,2025-11-11,Central,Home Office,Technology,Accessories,231.3,79.29,7
+US-2025-100486,2025-05-16,South,Consumer,Furniture,Chairs,158.93,39.11,8
+US-2025-100487,2025-01-11,West,Home Office,Furniture,Tables,966.86,-229.96,2
+US-2025-100488,2025-10-19,Central,Consumer,Technology,Copiers,300.72,69.57,4
+US-2025-100489,2025-01-21,West,Home Office,Technology,Phones,1621.64,162.09,1
+US-2025-100490,2025-02-23,Central,Home Office,Furniture,Tables,644.56,-101.5,7
+US-2025-100491,2025-12-26,South,Home Office,Office Supplies,Binders,86.95,12.68,6
+US-2025-100492,2025-04-21,West,Consumer,Office Supplies,Binders,304.98,-19.07,5
+US-2025-100493,2025-12-27,West,Consumer,Furniture,Tables,97.39,-16.98,6
+US-2025-100494,2025-03-28,East,Consumer,Office Supplies,Storage,307.07,-13.88,3
+US-2025-100495,2025-09-05,South,Consumer,Office Supplies,Paper,374.97,23.57,2
+US-2025-100496,2025-05-22,West,Corporate,Furniture,Tables,789.46,7.15,7
+US-2025-100497,2025-07-11,Central,Home Office,Technology,Phones,866.33,134.51,8
+US-2025-100498,2025-03-31,West,Consumer,Office Supplies,Binders,533.59,143.41,9
+US-2025-100499,2025-09-21,Central,Home Office,Technology,Copiers,997.37,11.27,7
+US-2025-100500,2025-12-08,West,Consumer,Office Supplies,Storage,57.3,18.91,3
+US-2025-100501,2025-08-04,East,Corporate,Technology,Phones,1467.29,-21.74,1
+US-2025-100502,2025-06-15,Central,Consumer,Furniture,Chairs,567.69,1.74,2
+US-2025-100503,2025-11-27,East,Consumer,Technology,Phones,1540.54,310.49,3
+US-2025-100504,2025-05-23,Central,Corporate,Technology,Phones,850.78,199.1,7
+US-2025-100505,2025-03-15,Central,Consumer,Technology,Accessories,252.01,51.03,3
+US-2025-100506,2025-07-11,East,Consumer,Furniture,Tables,312.63,25.8,2
+US-2025-100507,2025-09-16,East,Corporate,Technology,Accessories,262.05,-17.36,9
+US-2025-100508,2025-08-11,West,Home Office,Furniture,Bookcases,257.17,-5.84,6
+US-2025-100509,2025-10-21,East,Consumer,Technology,Accessories,96.38,-5.27,9
+US-2025-100510,2025-10-07,Central,Corporate,Furniture,Bookcases,220.41,31.76,6
+US-2025-100511,2025-10-26,Central,Consumer,Technology,Phones,671.5,-21.27,9
+US-2025-100512,2025-06-08,Central,Consumer,Technology,Copiers,401.19,102.56,4
+US-2025-100513,2025-07-18,East,Corporate,Technology,Copiers,699.16,118.93,7
+US-2025-100514,2025-02-16,West,Corporate,Furniture,Bookcases,595.33,118.48,9
+US-2025-100515,2025-05-26,Central,Corporate,Technology,Copiers,1100.34,174.32,1
+US-2025-100516,2025-12-28,South,Corporate,Furniture,Tables,99.9,-14.89,4
+US-2025-100517,2025-08-14,Central,Corporate,Technology,Phones,970.87,218.72,2
+US-2025-100518,2025-03-28,West,Consumer,Furniture,Chairs,729.77,47.6,4
+US-2025-100519,2025-05-13,East,Home Office,Technology,Phones,202.45,-3.88,5
+US-2025-100520,2025-02-20,Central,Home Office,Office Supplies,Storage,580.05,108.57,2
+US-2025-100521,2025-10-10,South,Corporate,Furniture,Tables,614.28,-177.89,5
+US-2025-100522,2025-05-10,East,Corporate,Technology,Accessories,1121.2,-3.76,6
+US-2025-100523,2025-07-15,East,Consumer,Furniture,Chairs,343.04,-50.04,1
+US-2025-100524,2025-02-21,West,Consumer,Technology,Accessories,1351.7,-129.93,4
+US-2025-100525,2025-08-29,East,Home Office,Office Supplies,Paper,841.54,-96.42,4
+US-2025-100526,2025-12-29,East,Home Office,Furniture,Bookcases,726.66,239.92,7
+US-2025-100527,2025-01-30,South,Corporate,Office Supplies,Paper,474.71,129.41,7
+US-2025-100528,2025-08-13,West,Home Office,Technology,Copiers,319.82,31.69,5
+US-2025-100529,2025-09-17,West,Corporate,Office Supplies,Paper,410.56,40.33,5
+US-2025-100530,2025-07-14,South,Consumer,Furniture,Bookcases,282.95,27.87,5
+US-2025-100531,2025-04-15,Central,Home Office,Office Supplies,Storage,107.95,-7.02,4
+US-2025-100532,2025-08-04,Central,Consumer,Office Supplies,Storage,73.34,8.78,6
+US-2025-100533,2025-04-11,Central,Consumer,Furniture,Tables,207.48,5.33,3
+US-2025-100534,2025-05-14,Central,Home Office,Office Supplies,Binders,561.1,-15.36,5
+US-2025-100535,2025-09-07,West,Home Office,Furniture,Chairs,1116.11,29.98,3
+US-2025-100536,2025-04-21,West,Corporate,Furniture,Chairs,55.98,9.84,3
+US-2025-100537,2025-06-08,South,Corporate,Technology,Phones,787.29,157.59,2
+US-2025-100538,2025-04-12,South,Home Office,Furniture,Bookcases,204.16,1.34,7
+US-2025-100539,2025-01-19,East,Home Office,Furniture,Tables,592.54,-107.74,9
+US-2025-100540,2025-06-03,South,Corporate,Technology,Phones,675.94,4.63,8
+US-2025-100541,2025-07-21,West,Consumer,Technology,Accessories,912.85,199.22,3
+US-2025-100542,2025-09-20,West,Corporate,Technology,Phones,1610.56,377.89,9
+US-2025-100543,2025-05-06,Central,Consumer,Technology,Phones,647.8,-53.5,6
+US-2025-100544,2025-06-10,Central,Corporate,Office Supplies,Storage,483.71,91.1,2
+US-2025-100545,2025-09-16,Central,Consumer,Furniture,Bookcases,296.39,4.69,3
+US-2025-100546,2025-06-06,Central,Home Office,Technology,Copiers,293.51,37.64,8
+US-2025-100547,2025-05-24,South,Home Office,Office Supplies,Storage,401.9,-9.56,2
+US-2025-100548,2025-02-03,Central,Home Office,Office Supplies,Storage,532.92,112.03,1
+US-2025-100549,2025-03-01,South,Consumer,Technology,Accessories,505.85,93.44,8
+US-2025-100550,2025-07-09,East,Corporate,Office Supplies,Storage,659.87,1.3,5
+US-2025-100551,2025-11-26,East,Corporate,Technology,Copiers,1567.67,36.39,3
+US-2025-100552,2025-08-15,West,Corporate,Furniture,Chairs,956.02,333.44,6
+US-2025-100553,2025-03-22,East,Corporate,Furniture,Chairs,154.3,44.44,9
+US-2025-100554,2025-04-21,East,Corporate,Office Supplies,Paper,133.94,37.35,9
+US-2025-100555,2025-03-26,East,Home Office,Office Supplies,Paper,280.38,11.15,9
+US-2025-100556,2025-12-18,Central,Corporate,Technology,Accessories,1105.93,130.22,4
+US-2025-100557,2025-12-01,East,Consumer,Office Supplies,Binders,441.18,-28.5,3
+US-2025-100558,2025-12-17,East,Consumer,Office Supplies,Binders,961.99,-127.81,8
+US-2025-100559,2025-12-23,West,Corporate,Furniture,Tables,552.93,-118.46,3
+US-2025-100560,2025-10-28,West,Corporate,Technology,Phones,863.68,86.51,4
+US-2025-100561,2025-01-22,East,Home Office,Office Supplies,Paper,84.83,-11.7,2
+US-2025-100562,2025-07-29,South,Home Office,Technology,Copiers,897.22,-3.65,4
+US-2025-100563,2025-02-04,Central,Home Office,Office Supplies,Binders,249.88,46.72,8
+US-2025-100564,2025-10-04,East,Corporate,Furniture,Chairs,272.47,16.11,4
+US-2025-100565,2025-06-20,West,Consumer,Technology,Copiers,557.0,68.69,9
+US-2025-100566,2025-04-10,West,Corporate,Technology,Copiers,1050.65,252.25,2
+US-2025-100567,2025-03-17,South,Corporate,Technology,Phones,883.99,-36.41,4
+US-2025-100568,2025-01-28,East,Home Office,Furniture,Bookcases,397.46,-54.2,6
+US-2025-100569,2025-07-04,South,Corporate,Furniture,Chairs,133.62,11.26,9
+US-2025-100570,2025-03-18,South,Corporate,Technology,Phones,558.36,99.28,2
+US-2025-100571,2025-06-03,East,Consumer,Technology,Copiers,820.96,214.26,8
+US-2025-100572,2025-05-20,East,Corporate,Furniture,Chairs,320.15,7.04,9
+US-2025-100573,2025-05-28,East,Consumer,Furniture,Bookcases,685.23,23.34,6
+US-2025-100574,2025-05-15,East,Consumer,Furniture,Chairs,489.08,168.58,1
+US-2025-100575,2025-05-30,East,Home Office,Furniture,Chairs,840.64,258.92,5
+US-2025-100576,2025-04-11,West,Home Office,Office Supplies,Storage,571.73,-57.99,8
+US-2025-100577,2025-06-11,Central,Consumer,Technology,Copiers,962.16,321.49,2
+US-2025-100578,2025-07-29,South,Corporate,Office Supplies,Binders,205.34,43.53,1
+US-2025-100579,2025-07-02,West,Consumer,Furniture,Tables,653.88,-207.86,7
+US-2025-100580,2025-08-25,Central,Consumer,Technology,Copiers,676.96,-28.77,9
+US-2025-100581,2025-10-06,East,Consumer,Office Supplies,Paper,312.82,51.41,9
+US-2025-100582,2025-11-18,Central,Home Office,Office Supplies,Storage,613.15,206.43,6
+US-2025-100583,2025-08-11,Central,Corporate,Furniture,Bookcases,59.1,-4.22,5
+US-2025-100584,2025-07-09,East,Corporate,Office Supplies,Binders,274.73,47.9,8
+US-2025-100585,2025-05-10,South,Consumer,Technology,Copiers,929.11,140.25,8
+US-2025-100586,2025-11-17,South,Home Office,Office Supplies,Paper,88.43,-10.08,8
+US-2025-100587,2025-12-16,Central,Home Office,Furniture,Chairs,369.93,41.97,4
+US-2025-100588,2025-03-01,East,Home Office,Technology,Accessories,685.46,200.04,9
+US-2025-100589,2025-03-28,East,Consumer,Furniture,Chairs,529.69,45.43,9
+US-2025-100590,2025-12-28,South,Corporate,Technology,Accessories,723.29,-40.0,6
+US-2025-100591,2025-07-02,East,Corporate,Furniture,Chairs,141.87,29.1,1
+US-2025-100592,2025-12-09,East,Corporate,Technology,Phones,920.25,90.61,8
+US-2025-100593,2025-07-08,South,Corporate,Furniture,Tables,547.3,-117.9,8
+US-2025-100594,2025-08-24,East,Consumer,Technology,Accessories,1243.83,82.83,2
+US-2025-100595,2025-02-04,South,Consumer,Office Supplies,Storage,546.47,153.15,6
+US-2025-100596,2025-04-12,West,Corporate,Technology,Accessories,1076.82,271.82,2
+US-2025-100597,2025-12-23,South,Corporate,Furniture,Tables,344.6,-88.72,6
+US-2025-100598,2025-09-03,West,Corporate,Technology,Phones,970.83,-51.3,9
+US-2025-100599,2025-02-02,West,Home Office,Office Supplies,Storage,149.21,-16.09,3
+US-2025-100600,2025-05-01,South,Consumer,Office Supplies,Storage,140.07,23.0,2
+US-2025-100601,2025-10-01,East,Corporate,Technology,Copiers,1337.86,-127.83,6
+US-2025-100602,2025-04-05,South,Home Office,Technology,Phones,73.5,3.18,4
+US-2025-100603,2025-12-17,East,Corporate,Furniture,Tables,350.94,3.78,3
+US-2025-100604,2025-06-19,West,Corporate,Technology,Phones,1596.14,-40.49,1
+US-2025-100605,2025-10-10,South,Home Office,Furniture,Chairs,304.41,-43.22,8
+US-2025-100606,2025-08-20,East,Consumer,Office Supplies,Binders,868.81,220.26,4
+US-2025-100607,2025-07-22,South,Consumer,Technology,Phones,103.76,-11.86,2
+US-2025-100608,2025-09-08,East,Corporate,Furniture,Chairs,295.16,96.45,6
+US-2025-100609,2025-09-12,South,Consumer,Office Supplies,Storage,565.95,-8.94,7
+US-2025-100610,2025-05-09,South,Consumer,Furniture,Bookcases,31.66,2.5,9
+US-2025-100611,2025-08-23,West,Corporate,Technology,Phones,584.86,150.74,3
+US-2025-100612,2025-06-26,Central,Consumer,Furniture,Bookcases,463.56,-42.5,8
+US-2025-100613,2025-03-30,Central,Consumer,Technology,Accessories,587.52,7.36,7
+US-2025-100614,2025-07-25,East,Corporate,Furniture,Chairs,744.9,235.89,5
+US-2025-100615,2025-09-04,Central,Consumer,Technology,Copiers,66.34,8.42,9
+US-2025-100616,2025-08-14,East,Corporate,Technology,Copiers,786.54,85.44,7
+US-2025-100617,2025-09-09,West,Consumer,Technology,Accessories,1574.45,236.4,5
+US-2025-100618,2025-05-02,South,Corporate,Technology,Copiers,840.91,274.91,9
+US-2025-100619,2025-09-01,Central,Consumer,Technology,Phones,337.39,-22.1,1
+US-2025-100620,2025-01-05,East,Consumer,Technology,Copiers,1169.1,-118.01,6
+US-2025-100621,2025-07-01,West,Corporate,Furniture,Bookcases,82.04,-4.02,9
+US-2025-100622,2025-11-20,East,Consumer,Office Supplies,Binders,37.14,-5.33,3
+US-2025-100623,2025-12-15,Central,Consumer,Technology,Phones,549.4,15.72,9
+US-2025-100624,2025-03-11,East,Consumer,Office Supplies,Binders,519.12,22.8,2
+US-2025-100625,2025-06-10,Central,Consumer,Technology,Copiers,1159.63,293.81,4
+US-2025-100626,2025-05-20,West,Consumer,Office Supplies,Binders,465.0,146.67,8
+US-2025-100627,2025-08-13,East,Corporate,Furniture,Tables,156.07,-31.43,7
+US-2025-100628,2025-07-08,South,Home Office,Office Supplies,Paper,126.5,29.02,1
+US-2025-100629,2025-02-06,South,Consumer,Technology,Copiers,670.2,-10.09,6
+US-2025-100630,2025-02-19,South,Consumer,Furniture,Tables,549.74,-29.94,6
+US-2025-100631,2025-03-21,Central,Home Office,Office Supplies,Binders,127.99,26.47,5
+US-2025-100632,2025-11-06,South,Corporate,Furniture,Chairs,152.37,25.93,3
+US-2025-100633,2025-09-05,East,Home Office,Office Supplies,Binders,884.29,76.17,8
+US-2025-100634,2025-03-28,East,Consumer,Office Supplies,Storage,270.7,-32.81,6
+US-2025-100635,2025-12-16,East,Consumer,Furniture,Tables,851.62,-147.51,2
+US-2025-100636,2025-07-12,West,Consumer,Technology,Copiers,1330.96,-40.54,8
+US-2025-100637,2025-01-05,East,Home Office,Furniture,Tables,832.18,-295.75,1
+US-2025-100638,2025-11-16,East,Corporate,Technology,Phones,1524.74,-51.45,8
+US-2025-100639,2025-01-22,West,Consumer,Furniture,Bookcases,330.25,91.75,9
+US-2025-100640,2025-03-26,South,Home Office,Office Supplies,Paper,375.77,-52.24,5
+US-2025-100641,2025-10-26,West,Consumer,Technology,Accessories,1134.14,361.5,4
+US-2025-100642,2025-08-10,South,Consumer,Furniture,Tables,279.08,-71.35,2
+US-2025-100643,2025-12-22,South,Consumer,Furniture,Bookcases,569.81,103.18,9
+US-2025-100644,2025-06-15,South,Corporate,Office Supplies,Binders,44.6,6.84,6
+US-2025-100645,2025-06-05,South,Home Office,Technology,Accessories,386.1,55.83,2
+US-2025-100646,2025-10-08,Central,Home Office,Technology,Accessories,570.56,-66.48,4
+US-2025-100647,2025-05-01,South,Consumer,Technology,Phones,200.71,44.67,1
+US-2025-100648,2025-05-10,South,Home Office,Technology,Phones,999.86,65.87,5
+US-2025-100649,2025-11-04,South,Corporate,Technology,Copiers,449.27,144.03,1
+US-2025-100650,2025-11-26,South,Consumer,Technology,Accessories,933.6,-22.67,4
+US-2025-100651,2025-06-15,East,Home Office,Furniture,Bookcases,761.32,-61.64,2
+US-2025-100652,2025-11-15,Central,Corporate,Furniture,Bookcases,665.9,-22.22,3
+US-2025-100653,2025-10-21,Central,Corporate,Office Supplies,Paper,356.3,24.68,4
+US-2025-100654,2025-02-02,Central,Corporate,Technology,Accessories,815.74,18.13,2
+US-2025-100655,2025-10-26,West,Corporate,Office Supplies,Storage,923.33,300.38,9
+US-2025-100656,2025-07-29,South,Consumer,Office Supplies,Binders,77.52,8.86,6
+US-2025-100657,2025-05-13,East,Consumer,Technology,Copiers,244.79,40.79,3
+US-2025-100658,2025-05-14,South,Corporate,Office Supplies,Storage,595.49,125.6,6
+US-2025-100659,2025-06-22,Central,Corporate,Technology,Copiers,865.06,23.0,4
+US-2025-100660,2025-04-10,West,Home Office,Technology,Phones,87.49,20.99,3
+US-2025-100661,2025-11-12,East,Corporate,Technology,Copiers,1152.3,55.99,6
+US-2025-100662,2025-12-24,South,Consumer,Office Supplies,Paper,400.6,30.85,2
+US-2025-100663,2025-01-20,East,Corporate,Technology,Accessories,590.03,-52.11,6
+US-2025-100664,2025-10-18,South,Consumer,Office Supplies,Paper,201.93,28.34,6
+US-2025-100665,2025-04-21,South,Corporate,Office Supplies,Binders,209.7,26.8,6
+US-2025-100666,2025-05-18,South,Home Office,Furniture,Bookcases,121.58,29.71,8
+US-2025-100667,2025-02-15,Central,Consumer,Technology,Copiers,157.32,-20.28,3
+US-2025-100668,2025-12-14,West,Home Office,Office Supplies,Binders,917.39,-86.95,1
+US-2025-100669,2025-08-06,Central,Consumer,Office Supplies,Binders,200.53,40.18,7
+US-2025-100670,2025-04-16,Central,Consumer,Furniture,Tables,528.45,-189.8,4
+US-2025-100671,2025-06-13,East,Corporate,Furniture,Bookcases,295.84,-4.82,9
+US-2025-100672,2025-03-25,South,Home Office,Office Supplies,Binders,411.33,-9.36,8
+US-2025-100673,2025-11-18,East,Home Office,Technology,Accessories,1395.45,-3.5,7
+US-2025-100674,2025-08-15,West,Consumer,Furniture,Chairs,872.78,50.2,2
+US-2025-100675,2025-05-27,Central,Consumer,Office Supplies,Storage,333.06,73.76,8
+US-2025-100676,2025-07-03,East,Home Office,Technology,Accessories,211.92,-12.72,2
+US-2025-100677,2025-01-18,East,Consumer,Office Supplies,Storage,948.79,-117.98,3
+US-2025-100678,2025-02-03,Central,Home Office,Office Supplies,Binders,241.53,26.3,1
+US-2025-100679,2025-09-11,Central,Home Office,Furniture,Chairs,466.76,12.38,1
+US-2025-100680,2025-05-20,East,Home Office,Technology,Phones,922.35,159.65,7
+US-2025-100681,2025-10-14,East,Corporate,Office Supplies,Paper,364.64,15.26,7
+US-2025-100682,2025-06-18,Central,Corporate,Office Supplies,Binders,756.17,193.59,5
+US-2025-100683,2025-07-03,South,Corporate,Office Supplies,Binders,446.57,-34.38,4
+US-2025-100684,2025-06-26,East,Consumer,Technology,Copiers,1361.05,409.96,2
+US-2025-100685,2025-11-03,East,Home Office,Technology,Accessories,1423.39,346.05,9
+US-2025-100686,2025-11-18,South,Home Office,Technology,Phones,110.5,31.92,2
+US-2025-100687,2025-10-18,South,Home Office,Technology,Copiers,579.04,98.75,2
+US-2025-100688,2025-03-03,East,Consumer,Office Supplies,Paper,575.84,191.21,5
+US-2025-100689,2025-07-07,West,Consumer,Technology,Copiers,1160.5,-5.18,2
+US-2025-100690,2025-05-04,West,Corporate,Furniture,Bookcases,406.08,105.4,5
+US-2025-100691,2025-10-21,West,Home Office,Office Supplies,Storage,435.31,-33.16,3
+US-2025-100692,2025-01-22,Central,Home Office,Furniture,Bookcases,717.65,-10.69,6
+US-2025-100693,2025-04-21,Central,Consumer,Furniture,Tables,534.2,-7.29,6
+US-2025-100694,2025-04-21,Central,Corporate,Office Supplies,Storage,671.72,131.44,2
+US-2025-100695,2025-04-26,West,Home Office,Furniture,Tables,382.93,-104.05,4
+US-2025-100696,2025-05-13,East,Home Office,Furniture,Tables,482.84,8.45,3
+US-2025-100697,2025-02-27,West,Corporate,Office Supplies,Binders,412.18,-24.73,5
+US-2025-100698,2025-12-02,East,Corporate,Office Supplies,Paper,532.18,-52.78,6
+US-2025-100699,2025-09-03,South,Consumer,Furniture,Tables,545.06,-207.14,1
+US-2025-100700,2025-08-03,East,Home Office,Office Supplies,Storage,135.78,3.4,7
+US-2025-100701,2025-05-31,West,Home Office,Furniture,Chairs,631.88,-75.93,4
+US-2025-100702,2025-11-21,South,Consumer,Technology,Copiers,858.76,-4.65,5
+US-2025-100703,2025-04-18,Central,Consumer,Furniture,Chairs,367.49,88.3,4
+US-2025-100704,2025-03-14,Central,Corporate,Office Supplies,Storage,492.68,158.96,9
+US-2025-100705,2025-02-23,Central,Consumer,Technology,Phones,895.28,-63.49,5
+US-2025-100706,2025-09-27,South,Consumer,Office Supplies,Storage,601.24,84.92,6
+US-2025-100707,2025-01-13,South,Consumer,Technology,Copiers,915.2,26.88,4
+US-2025-100708,2025-11-27,Central,Consumer,Office Supplies,Storage,377.49,69.27,8
+US-2025-100709,2025-02-17,East,Consumer,Furniture,Chairs,128.85,29.72,1
+US-2025-100710,2025-02-23,South,Consumer,Technology,Phones,632.78,-22.84,5
+US-2025-100711,2025-05-18,Central,Consumer,Technology,Accessories,302.43,102.31,7
+US-2025-100712,2025-02-19,West,Home Office,Furniture,Chairs,636.28,110.76,8
+US-2025-100713,2025-08-16,West,Corporate,Office Supplies,Binders,343.06,55.78,6
+US-2025-100714,2025-02-11,Central,Home Office,Technology,Copiers,1123.6,-143.93,2
+US-2025-100715,2025-04-11,South,Home Office,Technology,Phones,163.86,4.43,5
+US-2025-100716,2025-04-20,West,Corporate,Office Supplies,Binders,779.1,103.84,6
+US-2025-100717,2025-07-13,Central,Corporate,Furniture,Bookcases,582.54,180.39,9
+US-2025-100718,2025-12-14,West,Consumer,Furniture,Chairs,339.73,110.54,1
+US-2025-100719,2025-09-04,South,Consumer,Technology,Copiers,177.04,34.93,1
+US-2025-100720,2025-10-12,West,Consumer,Furniture,Chairs,672.63,-70.1,8
+US-2025-100721,2025-09-28,Central,Corporate,Office Supplies,Storage,523.51,115.69,1
+US-2025-100722,2025-06-07,South,Home Office,Technology,Copiers,312.62,-30.48,9
+US-2025-100723,2025-07-05,West,Consumer,Office Supplies,Binders,397.23,-34.49,7
+US-2025-100724,2025-01-26,Central,Consumer,Technology,Copiers,773.47,152.53,8
+US-2025-100725,2025-10-26,West,Corporate,Technology,Accessories,1233.15,245.07,2
+US-2025-100726,2025-11-28,Central,Consumer,Office Supplies,Binders,581.7,138.17,6
+US-2025-100727,2025-12-27,South,Corporate,Office Supplies,Storage,601.73,148.86,4
+US-2025-100728,2025-04-04,East,Home Office,Office Supplies,Paper,453.36,91.9,9
+US-2025-100729,2025-01-03,East,Home Office,Furniture,Tables,754.68,7.77,4
+US-2025-100730,2025-01-26,South,Corporate,Technology,Copiers,284.38,67.71,4
+US-2025-100731,2025-05-20,South,Home Office,Office Supplies,Storage,258.93,-8.18,7
+US-2025-100732,2025-07-27,East,Corporate,Furniture,Chairs,122.43,13.44,2
+US-2025-100733,2025-03-14,West,Consumer,Technology,Phones,761.14,185.32,9
+US-2025-100734,2025-09-13,Central,Home Office,Technology,Phones,1044.2,-37.93,7
+US-2025-100735,2025-01-18,Central,Home Office,Technology,Phones,664.36,227.04,6
+US-2025-100736,2025-01-09,Central,Home Office,Technology,Copiers,679.89,219.46,2
+US-2025-100737,2025-10-15,Central,Consumer,Furniture,Tables,506.15,-33.87,3
+US-2025-100738,2025-01-25,West,Consumer,Office Supplies,Binders,896.18,57.78,4
+US-2025-100739,2025-04-23,Central,Consumer,Technology,Copiers,202.71,11.76,2
+US-2025-100740,2025-11-30,West,Home Office,Technology,Copiers,828.76,117.91,9
+US-2025-100741,2025-09-04,Central,Consumer,Office Supplies,Binders,399.51,34.63,8
+US-2025-100742,2025-04-18,South,Home Office,Technology,Phones,84.88,28.13,1
+US-2025-100743,2025-01-22,East,Corporate,Technology,Phones,954.22,274.94,1
+US-2025-100744,2025-01-25,South,Consumer,Office Supplies,Binders,147.75,39.23,4
+US-2025-100745,2025-07-09,East,Home Office,Furniture,Chairs,743.09,239.32,8
+US-2025-100746,2025-07-14,South,Consumer,Technology,Phones,677.66,86.47,8
+US-2025-100747,2025-12-10,South,Consumer,Furniture,Tables,465.35,18.46,5
+US-2025-100748,2025-06-12,South,Consumer,Furniture,Chairs,69.16,19.36,1
+US-2025-100749,2025-04-09,South,Corporate,Technology,Accessories,735.31,6.7,6
+US-2025-100750,2025-10-15,West,Consumer,Furniture,Bookcases,942.68,26.05,2
+US-2025-100751,2025-07-18,East,Home Office,Office Supplies,Paper,624.5,66.23,4
+US-2025-100752,2025-03-17,Central,Consumer,Technology,Accessories,748.9,36.32,4
+US-2025-100753,2025-03-11,East,Corporate,Technology,Phones,1331.33,-160.19,1
+US-2025-100754,2025-06-20,South,Home Office,Technology,Copiers,106.1,-3.28,3
+US-2025-100755,2025-07-03,West,Consumer,Furniture,Chairs,300.12,18.88,1
+US-2025-100756,2025-02-02,West,Corporate,Office Supplies,Storage,935.46,80.61,1
+US-2025-100757,2025-03-15,East,Corporate,Office Supplies,Binders,891.46,102.55,6
+US-2025-100758,2025-09-20,South,Corporate,Furniture,Tables,247.18,-53.89,5
+US-2025-100759,2025-01-29,West,Consumer,Furniture,Tables,91.77,-22.49,9
+US-2025-100760,2025-04-26,South,Consumer,Office Supplies,Binders,150.27,42.22,1
+US-2025-100761,2025-01-29,South,Consumer,Furniture,Bookcases,299.43,68.26,1
+US-2025-100762,2025-12-02,Central,Corporate,Technology,Accessories,440.12,-33.6,2
+US-2025-100763,2025-01-14,East,Consumer,Office Supplies,Storage,160.48,41.82,5
+US-2025-100764,2025-08-25,South,Home Office,Technology,Phones,149.36,45.38,1
+US-2025-100765,2025-10-24,South,Corporate,Furniture,Tables,442.56,-146.78,9
+US-2025-100766,2025-05-14,East,Corporate,Office Supplies,Paper,900.19,257.72,4
+US-2025-100767,2025-12-15,Central,Home Office,Office Supplies,Binders,324.18,80.18,1
+US-2025-100768,2025-10-29,East,Corporate,Technology,Accessories,673.45,-16.96,9
+US-2025-100769,2025-01-18,Central,Corporate,Furniture,Tables,350.62,-31.53,9
+US-2025-100770,2025-06-20,West,Consumer,Furniture,Bookcases,1065.56,324.91,3
+US-2025-100771,2025-02-01,West,Corporate,Furniture,Chairs,654.02,116.96,6
+US-2025-100772,2025-07-02,South,Corporate,Furniture,Tables,258.8,-40.28,2
+US-2025-100773,2025-04-29,East,Corporate,Technology,Phones,259.96,83.97,5
+US-2025-100774,2025-12-11,Central,Consumer,Technology,Copiers,500.36,109.99,2
+US-2025-100775,2025-03-22,East,Home Office,Furniture,Chairs,92.51,30.83,4
+US-2025-100776,2025-10-28,Central,Home Office,Technology,Copiers,604.07,53.72,7
+US-2025-100777,2025-07-26,East,Consumer,Technology,Copiers,567.19,-75.86,4
+US-2025-100778,2025-04-08,East,Home Office,Technology,Copiers,705.44,-68.85,9
+US-2025-100779,2025-03-07,East,Home Office,Technology,Copiers,441.4,24.32,4
+US-2025-100780,2025-07-09,South,Consumer,Furniture,Tables,297.91,29.0,5
+US-2025-100781,2025-12-03,East,Consumer,Office Supplies,Binders,488.5,143.1,6
+US-2025-100782,2025-10-16,East,Corporate,Office Supplies,Storage,776.58,248.85,7
+US-2025-100783,2025-07-17,South,Home Office,Technology,Copiers,850.55,228.25,1
+US-2025-100784,2025-03-01,South,Home Office,Technology,Copiers,550.67,-2.68,4
+US-2025-100785,2025-12-06,Central,Corporate,Technology,Accessories,165.63,21.83,1
+US-2025-100786,2025-03-28,East,Corporate,Furniture,Chairs,635.24,52.08,5
+US-2025-100787,2025-11-21,Central,Home Office,Technology,Copiers,1217.31,211.07,6
+US-2025-100788,2025-05-22,Central,Corporate,Furniture,Chairs,469.67,26.81,1
+US-2025-100789,2025-05-21,East,Home Office,Office Supplies,Paper,162.33,3.41,6
+US-2025-100790,2025-04-06,Central,Corporate,Technology,Phones,169.7,2.44,9
+US-2025-100791,2025-03-04,East,Home Office,Office Supplies,Binders,820.72,14.9,8
+US-2025-100792,2025-03-28,Central,Consumer,Furniture,Chairs,539.07,181.92,5
+US-2025-100793,2025-10-06,Central,Consumer,Technology,Accessories,1126.43,-93.63,1
+US-2025-100794,2025-08-19,Central,Consumer,Technology,Phones,607.76,-24.13,6
+US-2025-100795,2025-07-22,South,Consumer,Furniture,Chairs,478.41,18.11,5
+US-2025-100796,2025-01-07,South,Consumer,Technology,Phones,819.38,154.92,3
+US-2025-100797,2025-01-25,West,Consumer,Office Supplies,Paper,746.73,209.77,8
+US-2025-100798,2025-11-10,East,Corporate,Technology,Accessories,907.1,-122.2,2
+US-2025-100799,2025-07-25,South,Home Office,Furniture,Tables,108.24,-24.71,6
+US-2025-100800,2025-10-08,West,Home Office,Office Supplies,Binders,263.74,65.36,3
+US-2025-100801,2025-08-02,South,Corporate,Technology,Accessories,550.74,-79.15,4
+US-2025-100802,2025-11-20,South,Consumer,Technology,Copiers,960.08,330.2,9
+US-2025-100803,2025-01-19,East,Consumer,Furniture,Chairs,737.72,-53.64,8
+US-2025-100804,2025-04-24,South,Consumer,Office Supplies,Paper,309.06,84.83,6
+US-2025-100805,2025-11-28,South,Home Office,Technology,Copiers,371.8,-7.07,6
+US-2025-100806,2025-04-29,Central,Home Office,Furniture,Bookcases,358.5,54.07,2
+US-2025-100807,2025-03-26,West,Corporate,Office Supplies,Storage,508.82,103.58,3
+US-2025-100808,2025-11-28,Central,Corporate,Furniture,Bookcases,428.22,12.33,5
+US-2025-100809,2025-02-01,West,Corporate,Furniture,Chairs,598.61,-81.07,3
+US-2025-100810,2025-06-30,West,Consumer,Furniture,Tables,296.55,-2.61,9
+US-2025-100811,2025-06-06,Central,Home Office,Office Supplies,Paper,647.2,192.33,4
+US-2025-100812,2025-07-08,South,Home Office,Technology,Copiers,381.27,65.27,2
+US-2025-100813,2025-12-02,West,Home Office,Office Supplies,Storage,808.82,161.04,6
+US-2025-100814,2025-10-23,South,Consumer,Technology,Phones,529.44,-5.05,1
+US-2025-100815,2025-06-21,South,Consumer,Technology,Accessories,142.79,32.38,1
+US-2025-100816,2025-03-07,South,Home Office,Furniture,Tables,251.72,-4.6,8
+US-2025-100817,2025-07-05,West,Home Office,Furniture,Tables,1102.3,-251.19,7
+US-2025-100818,2025-11-26,Central,Consumer,Furniture,Chairs,551.39,-21.85,8
+US-2025-100819,2025-02-05,Central,Consumer,Technology,Phones,1173.3,201.06,3
+US-2025-100820,2025-10-22,South,Consumer,Technology,Accessories,958.75,-1.83,9
+US-2025-100821,2025-09-15,West,Corporate,Furniture,Bookcases,147.08,-14.13,2
+US-2025-100822,2025-05-01,Central,Home Office,Office Supplies,Binders,356.43,21.35,6
+US-2025-100823,2025-04-26,West,Corporate,Technology,Phones,690.42,214.28,7
+US-2025-100824,2025-03-30,South,Consumer,Office Supplies,Paper,27.02,3.0,2
+US-2025-100825,2025-03-22,East,Consumer,Office Supplies,Storage,246.27,69.25,3
+US-2025-100826,2025-08-27,West,Consumer,Technology,Accessories,92.19,6.2,3
+US-2025-100827,2025-03-14,East,Consumer,Furniture,Chairs,519.98,80.75,6
+US-2025-100828,2025-05-20,West,Consumer,Office Supplies,Binders,1005.63,-75.24,9
+US-2025-100829,2025-03-31,East,Corporate,Technology,Phones,591.05,-63.58,1
+US-2025-100830,2025-08-22,Central,Home Office,Office Supplies,Binders,710.86,-29.49,1
+US-2025-100831,2025-01-05,South,Corporate,Furniture,Tables,493.2,-191.72,7
+US-2025-100832,2025-12-09,South,Consumer,Furniture,Bookcases,197.12,-9.74,7
+US-2025-100833,2025-11-10,East,Consumer,Office Supplies,Binders,964.81,181.64,9
+US-2025-100834,2025-01-24,South,Home Office,Office Supplies,Storage,64.52,1.96,9
+US-2025-100835,2025-02-17,South,Home Office,Furniture,Tables,336.34,-86.59,5
+US-2025-100836,2025-08-19,West,Home Office,Furniture,Bookcases,276.51,68.12,6
+US-2025-100837,2025-05-16,Central,Home Office,Office Supplies,Binders,316.67,-28.31,6
+US-2025-100838,2025-07-10,West,Home Office,Furniture,Bookcases,303.78,-19.24,6
+US-2025-100839,2025-06-01,Central,Corporate,Office Supplies,Storage,395.6,119.7,5
+US-2025-100840,2025-05-06,Central,Corporate,Furniture,Bookcases,130.67,11.0,8
+US-2025-100841,2025-11-20,East,Home Office,Furniture,Chairs,490.58,111.55,6
+US-2025-100842,2025-10-18,West,Corporate,Office Supplies,Binders,1013.16,101.46,2
+US-2025-100843,2025-08-24,Central,Consumer,Technology,Phones,1163.72,67.08,3
+US-2025-100844,2025-02-17,Central,Home Office,Furniture,Chairs,590.14,13.26,3
+US-2025-100845,2025-07-08,South,Home Office,Office Supplies,Paper,89.08,29.56,1
+US-2025-100846,2025-03-19,East,Consumer,Furniture,Bookcases,285.09,-27.6,6
+US-2025-100847,2025-07-11,Central,Consumer,Furniture,Tables,381.58,-71.55,4
+US-2025-100848,2025-11-27,West,Consumer,Furniture,Tables,623.37,-227.79,4
+US-2025-100849,2025-07-30,East,Corporate,Furniture,Tables,273.63,24.15,8
+US-2025-100850,2025-12-11,South,Home Office,Technology,Accessories,803.42,-83.13,3
+US-2025-100851,2025-03-30,West,Home Office,Technology,Phones,158.48,38.72,1
+US-2025-100852,2025-04-28,South,Corporate,Technology,Copiers,601.69,-62.07,5
+US-2025-100853,2025-07-29,South,Consumer,Office Supplies,Storage,49.25,-0.81,9
+US-2025-100854,2025-10-11,South,Consumer,Office Supplies,Storage,626.91,200.17,2
+US-2025-100855,2025-02-28,Central,Corporate,Office Supplies,Paper,362.17,116.49,8
+US-2025-100856,2025-12-13,East,Home Office,Technology,Phones,222.59,-12.08,5
+US-2025-100857,2025-03-22,South,Home Office,Technology,Phones,363.77,12.66,6
+US-2025-100858,2025-04-18,East,Corporate,Furniture,Tables,114.59,-19.0,6
+US-2025-100859,2025-12-09,East,Corporate,Furniture,Tables,779.79,-269.38,8
+US-2025-100860,2025-09-29,West,Home Office,Technology,Phones,768.81,231.78,4
+US-2025-100861,2025-09-05,West,Home Office,Technology,Copiers,317.86,35.08,2
+US-2025-100862,2025-11-22,Central,Corporate,Office Supplies,Binders,269.98,-26.32,7
+US-2025-100863,2025-12-06,East,Consumer,Technology,Copiers,999.68,50.57,6
+US-2025-100864,2025-11-04,Central,Consumer,Technology,Accessories,197.28,-19.8,8
+US-2025-100865,2025-02-12,East,Home Office,Furniture,Chairs,635.81,219.66,1
+US-2025-100866,2025-09-14,West,Corporate,Technology,Accessories,993.07,-4.68,1
+US-2025-100867,2025-12-14,East,Home Office,Office Supplies,Paper,362.02,-37.23,5
+US-2025-100868,2025-07-17,South,Home Office,Furniture,Chairs,434.21,73.01,4
+US-2025-100869,2025-05-16,West,Home Office,Technology,Phones,1769.8,-199.14,5
+US-2025-100870,2025-05-22,South,Corporate,Furniture,Chairs,67.18,14.41,4
+US-2025-100871,2025-09-03,West,Home Office,Technology,Copiers,1113.85,118.89,7
+US-2025-100872,2025-01-01,West,Consumer,Technology,Phones,1158.89,47.62,9
+US-2025-100873,2025-11-07,West,Home Office,Furniture,Bookcases,97.84,31.36,3
+US-2025-100874,2025-01-23,South,Corporate,Furniture,Bookcases,251.82,-36.96,2
+US-2025-100875,2025-10-18,West,Home Office,Technology,Accessories,369.22,62.09,4
+US-2025-100876,2025-09-11,West,Home Office,Office Supplies,Storage,490.04,-1.69,2
+US-2025-100877,2025-09-23,West,Home Office,Office Supplies,Binders,768.81,8.22,7
+US-2025-100878,2025-12-04,East,Home Office,Furniture,Chairs,175.17,33.5,5
+US-2025-100879,2025-12-15,East,Consumer,Technology,Accessories,582.91,137.03,8
+US-2025-100880,2025-04-22,East,Home Office,Technology,Copiers,566.31,2.61,7
+US-2025-100881,2025-06-24,West,Consumer,Technology,Phones,1569.16,239.55,4
+US-2025-100882,2025-10-08,Central,Corporate,Furniture,Bookcases,280.58,83.35,4
+US-2025-100883,2025-03-08,Central,Consumer,Furniture,Bookcases,129.6,-19.41,4
+US-2025-100884,2025-09-28,East,Corporate,Technology,Accessories,887.06,211.47,9
+US-2025-100885,2025-03-25,West,Consumer,Furniture,Chairs,57.79,-7.31,6
+US-2025-100886,2025-09-09,Central,Corporate,Technology,Copiers,1174.66,292.12,4
+US-2025-100887,2025-05-15,South,Home Office,Furniture,Tables,478.54,-92.86,2
+US-2025-100888,2025-04-01,South,Home Office,Technology,Phones,548.57,-2.16,6
+US-2025-100889,2025-05-09,East,Consumer,Office Supplies,Binders,943.35,-10.49,1
+US-2025-100890,2025-07-19,West,Corporate,Technology,Phones,1748.15,374.2,3
+US-2025-100891,2025-10-10,West,Home Office,Technology,Accessories,564.32,93.67,8
+US-2025-100892,2025-07-11,South,Consumer,Technology,Phones,333.04,-8.21,8
+US-2025-100893,2025-09-11,South,Home Office,Furniture,Bookcases,484.73,43.29,2
+US-2025-100894,2025-06-21,Central,Home Office,Office Supplies,Paper,669.04,-1.08,6
+US-2025-100895,2025-12-18,East,Home Office,Furniture,Chairs,273.01,25.9,3
+US-2025-100896,2025-10-07,West,Consumer,Office Supplies,Paper,1043.74,-79.86,4
+US-2025-100897,2025-01-17,West,Corporate,Office Supplies,Storage,717.98,-3.87,2
+US-2025-100898,2025-09-19,West,Home Office,Furniture,Chairs,361.04,0.28,1
+US-2025-100899,2025-07-04,Central,Corporate,Technology,Copiers,205.48,35.37,3
+US-2025-100900,2025-06-10,West,Consumer,Office Supplies,Storage,988.28,94.51,6
+US-2025-100901,2025-03-12,South,Corporate,Technology,Copiers,334.68,8.44,1
+US-2025-100902,2025-01-22,West,Corporate,Office Supplies,Binders,923.95,173.3,2
+US-2025-100903,2025-03-15,South,Corporate,Office Supplies,Binders,268.4,52.14,6
+US-2025-100904,2025-11-01,Central,Corporate,Technology,Accessories,1048.71,79.94,6
+US-2025-100905,2025-07-19,South,Consumer,Office Supplies,Binders,502.39,-42.29,6
+US-2025-100906,2025-06-10,Central,Corporate,Furniture,Chairs,199.8,-3.55,1
+US-2025-100907,2025-11-20,South,Consumer,Office Supplies,Binders,258.9,14.97,3
+US-2025-100908,2025-03-23,East,Consumer,Office Supplies,Binders,843.87,67.29,7
+US-2025-100909,2025-04-02,East,Corporate,Office Supplies,Storage,314.92,41.81,3
+US-2025-100910,2025-01-03,South,Corporate,Technology,Copiers,863.63,146.48,2
+US-2025-100911,2025-12-03,East,Corporate,Office Supplies,Storage,400.07,134.06,8
+US-2025-100912,2025-10-30,East,Consumer,Office Supplies,Storage,106.84,12.59,4
+US-2025-100913,2025-11-02,Central,Home Office,Office Supplies,Paper,287.06,75.45,1
+US-2025-100914,2025-01-01,West,Consumer,Furniture,Chairs,427.31,-27.06,4
+US-2025-100915,2025-10-20,East,Consumer,Technology,Copiers,189.22,47.33,1
+US-2025-100916,2025-02-01,East,Corporate,Office Supplies,Storage,601.06,-75.72,1
+US-2025-100917,2025-12-12,East,Home Office,Furniture,Tables,957.39,53.94,3
+US-2025-100918,2025-11-26,East,Home Office,Technology,Copiers,656.22,-1.88,4
+US-2025-100919,2025-03-09,West,Home Office,Technology,Phones,1406.98,461.27,5
+US-2025-100920,2025-07-16,South,Home Office,Office Supplies,Paper,22.12,5.72,5
+US-2025-100921,2025-01-20,East,Corporate,Technology,Copiers,701.88,-46.83,3
+US-2025-100922,2025-06-24,West,Corporate,Office Supplies,Paper,696.48,-78.34,4
+US-2025-100923,2025-05-29,East,Consumer,Office Supplies,Paper,86.74,10.93,6
+US-2025-100924,2025-06-24,Central,Consumer,Furniture,Bookcases,547.15,94.41,7
+US-2025-100925,2025-05-24,Central,Consumer,Furniture,Tables,149.92,8.89,7
+US-2025-100926,2025-09-13,Central,Corporate,Technology,Copiers,819.15,90.52,5
+US-2025-100927,2025-12-04,West,Consumer,Technology,Copiers,1296.59,183.48,7
+US-2025-100928,2025-04-16,South,Home Office,Technology,Copiers,462.01,90.64,1
+US-2025-100929,2025-02-18,Central,Consumer,Office Supplies,Paper,570.27,68.21,9
+US-2025-100930,2025-09-05,South,Consumer,Office Supplies,Binders,114.01,32.69,4
+US-2025-100931,2025-09-18,East,Home Office,Furniture,Chairs,935.46,311.87,5
+US-2025-100932,2025-02-04,Central,Consumer,Office Supplies,Paper,282.63,-31.53,1
+US-2025-100933,2025-01-21,Central,Corporate,Office Supplies,Paper,690.36,-21.83,9
+US-2025-100934,2025-10-04,Central,Consumer,Office Supplies,Paper,272.15,-36.16,5
+US-2025-100935,2025-05-27,Central,Corporate,Office Supplies,Storage,488.41,145.74,8
+US-2025-100936,2025-03-19,South,Home Office,Office Supplies,Binders,439.18,-33.95,8
+US-2025-100937,2025-10-19,East,Corporate,Furniture,Tables,491.49,-51.8,4
+US-2025-100938,2025-11-29,Central,Consumer,Technology,Phones,382.1,-56.66,4
+US-2025-100939,2025-01-21,South,Consumer,Furniture,Tables,571.71,1.64,4
+US-2025-100940,2025-07-28,Central,Home Office,Technology,Phones,262.34,69.12,4
+US-2025-100941,2025-11-14,East,Corporate,Furniture,Tables,109.3,-31.44,7
+US-2025-100942,2025-03-24,South,Corporate,Technology,Accessories,237.64,37.35,3
+US-2025-100943,2025-05-03,West,Consumer,Office Supplies,Storage,740.86,-26.2,3
+US-2025-100944,2025-04-22,West,Consumer,Furniture,Chairs,536.1,134.84,2
+US-2025-100945,2025-06-12,Central,Corporate,Furniture,Tables,529.29,-200.7,1
+US-2025-100946,2025-08-31,West,Home Office,Technology,Accessories,564.32,149.59,3
+US-2025-100947,2025-07-14,South,Home Office,Office Supplies,Storage,268.24,-18.78,6
+US-2025-100948,2025-05-07,East,Consumer,Office Supplies,Paper,580.21,-84.7,1
+US-2025-100949,2025-06-02,West,Corporate,Technology,Copiers,66.36,-6.35,6
+US-2025-100950,2025-04-08,West,Home Office,Technology,Copiers,1736.11,254.48,1
+US-2025-100951,2025-01-29,Central,Home Office,Office Supplies,Storage,330.6,5.62,4
+US-2025-100952,2025-07-15,South,Home Office,Furniture,Bookcases,62.44,11.99,5
+US-2025-100953,2025-06-14,Central,Consumer,Office Supplies,Paper,348.03,72.93,1
+US-2025-100954,2025-11-28,Central,Consumer,Furniture,Bookcases,166.4,-23.62,2
+US-2025-100955,2025-05-31,Central,Corporate,Office Supplies,Binders,160.1,27.34,6
+US-2025-100956,2025-07-01,South,Corporate,Technology,Phones,593.1,57.39,5
+US-2025-100957,2025-02-11,South,Consumer,Furniture,Bookcases,42.08,-4.96,4
+US-2025-100958,2025-12-11,East,Consumer,Office Supplies,Binders,859.52,30.82,2
+US-2025-100959,2025-03-19,Central,Consumer,Furniture,Tables,70.85,3.95,8
+US-2025-100960,2025-08-10,South,Consumer,Technology,Phones,443.4,-13.27,3
+US-2025-100961,2025-08-04,South,Consumer,Furniture,Tables,162.1,-63.33,8
+US-2025-100962,2025-03-18,South,Corporate,Office Supplies,Storage,156.74,-15.64,5
+US-2025-100963,2025-07-17,West,Corporate,Furniture,Tables,897.14,-116.35,7
+US-2025-100964,2025-02-03,Central,Consumer,Furniture,Tables,138.59,-43.23,7
+US-2025-100965,2025-01-15,West,Consumer,Furniture,Chairs,226.18,-0.18,3
+US-2025-100966,2025-09-23,Central,Home Office,Technology,Accessories,1086.65,90.78,1
+US-2025-100967,2025-09-17,South,Corporate,Furniture,Tables,466.1,-80.53,8
+US-2025-100968,2025-05-26,Central,Corporate,Office Supplies,Paper,277.28,-23.77,7
+US-2025-100969,2025-04-08,South,Corporate,Office Supplies,Binders,330.9,99.27,9
+US-2025-100970,2025-12-03,Central,Consumer,Furniture,Bookcases,137.7,34.46,7
+US-2025-100971,2025-05-14,Central,Home Office,Office Supplies,Paper,656.78,-53.37,2
+US-2025-100972,2025-04-13,West,Corporate,Furniture,Chairs,717.66,119.4,5
+US-2025-100973,2025-03-24,South,Home Office,Office Supplies,Binders,56.8,6.36,3
+US-2025-100974,2025-02-23,South,Home Office,Office Supplies,Paper,467.15,-30.55,9
+US-2025-100975,2025-02-22,Central,Corporate,Furniture,Tables,415.62,-70.75,3
+US-2025-100976,2025-08-17,Central,Home Office,Technology,Accessories,802.4,-21.5,7
+US-2025-100977,2025-08-01,West,Home Office,Technology,Copiers,1536.97,-55.65,8
+US-2025-100978,2025-12-15,Central,Home Office,Technology,Accessories,1030.03,153.88,4
+US-2025-100979,2025-04-13,South,Corporate,Furniture,Tables,419.45,31.75,8
+US-2025-100980,2025-11-13,West,Consumer,Technology,Accessories,467.95,-59.0,3
+US-2025-100981,2025-10-13,Central,Home Office,Office Supplies,Paper,599.4,77.26,9
+US-2025-100982,2025-01-08,West,Consumer,Technology,Accessories,1588.0,149.44,9
+US-2025-100983,2025-05-11,South,Home Office,Office Supplies,Storage,351.58,-37.12,9
+US-2025-100984,2025-08-30,West,Corporate,Furniture,Bookcases,642.47,-64.15,1
+US-2025-100985,2025-07-23,South,Consumer,Office Supplies,Paper,453.15,109.61,6
+US-2025-100986,2025-02-27,Central,Home Office,Office Supplies,Storage,113.64,-16.66,3
+US-2025-100987,2025-08-29,West,Consumer,Technology,Phones,332.82,-48.85,1
+US-2025-100988,2025-03-29,Central,Corporate,Furniture,Tables,626.42,-181.02,1
+US-2025-100989,2025-06-19,Central,Consumer,Office Supplies,Storage,712.06,197.9,8
+US-2025-100990,2025-08-01,South,Home Office,Furniture,Chairs,429.22,42.72,5
+US-2025-100991,2025-05-05,South,Consumer,Office Supplies,Storage,436.27,7.67,6
+US-2025-100992,2025-10-28,South,Home Office,Technology,Accessories,231.14,1.96,3
+US-2025-100993,2025-02-28,South,Corporate,Furniture,Chairs,539.37,66.46,1
+US-2025-100994,2025-04-10,South,Home Office,Office Supplies,Storage,37.66,7.07,9
+US-2025-100995,2025-01-24,South,Consumer,Technology,Phones,971.47,-110.42,4
+US-2025-100996,2025-03-04,East,Home Office,Furniture,Tables,358.15,-25.21,6
+US-2025-100997,2025-03-04,West,Consumer,Furniture,Tables,721.78,-34.73,9
+US-2025-100998,2025-07-17,West,Home Office,Furniture,Bookcases,907.19,301.32,1
+US-2025-100999,2025-07-03,Central,Corporate,Furniture,Chairs,306.23,-24.05,7
+US-2025-101000,2025-07-09,East,Home Office,Technology,Copiers,950.61,-88.17,3
+US-2025-101001,2025-08-12,South,Corporate,Office Supplies,Binders,516.21,20.94,4
+US-2025-101002,2025-11-06,South,Consumer,Technology,Copiers,952.59,321.08,1
+US-2025-101003,2025-08-30,West,Consumer,Office Supplies,Paper,339.1,118.63,8
+US-2025-101004,2025-08-08,West,Home Office,Technology,Accessories,893.09,70.65,4
+US-2025-101005,2025-04-19,West,Home Office,Furniture,Bookcases,37.94,10.2,9
+US-2025-101006,2025-09-13,South,Consumer,Technology,Phones,841.34,274.09,9
+US-2025-101007,2025-10-25,West,Consumer,Office Supplies,Binders,406.23,75.37,9
+US-2025-101008,2025-06-23,West,Consumer,Furniture,Tables,886.97,-208.22,5
+US-2025-101009,2025-05-27,West,Consumer,Office Supplies,Binders,354.9,22.71,7
+US-2025-101010,2025-04-15,West,Corporate,Technology,Copiers,1526.31,162.94,6
+US-2025-101011,2025-04-22,East,Home Office,Office Supplies,Binders,247.87,85.59,5
+US-2025-101012,2025-02-15,Central,Corporate,Technology,Accessories,379.86,-8.91,9
+US-2025-101013,2025-03-02,East,Consumer,Furniture,Tables,388.34,-150.88,4
+US-2025-101014,2025-07-29,East,Home Office,Furniture,Bookcases,574.99,-7.03,7
+US-2025-101015,2025-02-23,Central,Consumer,Office Supplies,Binders,656.55,135.27,6
+US-2025-101016,2025-04-18,South,Home Office,Technology,Accessories,792.38,237.18,7
+US-2025-101017,2025-05-24,West,Corporate,Furniture,Bookcases,598.29,175.45,6
+US-2025-101018,2025-12-07,South,Corporate,Office Supplies,Binders,599.54,51.07,5
+US-2025-101019,2025-07-05,West,Home Office,Furniture,Bookcases,117.5,26.83,6
+US-2025-101020,2025-10-18,South,Home Office,Office Supplies,Storage,34.24,0.75,2
+US-2025-101021,2025-02-22,South,Consumer,Technology,Phones,433.21,133.43,2
+US-2025-101022,2025-11-09,Central,Consumer,Technology,Phones,766.69,-35.83,6
+US-2025-101023,2025-06-02,Central,Home Office,Technology,Phones,506.82,88.08,7
+US-2025-101024,2025-05-28,South,Home Office,Furniture,Tables,233.17,17.65,7
+US-2025-101025,2025-04-15,East,Home Office,Furniture,Bookcases,820.09,171.68,6
+US-2025-101026,2025-07-17,East,Home Office,Furniture,Tables,97.21,7.36,4
+US-2025-101027,2025-02-25,South,Consumer,Furniture,Tables,411.46,-141.31,1
+US-2025-101028,2025-08-05,East,Consumer,Furniture,Chairs,294.02,-21.62,5
+US-2025-101029,2025-01-05,South,Corporate,Office Supplies,Paper,167.35,-7.87,8
+US-2025-101030,2025-01-10,East,Corporate,Furniture,Bookcases,919.79,310.2,2
+US-2025-101031,2025-11-27,South,Consumer,Technology,Phones,615.75,125.91,6
+US-2025-101032,2025-03-14,West,Corporate,Furniture,Chairs,392.65,118.02,4
+US-2025-101033,2025-09-29,Central,Consumer,Technology,Phones,239.73,9.19,6
+US-2025-101034,2025-02-17,South,Home Office,Technology,Accessories,256.78,65.5,2
+US-2025-101035,2025-11-23,Central,Consumer,Technology,Copiers,294.09,42.87,9
+US-2025-101036,2025-11-01,East,Corporate,Office Supplies,Storage,933.92,88.02,8
+US-2025-101037,2025-12-21,South,Corporate,Furniture,Chairs,92.56,19.36,3
+US-2025-101038,2025-03-29,East,Home Office,Office Supplies,Paper,731.41,7.75,4
+US-2025-101039,2025-07-26,West,Consumer,Office Supplies,Binders,770.62,-10.63,5
+US-2025-101040,2025-03-07,West,Consumer,Furniture,Tables,405.82,-121.01,8
+US-2025-101041,2025-07-01,South,Corporate,Furniture,Chairs,562.46,-43.76,5
+US-2025-101042,2025-10-26,West,Consumer,Office Supplies,Paper,877.97,-41.64,7
+US-2025-101043,2025-10-29,South,Consumer,Furniture,Tables,171.88,-8.86,7
+US-2025-101044,2025-01-30,Central,Consumer,Office Supplies,Storage,426.73,-25.43,5
+US-2025-101045,2025-10-11,South,Corporate,Technology,Copiers,707.19,49.56,7
+US-2025-101046,2025-05-11,South,Corporate,Technology,Copiers,441.24,23.14,6
+US-2025-101047,2025-10-19,South,Corporate,Office Supplies,Storage,404.2,-27.79,2
+US-2025-101048,2025-09-05,West,Consumer,Office Supplies,Binders,622.37,133.95,1
+US-2025-101049,2025-02-25,Central,Consumer,Office Supplies,Storage,450.88,15.01,9
+US-2025-101050,2025-02-04,South,Home Office,Technology,Copiers,103.09,7.55,4
+US-2025-101051,2025-03-15,South,Consumer,Furniture,Tables,325.95,-41.54,6
+US-2025-101052,2025-08-20,West,Consumer,Furniture,Tables,75.83,-7.49,8
+US-2025-101053,2025-12-12,South,Corporate,Technology,Copiers,958.0,38.07,8
+US-2025-101054,2025-11-06,West,Corporate,Furniture,Tables,825.07,-144.43,5
+US-2025-101055,2025-08-25,West,Consumer,Technology,Phones,952.25,46.55,1
+US-2025-101056,2025-06-13,East,Home Office,Technology,Accessories,594.38,67.86,7
+US-2025-101057,2025-07-03,Central,Corporate,Office Supplies,Binders,122.01,17.21,7
+US-2025-101058,2025-09-26,South,Consumer,Office Supplies,Paper,569.27,-18.77,4
+US-2025-101059,2025-10-01,West,Home Office,Technology,Phones,586.57,4.73,3
+US-2025-101060,2025-11-03,South,Home Office,Technology,Copiers,986.32,227.93,3
+US-2025-101061,2025-02-17,West,Home Office,Technology,Phones,1272.59,415.56,2
+US-2025-101062,2025-08-16,East,Consumer,Office Supplies,Paper,438.02,89.76,6
+US-2025-101063,2025-03-06,East,Consumer,Furniture,Tables,168.07,-11.38,8
+US-2025-101064,2025-08-31,Central,Consumer,Technology,Phones,88.92,30.79,4
+US-2025-101065,2025-07-20,East,Home Office,Office Supplies,Storage,619.99,18.57,5
+US-2025-101066,2025-11-26,Central,Home Office,Office Supplies,Binders,50.05,0.07,7
+US-2025-101067,2025-11-28,West,Consumer,Technology,Phones,476.6,135.85,4
+US-2025-101068,2025-11-23,West,Home Office,Office Supplies,Binders,779.84,198.99,4
+US-2025-101069,2025-08-12,South,Home Office,Furniture,Chairs,426.42,56.0,5
+US-2025-101070,2025-11-19,Central,Consumer,Technology,Phones,314.07,68.01,5
+US-2025-101071,2025-07-22,East,Corporate,Office Supplies,Binders,941.02,-130.71,6
+US-2025-101072,2025-04-24,East,Consumer,Office Supplies,Storage,214.67,13.17,8
+US-2025-101073,2025-09-20,West,Corporate,Furniture,Bookcases,876.04,33.64,2
+US-2025-101074,2025-07-31,East,Corporate,Office Supplies,Storage,74.42,25.05,5
+US-2025-101075,2025-03-21,Central,Consumer,Furniture,Chairs,285.76,-12.24,2
+US-2025-101076,2025-12-02,South,Home Office,Furniture,Tables,393.39,-133.93,6
+US-2025-101077,2025-01-19,Central,Consumer,Furniture,Chairs,559.86,70.08,8
+US-2025-101078,2025-02-16,Central,Home Office,Technology,Copiers,466.65,-64.75,8
+US-2025-101079,2025-06-10,South,Consumer,Furniture,Tables,532.93,-123.26,9
+US-2025-101080,2025-07-30,West,Home Office,Office Supplies,Binders,68.03,-0.79,7
+US-2025-101081,2025-10-10,West,Corporate,Furniture,Tables,713.59,-15.54,4
+US-2025-101082,2025-05-18,South,Home Office,Furniture,Bookcases,626.23,-26.88,6
+US-2025-101083,2025-05-01,South,Home Office,Technology,Copiers,69.9,-0.94,3
+US-2025-101084,2025-08-17,Central,Consumer,Office Supplies,Paper,602.21,8.0,2
+US-2025-101085,2025-02-10,South,Home Office,Office Supplies,Binders,272.03,80.22,9
+US-2025-101086,2025-09-26,South,Corporate,Technology,Accessories,103.66,1.13,4
+US-2025-101087,2025-04-21,East,Corporate,Technology,Copiers,1373.29,-44.48,5
+US-2025-101088,2025-03-02,Central,Consumer,Office Supplies,Storage,84.14,1.79,3
+US-2025-101089,2025-11-16,East,Home Office,Furniture,Chairs,593.87,-82.41,7
+US-2025-101090,2025-11-08,Central,Corporate,Furniture,Chairs,636.49,-42.53,1
+US-2025-101091,2025-06-30,East,Home Office,Office Supplies,Binders,288.26,-24.16,7
+US-2025-101092,2025-05-01,East,Consumer,Office Supplies,Storage,764.86,168.07,7
+US-2025-101093,2025-08-12,South,Corporate,Office Supplies,Storage,331.64,22.27,6
+US-2025-101094,2025-09-29,Central,Corporate,Furniture,Tables,633.37,-197.16,8
+US-2025-101095,2025-01-22,Central,Corporate,Technology,Copiers,149.08,6.07,9
+US-2025-101096,2025-11-04,East,Consumer,Furniture,Bookcases,748.31,48.91,7
+US-2025-101097,2025-11-30,South,Consumer,Office Supplies,Binders,382.93,59.24,3
+US-2025-101098,2025-07-14,Central,Corporate,Furniture,Bookcases,356.53,43.83,6
+US-2025-101099,2025-02-07,East,Home Office,Office Supplies,Paper,680.61,-75.15,2
+US-2025-101100,2025-09-24,Central,Corporate,Technology,Accessories,300.2,-1.65,1
+US-2025-101101,2025-06-15,West,Home Office,Office Supplies,Storage,403.21,113.7,2
+US-2025-101102,2025-01-31,Central,Consumer,Furniture,Tables,562.07,-214.9,6
+US-2025-101103,2025-02-23,East,Corporate,Technology,Phones,785.32,73.23,7
+US-2025-101104,2025-10-13,West,Corporate,Furniture,Bookcases,374.35,61.27,7
+US-2025-101105,2025-11-28,Central,Corporate,Technology,Copiers,993.33,-102.42,5
+US-2025-101106,2025-09-12,South,Consumer,Furniture,Chairs,124.96,27.74,7
+US-2025-101107,2025-07-09,West,Home Office,Technology,Copiers,762.1,156.54,4
+US-2025-101108,2025-08-24,West,Consumer,Office Supplies,Storage,406.06,-23.15,7
+US-2025-101109,2025-10-19,South,Home Office,Office Supplies,Binders,76.65,-0.66,3
+US-2025-101110,2025-10-19,South,Consumer,Technology,Phones,994.58,336.67,4
+US-2025-101111,2025-01-16,Central,Corporate,Office Supplies,Binders,529.96,64.24,8
+US-2025-101112,2025-05-01,West,Home Office,Office Supplies,Storage,1100.93,20.98,6
+US-2025-101113,2025-09-12,South,Consumer,Furniture,Tables,503.44,-138.04,3
+US-2025-101114,2025-07-22,East,Home Office,Technology,Copiers,508.39,39.75,9
+US-2025-101115,2025-11-03,East,Corporate,Furniture,Chairs,667.22,-11.12,8
+US-2025-101116,2025-09-12,East,Consumer,Technology,Phones,458.38,121.76,9
+US-2025-101117,2025-11-19,Central,Corporate,Technology,Phones,1068.95,299.35,8
+US-2025-101118,2025-03-22,Central,Corporate,Furniture,Tables,607.78,-129.09,7
+US-2025-101119,2025-09-15,Central,Corporate,Technology,Phones,605.34,71.07,9
+US-2025-101120,2025-08-07,Central,Home Office,Furniture,Bookcases,531.16,-52.57,2
+US-2025-101121,2025-01-31,East,Corporate,Office Supplies,Storage,243.27,-15.9,7
+US-2025-101122,2025-04-01,South,Corporate,Technology,Copiers,423.86,61.9,5
+US-2025-101123,2025-12-22,Central,Corporate,Office Supplies,Storage,547.0,96.73,4
+US-2025-101124,2025-05-26,West,Corporate,Technology,Copiers,1665.81,137.22,1
+US-2025-101125,2025-07-16,Central,Corporate,Technology,Phones,1078.84,249.77,2
+US-2025-101126,2025-03-03,Central,Consumer,Office Supplies,Storage,397.76,40.53,9
+US-2025-101127,2025-12-23,West,Consumer,Technology,Phones,992.8,59.31,4
+US-2025-101128,2025-10-12,Central,Home Office,Office Supplies,Storage,499.84,128.48,3
+US-2025-101129,2025-06-25,West,Corporate,Technology,Accessories,393.98,135.97,3
+US-2025-101130,2025-06-04,East,Corporate,Office Supplies,Storage,375.38,-43.67,4
+US-2025-101131,2025-12-17,East,Home Office,Office Supplies,Paper,234.53,-34.96,7
+US-2025-101132,2025-05-02,Central,Corporate,Furniture,Bookcases,42.24,8.13,9
+US-2025-101133,2025-11-24,West,Home Office,Furniture,Tables,230.63,-27.82,2
+US-2025-101134,2025-08-17,Central,Consumer,Office Supplies,Paper,524.39,-20.74,1
+US-2025-101135,2025-07-19,South,Corporate,Furniture,Chairs,384.47,112.06,5
+US-2025-101136,2025-05-09,East,Home Office,Furniture,Bookcases,876.37,-112.61,9
+US-2025-101137,2025-11-12,Central,Consumer,Technology,Phones,273.33,-34.18,2
+US-2025-101138,2025-05-29,South,Consumer,Furniture,Bookcases,600.81,-28.11,1
+US-2025-101139,2025-04-10,West,Consumer,Technology,Copiers,1648.92,161.66,1
+US-2025-101140,2025-12-26,East,Corporate,Office Supplies,Paper,393.71,16.42,1
+US-2025-101141,2025-02-15,South,Home Office,Office Supplies,Storage,49.16,4.52,8
+US-2025-101142,2025-03-19,East,Home Office,Technology,Copiers,1238.13,392.88,6
+US-2025-101143,2025-02-08,Central,Consumer,Technology,Phones,972.6,78.12,2
+US-2025-101144,2025-05-25,Central,Home Office,Office Supplies,Binders,611.08,4.79,3
+US-2025-101145,2025-12-24,West,Corporate,Office Supplies,Storage,824.82,-21.86,9
+US-2025-101146,2025-05-27,Central,Corporate,Technology,Copiers,769.71,-11.03,3
+US-2025-101147,2025-11-09,South,Corporate,Furniture,Bookcases,438.04,36.86,1
+US-2025-101148,2025-10-01,East,Corporate,Office Supplies,Binders,960.38,-94.79,9
+US-2025-101149,2025-05-15,East,Consumer,Furniture,Chairs,922.64,219.39,6
+US-2025-101150,2025-05-11,Central,Consumer,Technology,Accessories,214.44,-14.04,9
+US-2025-101151,2025-11-14,Central,Consumer,Office Supplies,Storage,253.25,24.84,6
+US-2025-101152,2025-01-14,South,Corporate,Technology,Accessories,430.27,1.32,9
+US-2025-101153,2025-08-15,South,Consumer,Office Supplies,Paper,197.92,32.67,1
+US-2025-101154,2025-06-13,South,Consumer,Furniture,Tables,359.25,32.5,7
+US-2025-101155,2025-10-11,East,Corporate,Furniture,Bookcases,60.96,20.98,4
+US-2025-101156,2025-07-01,West,Home Office,Technology,Phones,556.82,135.58,5
+US-2025-101157,2025-07-29,Central,Home Office,Furniture,Tables,500.23,47.36,9
+US-2025-101158,2025-02-14,West,Consumer,Furniture,Chairs,285.22,17.7,4
+US-2025-101159,2025-05-09,East,Consumer,Office Supplies,Storage,133.84,46.33,2
+US-2025-101160,2025-01-16,East,Corporate,Technology,Accessories,326.76,73.98,9
+US-2025-101161,2025-08-29,East,Corporate,Office Supplies,Storage,499.74,69.66,7
+US-2025-101162,2025-04-29,Central,Consumer,Technology,Accessories,1097.98,29.31,1
+US-2025-101163,2025-01-26,South,Corporate,Furniture,Tables,124.41,3.6,3
+US-2025-101164,2025-04-29,South,Consumer,Furniture,Bookcases,111.69,-12.08,1
+US-2025-101165,2025-08-26,West,Consumer,Furniture,Bookcases,464.35,55.91,1
+US-2025-101166,2025-01-09,East,Consumer,Furniture,Tables,399.08,-52.63,8
+US-2025-101167,2025-05-08,West,Consumer,Technology,Phones,1405.08,242.6,4
+US-2025-101168,2025-03-20,West,Corporate,Furniture,Tables,1067.53,-323.87,1
+US-2025-101169,2025-02-17,West,Home Office,Technology,Phones,1529.25,161.82,4
+US-2025-101170,2025-11-17,Central,Consumer,Office Supplies,Binders,223.17,-5.82,9
+US-2025-101171,2025-04-06,East,Home Office,Technology,Copiers,111.49,6.98,4
+US-2025-101172,2025-07-23,South,Corporate,Furniture,Chairs,164.61,51.12,9
+US-2025-101173,2025-12-28,South,Home Office,Furniture,Chairs,115.25,23.02,9
+US-2025-101174,2025-07-20,West,Consumer,Technology,Accessories,804.19,-62.34,2
+US-2025-101175,2025-10-14,West,Home Office,Furniture,Chairs,1085.33,222.78,1
+US-2025-101176,2025-02-24,South,Home Office,Technology,Accessories,325.44,-17.94,1
+US-2025-101177,2025-12-23,Central,Consumer,Furniture,Bookcases,211.02,-17.38,9
+US-2025-101178,2025-01-01,East,Consumer,Technology,Copiers,499.03,-47.12,2
+US-2025-101179,2025-11-13,Central,Home Office,Furniture,Tables,431.56,40.02,1
+US-2025-101180,2025-12-22,South,Consumer,Furniture,Bookcases,169.13,17.8,6
+US-2025-101181,2025-08-01,East,Corporate,Office Supplies,Paper,100.27,9.56,4
+US-2025-101182,2025-12-03,West,Home Office,Office Supplies,Paper,991.26,-139.6,6
+US-2025-101183,2025-04-25,South,Corporate,Office Supplies,Paper,260.96,73.99,3
+US-2025-101184,2025-02-14,East,Home Office,Office Supplies,Paper,974.53,-60.56,8
+US-2025-101185,2025-01-31,West,Corporate,Technology,Copiers,476.97,145.49,7
+US-2025-101186,2025-02-28,East,Home Office,Furniture,Bookcases,509.13,-62.49,5
+US-2025-101187,2025-03-31,Central,Home Office,Furniture,Bookcases,402.36,-40.21,2
+US-2025-101188,2025-11-17,East,Corporate,Furniture,Bookcases,62.51,12.55,8
+US-2025-101189,2025-09-08,West,Corporate,Furniture,Tables,180.6,-60.46,5
+US-2025-101190,2025-01-18,East,Consumer,Technology,Phones,1461.82,-29.59,2
+US-2025-101191,2025-08-28,East,Home Office,Office Supplies,Storage,307.4,-30.09,5
+US-2025-101192,2025-09-29,Central,Home Office,Technology,Copiers,748.04,10.72,4
+US-2025-101193,2025-05-29,South,Consumer,Office Supplies,Binders,143.7,-16.55,3
+US-2025-101194,2025-06-20,East,Corporate,Technology,Phones,1019.34,152.0,2
+US-2025-101195,2025-04-18,West,Home Office,Furniture,Chairs,586.83,-29.86,2
+US-2025-101196,2025-12-24,South,Home Office,Office Supplies,Storage,142.68,8.5,1
+US-2025-101197,2025-06-28,West,Consumer,Furniture,Chairs,246.14,64.98,5
+US-2025-101198,2025-03-31,East,Corporate,Office Supplies,Paper,393.68,-15.27,4
+US-2025-101199,2025-10-09,East,Home Office,Office Supplies,Paper,267.45,82.41,3
+US-2025-101200,2025-08-27,Central,Corporate,Furniture,Chairs,50.01,12.17,7
+US-2025-101201,2025-06-30,East,Corporate,Office Supplies,Storage,576.2,26.43,1
+US-2025-101202,2025-11-21,Central,Consumer,Office Supplies,Paper,162.52,-2.63,4
+US-2025-101203,2025-10-10,Central,Corporate,Furniture,Chairs,112.41,4.5,1
+US-2025-101204,2025-06-27,Central,Corporate,Technology,Accessories,987.75,43.94,2
+US-2025-101205,2025-06-22,South,Home Office,Technology,Copiers,336.2,41.76,2
+US-2025-101206,2025-01-04,Central,Consumer,Furniture,Tables,522.68,-129.45,1
+US-2025-101207,2025-09-21,West,Corporate,Technology,Copiers,1394.44,-144.42,4
+US-2025-101208,2025-03-29,Central,Corporate,Office Supplies,Storage,547.12,105.58,3
+US-2025-101209,2025-12-21,East,Home Office,Office Supplies,Paper,342.08,-44.58,1
+US-2025-101210,2025-07-09,East,Home Office,Technology,Copiers,132.93,-3.51,3
+US-2025-101211,2025-06-20,East,Home Office,Technology,Accessories,742.35,-96.85,4
+US-2025-101212,2025-09-02,South,Corporate,Technology,Phones,259.33,65.46,3
+US-2025-101213,2025-02-22,Central,Consumer,Technology,Accessories,941.08,-67.32,7
+US-2025-101214,2025-03-28,West,Home Office,Office Supplies,Paper,1069.91,1.68,4
+US-2025-101215,2025-01-25,Central,Corporate,Technology,Phones,1159.0,317.29,7
+US-2025-101216,2025-04-01,West,Home Office,Office Supplies,Storage,386.7,-30.73,6
+US-2025-101217,2025-10-05,South,Consumer,Technology,Copiers,815.71,281.36,5
+US-2025-101218,2025-10-28,East,Corporate,Technology,Phones,1112.57,102.7,4
+US-2025-101219,2025-02-25,South,Corporate,Office Supplies,Binders,233.89,33.88,3
+US-2025-101220,2025-04-15,South,Home Office,Office Supplies,Paper,300.85,99.6,7
+US-2025-101221,2025-10-06,South,Home Office,Technology,Accessories,760.14,200.12,4
+US-2025-101222,2025-01-04,West,Consumer,Furniture,Chairs,615.91,-31.03,8
+US-2025-101223,2025-03-18,South,Consumer,Furniture,Chairs,532.38,32.55,5
+US-2025-101224,2025-11-29,Central,Home Office,Technology,Phones,921.44,258.18,4
+US-2025-101225,2025-08-02,West,Consumer,Technology,Copiers,88.34,21.46,3
+US-2025-101226,2025-07-21,West,Home Office,Office Supplies,Paper,909.83,184.93,7
+US-2025-101227,2025-06-21,West,Consumer,Office Supplies,Storage,832.68,20.03,4
+US-2025-101228,2025-06-12,East,Consumer,Technology,Accessories,343.26,116.54,5
+US-2025-101229,2025-01-09,East,Corporate,Technology,Accessories,1413.74,51.69,6
+US-2025-101230,2025-07-14,South,Consumer,Office Supplies,Binders,438.76,84.89,5
+US-2025-101231,2025-07-06,East,Consumer,Office Supplies,Paper,605.94,33.2,6
+US-2025-101232,2025-06-29,Central,Corporate,Office Supplies,Binders,108.08,30.06,3
+US-2025-101233,2025-06-20,West,Consumer,Furniture,Tables,735.96,-209.63,5
+US-2025-101234,2025-10-17,West,Corporate,Office Supplies,Storage,1112.09,328.75,6
+US-2025-101235,2025-02-26,East,Home Office,Furniture,Chairs,456.44,-16.89,8
+US-2025-101236,2025-12-15,West,Home Office,Technology,Copiers,1415.09,449.61,1
+US-2025-101237,2025-02-19,East,Home Office,Office Supplies,Paper,59.62,0.28,1
+US-2025-101238,2025-02-09,East,Corporate,Technology,Phones,1051.39,-145.41,9
+US-2025-101239,2025-04-26,Central,Consumer,Office Supplies,Storage,756.43,-42.15,2
+US-2025-101240,2025-02-09,South,Corporate,Technology,Accessories,439.33,-13.52,7
+US-2025-101241,2025-06-05,West,Home Office,Technology,Phones,1582.22,-225.58,3
+US-2025-101242,2025-01-13,West,Consumer,Furniture,Tables,204.74,-38.59,4
+US-2025-101243,2025-07-07,West,Corporate,Technology,Phones,1580.42,525.43,5
+US-2025-101244,2025-01-15,East,Consumer,Technology,Accessories,1110.86,244.49,5
+US-2025-101245,2025-11-05,East,Corporate,Technology,Accessories,1467.78,175.72,8
+US-2025-101246,2025-05-13,Central,Corporate,Furniture,Bookcases,360.71,83.5,1
+US-2025-101247,2025-02-13,West,Home Office,Furniture,Tables,353.21,-45.59,4
+US-2025-101248,2025-08-20,South,Consumer,Furniture,Tables,500.94,8.02,7
+US-2025-101249,2025-08-23,West,Corporate,Technology,Phones,396.93,29.82,5
+US-2025-101250,2025-06-27,East,Corporate,Technology,Copiers,186.98,42.23,3
+US-2025-101251,2025-12-09,West,Consumer,Technology,Phones,799.91,253.85,2
+US-2025-101252,2025-02-16,South,Consumer,Furniture,Tables,354.7,-127.69,8
+US-2025-101253,2025-05-17,Central,Corporate,Office Supplies,Storage,179.25,45.33,8
+US-2025-101254,2025-03-28,Central,Corporate,Office Supplies,Paper,266.75,67.43,1
+US-2025-101255,2025-04-29,South,Home Office,Technology,Accessories,353.65,3.69,3
+US-2025-101256,2025-04-26,South,Home Office,Furniture,Chairs,37.24,3.01,3
+US-2025-101257,2025-02-18,West,Corporate,Furniture,Bookcases,178.42,21.58,1
+US-2025-101258,2025-10-03,West,Home Office,Furniture,Bookcases,504.28,118.55,1
+US-2025-101259,2025-02-10,West,Corporate,Technology,Accessories,1436.15,-63.31,8
+US-2025-101260,2025-02-24,South,Consumer,Office Supplies,Binders,164.48,-17.41,1
+US-2025-101261,2025-07-20,South,Home Office,Furniture,Chairs,168.78,29.54,7
+US-2025-101262,2025-06-05,Central,Home Office,Office Supplies,Paper,571.2,-81.68,7
+US-2025-101263,2025-06-25,East,Consumer,Furniture,Chairs,145.57,35.6,6
+US-2025-101264,2025-07-04,Central,Home Office,Office Supplies,Storage,34.12,-1.02,6
+US-2025-101265,2025-12-01,South,Home Office,Technology,Accessories,709.32,35.38,9
+US-2025-101266,2025-11-08,West,Corporate,Furniture,Chairs,118.8,-5.46,9
+US-2025-101267,2025-07-11,South,Consumer,Technology,Accessories,521.16,148.75,7
+US-2025-101268,2025-08-02,South,Consumer,Furniture,Chairs,247.99,15.23,2
+US-2025-101269,2025-03-12,East,Consumer,Office Supplies,Binders,194.68,47.1,9
+US-2025-101270,2025-05-19,West,Home Office,Office Supplies,Binders,802.96,20.1,9
+US-2025-101271,2025-10-02,South,Corporate,Office Supplies,Binders,294.31,-26.56,7
+US-2025-101272,2025-03-10,Central,Home Office,Office Supplies,Paper,541.29,181.59,1
+US-2025-101273,2025-11-06,East,Consumer,Technology,Accessories,460.7,10.84,5
+US-2025-101274,2025-03-31,Central,Consumer,Office Supplies,Binders,756.31,-110.74,9
+US-2025-101275,2025-06-28,South,Corporate,Technology,Copiers,671.84,229.84,8
+US-2025-101276,2025-02-07,Central,Corporate,Office Supplies,Storage,556.62,138.52,6
+US-2025-101277,2025-03-06,West,Corporate,Furniture,Bookcases,846.22,214.25,9
+US-2025-101278,2025-12-22,East,Home Office,Technology,Phones,1017.37,242.19,9
+US-2025-101279,2025-01-16,Central,Corporate,Office Supplies,Storage,577.1,-68.42,1
+US-2025-101280,2025-01-05,South,Consumer,Furniture,Bookcases,63.12,11.69,1
+US-2025-101281,2025-07-04,East,Home Office,Technology,Phones,1400.26,-59.71,1
+US-2025-101282,2025-04-28,West,Home Office,Furniture,Chairs,337.77,97.08,3
+US-2025-101283,2025-11-11,West,Corporate,Furniture,Chairs,458.11,66.54,8
+US-2025-101284,2025-12-19,West,Home Office,Furniture,Bookcases,821.32,65.91,9
+US-2025-101285,2025-04-18,East,Home Office,Furniture,Tables,395.83,-79.55,4
+US-2025-101286,2025-09-21,Central,Home Office,Office Supplies,Binders,522.56,170.38,5
+US-2025-101287,2025-01-28,East,Consumer,Technology,Accessories,1203.08,-95.64,8
+US-2025-101288,2025-10-19,Central,Consumer,Office Supplies,Paper,270.48,-19.87,1
+US-2025-101289,2025-04-11,Central,Home Office,Office Supplies,Paper,398.08,-54.83,9
+US-2025-101290,2025-05-14,Central,Home Office,Technology,Accessories,644.18,80.36,1
+US-2025-101291,2025-06-05,East,Home Office,Office Supplies,Paper,134.59,6.13,1
+US-2025-101292,2025-03-31,Central,Home Office,Office Supplies,Binders,449.33,36.23,3
+US-2025-101293,2025-10-11,West,Consumer,Furniture,Bookcases,488.01,51.83,2
+US-2025-101294,2025-09-17,South,Corporate,Office Supplies,Storage,421.89,97.64,9
+US-2025-101295,2025-10-29,Central,Consumer,Furniture,Chairs,224.55,-2.86,8
+US-2025-101296,2025-01-10,East,Home Office,Furniture,Chairs,832.85,107.32,2
+US-2025-101297,2025-02-28,East,Home Office,Office Supplies,Binders,475.35,49.18,5
+US-2025-101298,2025-10-01,West,Home Office,Technology,Copiers,979.41,342.11,7
+US-2025-101299,2025-04-02,South,Corporate,Technology,Copiers,900.29,2.34,2
+US-2025-101300,2025-03-05,East,Consumer,Technology,Accessories,97.36,33.23,9
+US-2025-101301,2025-04-29,West,Consumer,Office Supplies,Binders,849.44,28.98,8
+US-2025-101302,2025-02-25,Central,Corporate,Furniture,Tables,682.32,-241.45,4
+US-2025-101303,2025-11-27,East,Consumer,Furniture,Chairs,894.4,164.02,4
+US-2025-101304,2025-11-13,West,Consumer,Technology,Accessories,917.41,-127.26,4
+US-2025-101305,2025-03-11,West,Corporate,Furniture,Chairs,927.6,125.26,8
+US-2025-101306,2025-11-12,Central,Consumer,Technology,Accessories,989.79,306.29,9
+US-2025-101307,2025-09-14,Central,Consumer,Office Supplies,Binders,705.87,47.58,4
+US-2025-101308,2025-08-12,West,Home Office,Furniture,Chairs,624.25,157.13,7
+US-2025-101309,2025-04-30,East,Consumer,Office Supplies,Paper,98.31,27.25,7
+US-2025-101310,2025-08-29,East,Corporate,Technology,Copiers,1296.07,137.58,4
+US-2025-101311,2025-06-08,South,Corporate,Furniture,Tables,377.75,-50.69,9
+US-2025-101312,2025-08-09,West,Consumer,Office Supplies,Storage,850.43,7.89,9
+US-2025-101313,2025-08-02,Central,Consumer,Technology,Phones,898.86,16.97,9
+US-2025-101314,2025-06-18,West,Corporate,Furniture,Tables,143.69,-11.77,6
+US-2025-101315,2025-07-20,South,Corporate,Office Supplies,Binders,134.77,4.82,8
+US-2025-101316,2025-02-09,South,Consumer,Office Supplies,Paper,200.04,24.31,4
+US-2025-101317,2025-05-14,South,Corporate,Technology,Phones,160.61,22.52,2
+US-2025-101318,2025-04-18,Central,Corporate,Technology,Copiers,210.62,24.45,2
+US-2025-101319,2025-02-13,West,Consumer,Office Supplies,Binders,82.65,-5.24,8
+US-2025-101320,2025-03-28,East,Consumer,Technology,Copiers,1138.04,316.0,6
+US-2025-101321,2025-12-17,South,Home Office,Technology,Phones,934.07,-57.84,2
+US-2025-101322,2025-10-15,East,Consumer,Furniture,Bookcases,947.57,152.37,6
+US-2025-101323,2025-05-12,South,Consumer,Office Supplies,Paper,236.49,63.94,1
+US-2025-101324,2025-08-13,East,Consumer,Office Supplies,Binders,859.83,198.15,6
+US-2025-101325,2025-04-21,West,Home Office,Office Supplies,Storage,548.9,36.68,4
+US-2025-101326,2025-10-27,East,Consumer,Office Supplies,Paper,614.34,148.63,9
+US-2025-101327,2025-08-22,East,Corporate,Technology,Phones,661.34,79.65,2
+US-2025-101328,2025-09-01,Central,Home Office,Office Supplies,Storage,537.35,35.3,4
+US-2025-101329,2025-10-24,West,Corporate,Furniture,Chairs,461.56,110.15,2
+US-2025-101330,2025-04-22,South,Home Office,Furniture,Tables,145.62,-29.18,6
+US-2025-101331,2025-05-15,South,Home Office,Office Supplies,Binders,463.11,118.67,7
+US-2025-101332,2025-04-08,East,Home Office,Technology,Phones,1380.2,-98.73,2
+US-2025-101333,2025-02-03,South,Home Office,Technology,Accessories,514.78,78.15,8
+US-2025-101334,2025-07-28,South,Corporate,Furniture,Tables,347.49,-28.08,2
+US-2025-101335,2025-05-20,East,Consumer,Furniture,Chairs,918.57,-35.92,3
+US-2025-101336,2025-01-28,West,Corporate,Furniture,Chairs,107.87,-13.46,1
+US-2025-101337,2025-07-29,South,Corporate,Office Supplies,Binders,361.86,42.0,8
+US-2025-101338,2025-04-18,Central,Home Office,Technology,Phones,650.59,37.34,1
+US-2025-101339,2025-12-06,Central,Corporate,Office Supplies,Binders,544.61,135.2,1
+US-2025-101340,2025-11-26,East,Consumer,Office Supplies,Binders,599.47,134.09,4
+US-2025-101341,2025-09-04,Central,Home Office,Technology,Copiers,273.79,-6.9,8
+US-2025-101342,2025-09-19,West,Corporate,Office Supplies,Storage,236.68,66.35,1
+US-2025-101343,2025-05-25,East,Home Office,Furniture,Tables,968.0,-198.93,6
+US-2025-101344,2025-03-17,Central,Home Office,Technology,Phones,628.69,-88.02,3
+US-2025-101345,2025-10-12,West,Home Office,Office Supplies,Paper,267.25,86.22,1
+US-2025-101346,2025-09-04,West,Corporate,Technology,Phones,1362.22,-107.59,3
+US-2025-101347,2025-08-16,East,Consumer,Furniture,Tables,338.69,-102.46,9
+US-2025-101348,2025-11-05,East,Home Office,Technology,Phones,639.5,221.64,7
+US-2025-101349,2025-08-04,West,Consumer,Technology,Phones,41.92,8.9,3
+US-2025-101350,2025-01-09,West,Home Office,Office Supplies,Storage,193.16,13.56,3
+US-2025-101351,2025-06-26,West,Consumer,Technology,Phones,400.06,34.93,7
+US-2025-101352,2025-07-14,South,Consumer,Office Supplies,Storage,628.85,-57.33,5
+US-2025-101353,2025-04-03,East,Consumer,Furniture,Tables,640.19,-251.62,2
+US-2025-101354,2025-02-28,Central,Corporate,Furniture,Bookcases,559.89,150.03,3
+US-2025-101355,2025-03-19,South,Corporate,Furniture,Bookcases,454.31,2.68,3
+US-2025-101356,2025-07-18,East,Consumer,Technology,Phones,177.09,35.97,8
+US-2025-101357,2025-03-19,East,Corporate,Technology,Copiers,260.29,-34.38,8
+US-2025-101358,2025-05-09,Central,Consumer,Technology,Phones,850.4,41.63,1
+US-2025-101359,2025-05-04,West,Corporate,Office Supplies,Binders,721.93,212.17,4
+US-2025-101360,2025-10-15,Central,Consumer,Office Supplies,Binders,742.4,-32.48,2
+US-2025-101361,2025-04-15,South,Home Office,Office Supplies,Paper,148.86,50.43,1
+US-2025-101362,2025-06-22,South,Consumer,Office Supplies,Paper,345.54,3.97,4
+US-2025-101363,2025-07-07,South,Home Office,Office Supplies,Storage,148.35,50.61,5
+US-2025-101364,2025-10-12,South,Corporate,Furniture,Tables,280.3,-38.39,4
+US-2025-101365,2025-02-15,South,Home Office,Furniture,Tables,488.03,-85.14,1
+US-2025-101366,2025-05-12,East,Corporate,Office Supplies,Binders,28.28,-4.03,4
+US-2025-101367,2025-07-19,East,Home Office,Office Supplies,Paper,214.54,36.7,8
+US-2025-101368,2025-10-06,Central,Home Office,Furniture,Chairs,637.57,24.99,2
+US-2025-101369,2025-12-12,West,Home Office,Office Supplies,Paper,1050.4,277.24,6
+US-2025-101370,2025-02-14,East,Consumer,Technology,Phones,647.46,165.79,2
+US-2025-101371,2025-06-10,East,Home Office,Technology,Copiers,1053.92,-97.37,1
+US-2025-101372,2025-09-27,Central,Corporate,Furniture,Tables,591.08,58.67,9
+US-2025-101373,2025-07-30,East,Consumer,Technology,Accessories,846.15,-82.49,9
+US-2025-101374,2025-07-24,East,Consumer,Office Supplies,Storage,719.04,-53.67,4
+US-2025-101375,2025-09-13,Central,Home Office,Furniture,Chairs,669.97,187.56,4
+US-2025-101376,2025-10-02,Central,Home Office,Technology,Accessories,593.12,175.34,4
+US-2025-101377,2025-11-20,Central,Home Office,Office Supplies,Paper,761.92,266.44,6
+US-2025-101378,2025-10-07,East,Consumer,Furniture,Tables,732.82,14.5,8
+US-2025-101379,2025-03-16,South,Consumer,Furniture,Bookcases,335.08,39.94,6
+US-2025-101380,2025-03-02,Central,Consumer,Office Supplies,Storage,661.46,3.38,5
+US-2025-101381,2025-04-25,East,Corporate,Furniture,Tables,848.53,-132.81,6
+US-2025-101382,2025-12-28,West,Consumer,Technology,Phones,930.15,-78.26,7
+US-2025-101383,2025-07-30,South,Consumer,Technology,Phones,241.21,78.28,2
+US-2025-101384,2025-08-30,West,Consumer,Office Supplies,Binders,424.21,109.94,4
+US-2025-101385,2025-04-25,East,Home Office,Office Supplies,Storage,415.04,-5.78,1
+US-2025-101386,2025-01-29,East,Corporate,Office Supplies,Binders,79.65,16.92,7
+US-2025-101387,2025-11-16,East,Home Office,Technology,Phones,966.86,229.35,3
+US-2025-101388,2025-11-07,East,Corporate,Technology,Accessories,1160.73,58.14,2
+US-2025-101389,2025-08-15,South,Consumer,Office Supplies,Binders,177.93,38.9,4
+US-2025-101390,2025-11-27,Central,Corporate,Technology,Accessories,986.54,39.06,4
+US-2025-101391,2025-03-10,West,Home Office,Technology,Copiers,313.23,84.17,3
+US-2025-101392,2025-04-15,East,Home Office,Technology,Accessories,905.48,-79.3,8
+US-2025-101393,2025-09-23,West,Home Office,Technology,Phones,847.96,-45.14,9
+US-2025-101394,2025-06-30,South,Home Office,Technology,Accessories,763.2,73.83,9
+US-2025-101395,2025-07-20,West,Consumer,Office Supplies,Binders,642.02,92.89,4
+US-2025-101396,2025-06-11,East,Corporate,Office Supplies,Storage,137.08,-7.25,4
+US-2025-101397,2025-02-18,South,Home Office,Technology,Accessories,721.89,-89.82,1
+US-2025-101398,2025-08-08,Central,Home Office,Office Supplies,Storage,333.19,76.42,5
+US-2025-101399,2025-08-06,East,Home Office,Furniture,Bookcases,944.18,40.96,7
+US-2025-101400,2025-11-14,Central,Home Office,Office Supplies,Paper,298.05,84.8,9
+US-2025-101401,2025-06-11,East,Home Office,Office Supplies,Paper,395.42,2.82,7
+US-2025-101402,2025-01-15,West,Corporate,Office Supplies,Binders,326.8,74.59,8
+US-2025-101403,2025-04-15,West,Home Office,Office Supplies,Binders,1075.47,176.05,7
+US-2025-101404,2025-12-17,Central,Corporate,Office Supplies,Storage,80.1,7.91,8
+US-2025-101405,2025-09-10,West,Consumer,Office Supplies,Storage,942.59,262.06,1
+US-2025-101406,2025-04-15,South,Corporate,Office Supplies,Paper,570.27,176.48,9
+US-2025-101407,2025-03-11,West,Corporate,Office Supplies,Binders,704.47,-86.25,9
+US-2025-101408,2025-04-01,East,Consumer,Office Supplies,Storage,797.57,202.36,1
+US-2025-101409,2025-01-07,South,Corporate,Furniture,Tables,497.48,-140.57,7
+US-2025-101410,2025-12-02,South,Corporate,Office Supplies,Binders,151.56,40.72,9
+US-2025-101411,2025-08-21,Central,Home Office,Office Supplies,Binders,472.99,19.78,5
+US-2025-101412,2025-08-08,East,Corporate,Technology,Accessories,1201.97,-47.83,7
+US-2025-101413,2025-11-21,Central,Corporate,Office Supplies,Binders,215.32,-0.49,8
+US-2025-101414,2025-06-28,West,Home Office,Office Supplies,Storage,1029.34,214.2,5
+US-2025-101415,2025-01-31,South,Home Office,Technology,Copiers,285.26,64.56,7
+US-2025-101416,2025-03-16,Central,Home Office,Technology,Phones,764.34,56.9,1
+US-2025-101417,2025-12-04,West,Consumer,Technology,Copiers,273.67,76.82,6
+US-2025-101418,2025-05-14,South,Consumer,Technology,Accessories,663.18,10.14,7
+US-2025-101419,2025-03-30,Central,Home Office,Technology,Accessories,336.32,107.29,5
+US-2025-101420,2025-08-26,East,Consumer,Furniture,Bookcases,164.47,31.16,1
+US-2025-101421,2025-03-12,West,Home Office,Furniture,Chairs,486.66,147.36,5
+US-2025-101422,2025-07-30,South,Home Office,Office Supplies,Paper,474.0,-18.54,4
+US-2025-101423,2025-07-01,Central,Home Office,Technology,Copiers,1001.37,-60.77,4
+US-2025-101424,2025-02-08,West,Consumer,Office Supplies,Paper,300.54,51.69,8
+US-2025-101425,2025-07-10,East,Corporate,Technology,Copiers,1557.29,448.69,7
+US-2025-101426,2025-08-02,West,Consumer,Technology,Copiers,1350.44,-18.19,3
+US-2025-101427,2025-11-19,West,Corporate,Furniture,Chairs,472.72,-22.31,8
+US-2025-101428,2025-07-18,Central,Corporate,Technology,Copiers,1101.45,139.09,6
+US-2025-101429,2025-08-14,East,Home Office,Technology,Copiers,1113.42,68.93,1
+US-2025-101430,2025-11-02,West,Consumer,Furniture,Tables,249.59,-23.88,1
+US-2025-101431,2025-03-01,East,Corporate,Office Supplies,Paper,639.15,173.81,6
+US-2025-101432,2025-11-24,Central,Corporate,Technology,Copiers,402.47,66.42,4
+US-2025-101433,2025-12-06,South,Consumer,Office Supplies,Binders,517.17,94.75,2
+US-2025-101434,2025-04-11,South,Home Office,Technology,Accessories,488.42,133.48,7
+US-2025-101435,2025-11-07,Central,Home Office,Furniture,Chairs,24.02,2.86,9
+US-2025-101436,2025-07-22,West,Home Office,Technology,Phones,255.54,-14.2,1
+US-2025-101437,2025-10-08,West,Consumer,Office Supplies,Storage,661.93,199.16,9
+US-2025-101438,2025-07-05,Central,Corporate,Office Supplies,Storage,233.85,44.47,2
+US-2025-101439,2025-06-05,West,Consumer,Office Supplies,Binders,929.92,-39.38,9
+US-2025-101440,2025-04-25,Central,Consumer,Office Supplies,Storage,19.8,-2.09,5
+US-2025-101441,2025-11-07,West,Consumer,Office Supplies,Binders,583.34,187.25,8
+US-2025-101442,2025-09-08,Central,Corporate,Technology,Phones,924.25,1.46,4
+US-2025-101443,2025-10-20,Central,Corporate,Technology,Phones,945.05,84.79,8
+US-2025-101444,2025-05-19,Central,Home Office,Technology,Copiers,224.27,-15.68,5
+US-2025-101445,2025-03-18,South,Consumer,Furniture,Chairs,126.95,-16.19,5
+US-2025-101446,2025-08-24,Central,Corporate,Furniture,Bookcases,594.51,6.99,6
+US-2025-101447,2025-02-20,East,Home Office,Furniture,Bookcases,435.9,119.48,6
+US-2025-101448,2025-07-02,Central,Consumer,Office Supplies,Paper,23.07,-0.36,2
+US-2025-101449,2025-04-25,Central,Home Office,Technology,Accessories,44.32,-3.96,5
+US-2025-101450,2025-09-10,South,Consumer,Office Supplies,Paper,276.48,75.56,4
+US-2025-101451,2025-07-12,Central,Home Office,Furniture,Chairs,390.92,84.35,9
+US-2025-101452,2025-08-21,West,Home Office,Furniture,Chairs,362.7,-32.48,2
+US-2025-101453,2025-07-06,West,Consumer,Technology,Copiers,387.72,111.09,8
+US-2025-101454,2025-03-10,West,Home Office,Technology,Phones,822.72,-115.58,7
+US-2025-101455,2025-07-29,East,Consumer,Office Supplies,Paper,333.82,67.17,5
+US-2025-101456,2025-02-03,West,Corporate,Technology,Accessories,280.35,81.9,6
+US-2025-101457,2025-12-21,East,Corporate,Technology,Accessories,1099.25,273.13,3
+US-2025-101458,2025-06-16,East,Consumer,Technology,Copiers,934.84,123.17,6
+US-2025-101459,2025-04-05,South,Corporate,Technology,Phones,50.09,-7.14,5
+US-2025-101460,2025-10-06,West,Corporate,Furniture,Tables,929.86,-304.05,2
+US-2025-101461,2025-06-03,South,Home Office,Technology,Accessories,295.78,89.41,9
+US-2025-101462,2025-09-19,Central,Home Office,Furniture,Bookcases,21.86,2.74,3
+US-2025-101463,2025-11-04,West,Home Office,Technology,Phones,1265.52,398.02,6
+US-2025-101464,2025-05-15,West,Home Office,Office Supplies,Binders,964.42,177.31,9
+US-2025-101465,2025-03-29,South,Home Office,Technology,Phones,146.83,25.39,5
+US-2025-101466,2025-08-15,South,Home Office,Technology,Accessories,654.75,-90.79,7
+US-2025-101467,2025-07-01,East,Consumer,Office Supplies,Storage,840.48,152.34,3
+US-2025-101468,2025-10-25,South,Corporate,Furniture,Chairs,560.86,-54.14,5
+US-2025-101469,2025-08-18,East,Consumer,Technology,Phones,1259.2,-17.07,7
+US-2025-101470,2025-09-19,East,Corporate,Technology,Accessories,931.15,271.1,6
+US-2025-101471,2025-12-25,East,Corporate,Technology,Phones,1524.93,-55.36,3
+US-2025-101472,2025-10-20,South,Home Office,Technology,Copiers,686.09,40.19,5
+US-2025-101473,2025-10-05,East,Home Office,Office Supplies,Paper,576.05,181.58,4
+US-2025-101474,2025-05-10,Central,Home Office,Furniture,Chairs,681.14,104.27,7
+US-2025-101475,2025-05-31,West,Home Office,Furniture,Bookcases,544.55,-62.95,6
+US-2025-101476,2025-04-13,Central,Consumer,Furniture,Bookcases,331.41,55.53,8
+US-2025-101477,2025-12-27,South,Corporate,Furniture,Chairs,500.97,54.47,3
+US-2025-101478,2025-08-10,East,Corporate,Office Supplies,Paper,319.38,72.63,6
+US-2025-101479,2025-06-24,West,Consumer,Furniture,Tables,214.1,-42.49,9
+US-2025-101480,2025-08-30,West,Home Office,Office Supplies,Binders,398.44,96.03,9
+US-2025-101481,2025-08-31,South,Corporate,Technology,Copiers,408.34,6.57,5
+US-2025-101482,2025-07-13,Central,Home Office,Technology,Phones,1120.08,-63.3,7
+US-2025-101483,2025-04-09,West,Corporate,Office Supplies,Binders,502.78,66.29,5
+US-2025-101484,2025-04-25,West,Corporate,Office Supplies,Paper,856.88,183.93,7
+US-2025-101485,2025-12-28,Central,Corporate,Technology,Accessories,856.48,250.04,7
+US-2025-101486,2025-12-20,Central,Corporate,Furniture,Bookcases,292.17,42.7,2
+US-2025-101487,2025-08-03,East,Consumer,Office Supplies,Storage,53.14,11.36,2
+US-2025-101488,2025-06-04,Central,Corporate,Office Supplies,Binders,581.96,-72.16,2
+US-2025-101489,2025-12-06,East,Consumer,Furniture,Chairs,305.8,-4.87,1
+US-2025-101490,2025-03-19,West,Corporate,Technology,Copiers,1242.73,238.19,2
+US-2025-101491,2025-11-04,West,Corporate,Furniture,Tables,158.05,-28.74,4
+US-2025-101492,2025-09-05,South,Home Office,Office Supplies,Storage,229.57,-5.23,9
+US-2025-101493,2025-01-12,South,Corporate,Furniture,Tables,323.69,-75.97,3
+US-2025-101494,2025-08-09,Central,Home Office,Technology,Copiers,1161.76,35.06,6
+US-2025-101495,2025-10-05,East,Corporate,Office Supplies,Storage,861.93,175.6,1
+US-2025-101496,2025-09-24,East,Corporate,Technology,Accessories,1114.9,3.03,5
+US-2025-101497,2025-11-22,East,Consumer,Technology,Phones,841.46,126.31,9
+US-2025-101498,2025-02-13,East,Consumer,Furniture,Bookcases,935.71,125.14,4
+US-2025-101499,2025-09-21,West,Consumer,Furniture,Chairs,269.78,76.73,3
+US-2025-101500,2025-11-29,West,Corporate,Furniture,Tables,125.83,-40.79,6
+US-2025-101501,2025-05-09,Central,Corporate,Furniture,Chairs,188.88,11.93,4
+US-2025-101502,2025-09-04,East,Corporate,Office Supplies,Paper,387.42,105.86,6
+US-2025-101503,2025-12-18,East,Home Office,Technology,Phones,685.55,209.95,6
+US-2025-101504,2025-06-22,South,Consumer,Furniture,Bookcases,428.6,-54.25,2
+US-2025-101505,2025-04-16,East,Consumer,Office Supplies,Storage,410.91,137.21,4
+US-2025-101506,2025-05-27,East,Corporate,Furniture,Tables,606.67,44.47,6
+US-2025-101507,2025-02-01,West,Corporate,Technology,Accessories,244.57,60.83,4
+US-2025-101508,2025-09-13,East,Corporate,Office Supplies,Paper,307.97,-6.74,7
+US-2025-101509,2025-05-17,South,Consumer,Furniture,Bookcases,350.24,-6.94,7
+US-2025-101510,2025-07-30,West,Corporate,Furniture,Tables,327.35,-9.67,5
+US-2025-101511,2025-01-29,South,Home Office,Office Supplies,Paper,441.99,-20.73,9
+US-2025-101512,2025-09-12,East,Consumer,Furniture,Bookcases,145.7,-11.37,5
+US-2025-101513,2025-01-06,Central,Consumer,Technology,Phones,354.18,18.38,3
+US-2025-101514,2025-07-18,West,Consumer,Technology,Copiers,174.73,-17.26,8
+US-2025-101515,2025-07-20,Central,Corporate,Furniture,Tables,652.87,-156.41,2
+US-2025-101516,2025-06-07,Central,Corporate,Furniture,Tables,733.03,-180.5,8
+US-2025-101517,2025-04-04,East,Consumer,Office Supplies,Binders,556.39,102.34,4
+US-2025-101518,2025-03-03,West,Corporate,Office Supplies,Paper,955.36,270.54,2
+US-2025-101519,2025-05-27,Central,Home Office,Technology,Copiers,1111.39,325.13,9
+US-2025-101520,2025-04-08,West,Consumer,Furniture,Bookcases,976.52,-18.82,7
+US-2025-101521,2025-01-09,West,Home Office,Furniture,Bookcases,311.15,10.06,4
+US-2025-101522,2025-10-22,East,Home Office,Office Supplies,Paper,694.89,99.06,3
+US-2025-101523,2025-05-01,Central,Home Office,Office Supplies,Storage,299.41,50.5,2
+US-2025-101524,2025-10-25,South,Corporate,Technology,Accessories,630.4,118.17,4
+US-2025-101525,2025-09-05,East,Consumer,Technology,Phones,419.52,3.85,3
+US-2025-101526,2025-09-18,Central,Consumer,Office Supplies,Storage,278.05,-16.4,5
+US-2025-101527,2025-02-05,South,Consumer,Furniture,Bookcases,457.34,-18.46,7
+US-2025-101528,2025-01-21,Central,Corporate,Office Supplies,Storage,534.6,-48.16,1
+US-2025-101529,2025-02-07,South,Corporate,Office Supplies,Storage,413.54,142.36,8
+US-2025-101530,2025-10-26,Central,Consumer,Technology,Accessories,91.94,9.7,2
+US-2025-101531,2025-04-10,West,Corporate,Furniture,Tables,900.93,-160.06,6
+US-2025-101532,2025-05-19,East,Corporate,Office Supplies,Binders,450.02,134.32,1
+US-2025-101533,2025-03-19,South,Consumer,Technology,Accessories,697.27,117.92,6
+US-2025-101534,2025-06-11,Central,Corporate,Office Supplies,Paper,490.37,98.66,8
+US-2025-101535,2025-07-05,East,Home Office,Office Supplies,Paper,763.59,150.01,3
+US-2025-101536,2025-03-02,South,Home Office,Office Supplies,Paper,336.82,21.09,1
+US-2025-101537,2025-09-04,South,Corporate,Office Supplies,Paper,586.08,144.66,7
+US-2025-101538,2025-06-17,South,Consumer,Furniture,Chairs,122.74,-12.12,7
+US-2025-101539,2025-12-21,East,Consumer,Office Supplies,Binders,699.5,109.89,5
+US-2025-101540,2025-04-14,West,Consumer,Office Supplies,Paper,669.62,-72.55,2
+US-2025-101541,2025-09-05,South,Consumer,Office Supplies,Binders,628.57,-45.89,6
+US-2025-101542,2025-02-08,South,Corporate,Furniture,Chairs,223.45,37.58,4
+US-2025-101543,2025-05-14,Central,Corporate,Furniture,Bookcases,317.58,29.66,3
+US-2025-101544,2025-02-24,East,Corporate,Technology,Copiers,1411.06,-14.06,7
+US-2025-101545,2025-12-17,East,Consumer,Furniture,Chairs,55.8,-7.32,8
+US-2025-101546,2025-05-17,South,Corporate,Technology,Copiers,238.35,-15.99,1
+US-2025-101547,2025-08-31,South,Corporate,Furniture,Bookcases,601.5,-89.09,1
+US-2025-101548,2025-10-27,East,Corporate,Furniture,Chairs,240.47,50.66,6
+US-2025-101549,2025-03-05,West,Corporate,Technology,Copiers,1320.0,-103.69,7
+US-2025-101550,2025-05-11,Central,Home Office,Technology,Accessories,605.31,206.93,5
+US-2025-101551,2025-05-03,East,Corporate,Office Supplies,Binders,388.19,20.65,6
+US-2025-101552,2025-12-09,East,Home Office,Technology,Accessories,1200.43,417.58,3
+US-2025-101553,2025-11-01,Central,Consumer,Technology,Accessories,343.1,42.19,8
+US-2025-101554,2025-09-08,East,Consumer,Office Supplies,Paper,331.71,46.37,8
+US-2025-101555,2025-10-27,West,Corporate,Office Supplies,Paper,520.13,-69.58,6
+US-2025-101556,2025-05-19,West,Consumer,Furniture,Tables,49.46,-12.93,8
+US-2025-101557,2025-12-06,South,Corporate,Furniture,Tables,555.49,-87.35,6
+US-2025-101558,2025-03-12,East,Corporate,Technology,Copiers,975.55,-96.19,9
+US-2025-101559,2025-06-06,West,Consumer,Furniture,Bookcases,1034.04,-96.29,5
+US-2025-101560,2025-05-14,East,Home Office,Furniture,Tables,63.31,-15.3,9
+US-2025-101561,2025-10-24,Central,Consumer,Technology,Copiers,1032.63,347.49,2
+US-2025-101562,2025-12-19,West,Home Office,Technology,Phones,931.12,-44.28,7
+US-2025-101563,2025-12-04,West,Corporate,Furniture,Chairs,667.71,38.44,9
+US-2025-101564,2025-06-22,Central,Home Office,Technology,Copiers,637.81,-88.2,8
+US-2025-101565,2025-07-22,West,Corporate,Technology,Phones,1368.91,310.05,3
+US-2025-101566,2025-06-12,West,Consumer,Technology,Phones,1265.03,-33.24,5
+US-2025-101567,2025-02-01,Central,Corporate,Office Supplies,Binders,112.55,15.44,7
+US-2025-101568,2025-07-30,West,Corporate,Office Supplies,Paper,757.61,154.47,1
+US-2025-101569,2025-02-26,South,Corporate,Furniture,Chairs,619.72,216.67,4
+US-2025-101570,2025-12-04,South,Consumer,Furniture,Chairs,49.56,9.11,5
+US-2025-101571,2025-05-30,Central,Consumer,Office Supplies,Storage,388.92,29.41,2
+US-2025-101572,2025-11-21,West,Home Office,Office Supplies,Binders,353.98,10.26,1
+US-2025-101573,2025-11-29,South,Home Office,Furniture,Bookcases,250.5,50.0,9
+US-2025-101574,2025-07-08,West,Home Office,Office Supplies,Storage,1077.09,-34.96,3
+US-2025-101575,2025-10-08,West,Home Office,Office Supplies,Paper,187.74,-3.39,6
+US-2025-101576,2025-01-04,East,Home Office,Technology,Copiers,343.55,93.19,8
+US-2025-101577,2025-05-07,West,Home Office,Office Supplies,Storage,1040.64,333.92,5
+US-2025-101578,2025-06-17,West,Corporate,Technology,Phones,645.59,203.23,3
+US-2025-101579,2025-04-22,East,Home Office,Furniture,Tables,39.36,-13.13,5
+US-2025-101580,2025-07-30,Central,Home Office,Technology,Phones,596.0,128.38,7
+US-2025-101581,2025-02-22,South,Corporate,Office Supplies,Paper,425.39,102.17,8
+US-2025-101582,2025-06-03,Central,Consumer,Furniture,Bookcases,176.4,26.88,4
+US-2025-101583,2025-04-30,West,Corporate,Office Supplies,Storage,94.27,23.53,2
+US-2025-101584,2025-09-24,East,Consumer,Furniture,Chairs,429.48,117.41,7
+US-2025-101585,2025-11-02,South,Consumer,Office Supplies,Binders,512.73,41.31,5
+US-2025-101586,2025-02-09,South,Corporate,Technology,Accessories,125.05,23.83,4
+US-2025-101587,2025-11-18,Central,Corporate,Technology,Phones,253.49,35.73,5
+US-2025-101588,2025-04-12,Central,Home Office,Furniture,Tables,267.86,-59.17,6
+US-2025-101589,2025-11-24,South,Home Office,Office Supplies,Storage,226.29,8.1,4
+US-2025-101590,2025-06-20,West,Home Office,Office Supplies,Binders,622.17,199.99,2
+US-2025-101591,2025-07-27,West,Corporate,Office Supplies,Paper,195.56,-9.64,7
+US-2025-101592,2025-11-30,West,Consumer,Office Supplies,Paper,671.79,13.87,6
+US-2025-101593,2025-06-07,West,Consumer,Furniture,Chairs,466.28,144.53,3
+US-2025-101594,2025-01-26,East,Corporate,Technology,Copiers,1279.22,317.94,6
+US-2025-101595,2025-12-14,South,Consumer,Technology,Copiers,374.67,-30.56,6
+US-2025-101596,2025-03-14,West,Consumer,Technology,Accessories,172.29,8.86,1
+US-2025-101597,2025-10-07,South,Corporate,Office Supplies,Storage,132.95,-8.19,8
+US-2025-101598,2025-01-18,West,Consumer,Furniture,Tables,373.79,-10.86,6
+US-2025-101599,2025-06-01,East,Home Office,Furniture,Chairs,351.96,33.28,7
+US-2025-101600,2025-04-16,West,Corporate,Office Supplies,Paper,475.11,98.46,3
+US-2025-101601,2025-08-05,South,Corporate,Office Supplies,Paper,136.78,44.57,5
+US-2025-101602,2025-10-02,South,Consumer,Office Supplies,Binders,455.39,-21.84,7
+US-2025-101603,2025-04-12,West,Consumer,Technology,Accessories,1512.71,-95.14,6
+US-2025-101604,2025-04-10,East,Home Office,Technology,Copiers,424.4,-9.13,1
+US-2025-101605,2025-04-29,East,Corporate,Office Supplies,Binders,412.35,18.72,7
+US-2025-101606,2025-08-28,East,Corporate,Technology,Phones,936.36,76.25,4
+US-2025-101607,2025-05-04,Central,Consumer,Technology,Accessories,692.87,242.09,9
+US-2025-101608,2025-01-30,Central,Corporate,Office Supplies,Storage,55.51,-5.68,3
+US-2025-101609,2025-09-10,East,Corporate,Furniture,Bookcases,56.94,6.47,3
+US-2025-101610,2025-01-06,South,Home Office,Office Supplies,Binders,192.67,29.84,7
+US-2025-101611,2025-05-21,Central,Home Office,Furniture,Bookcases,718.74,182.9,7
+US-2025-101612,2025-10-27,East,Home Office,Technology,Accessories,775.3,119.93,4
+US-2025-101613,2025-01-22,Central,Corporate,Office Supplies,Paper,653.01,121.59,4
+US-2025-101614,2025-06-29,East,Corporate,Office Supplies,Binders,348.73,59.3,2
+US-2025-101615,2025-03-14,South,Consumer,Furniture,Tables,170.45,-49.13,3
+US-2025-101616,2025-02-21,South,Home Office,Technology,Phones,619.03,49.54,7
+US-2025-101617,2025-06-19,Central,Corporate,Furniture,Chairs,226.67,46.22,3
+US-2025-101618,2025-08-19,East,Consumer,Technology,Copiers,1070.42,233.49,8
+US-2025-101619,2025-03-09,South,Home Office,Furniture,Chairs,311.27,53.6,9
+US-2025-101620,2025-06-29,Central,Corporate,Furniture,Chairs,396.63,-7.42,4
+US-2025-101621,2025-11-03,South,Home Office,Office Supplies,Binders,343.74,26.8,5
+US-2025-101622,2025-10-22,Central,Consumer,Office Supplies,Binders,538.4,164.82,2
+US-2025-101623,2025-11-09,Central,Corporate,Furniture,Bookcases,79.34,27.36,6
+US-2025-101624,2025-07-12,Central,Home Office,Technology,Accessories,995.56,103.11,3
+US-2025-101625,2025-05-31,South,Corporate,Office Supplies,Storage,482.52,-5.39,3
+US-2025-101626,2025-04-04,South,Home Office,Technology,Accessories,845.11,-100.72,9
+US-2025-101627,2025-08-05,East,Consumer,Furniture,Tables,51.36,-10.84,9
+US-2025-101628,2025-10-18,South,Consumer,Furniture,Chairs,482.74,-31.84,6
+US-2025-101629,2025-05-31,West,Consumer,Furniture,Bookcases,35.05,7.19,9
+US-2025-101630,2025-01-29,Central,Home Office,Technology,Copiers,197.62,28.73,9
+US-2025-101631,2025-03-09,South,Corporate,Office Supplies,Storage,15.44,4.38,3
+US-2025-101632,2025-07-07,Central,Home Office,Office Supplies,Storage,752.91,50.49,2
+US-2025-101633,2025-10-01,East,Home Office,Furniture,Chairs,631.16,215.46,2
+US-2025-101634,2025-09-07,West,Consumer,Office Supplies,Binders,426.18,-53.78,1
+US-2025-101635,2025-07-24,Central,Corporate,Technology,Phones,981.36,-11.3,8
+US-2025-101636,2025-02-08,West,Consumer,Furniture,Tables,501.42,-32.07,7
+US-2025-101637,2025-05-08,East,Consumer,Furniture,Bookcases,626.71,-62.37,3
+US-2025-101638,2025-01-15,South,Home Office,Furniture,Tables,405.07,-156.48,1
+US-2025-101639,2025-01-16,West,Corporate,Office Supplies,Binders,740.69,33.06,5
+US-2025-101640,2025-06-28,Central,Consumer,Office Supplies,Binders,315.72,18.37,1
+US-2025-101641,2025-06-03,Central,Corporate,Technology,Copiers,852.61,-25.48,4
+US-2025-101642,2025-12-17,South,Home Office,Office Supplies,Binders,513.32,36.98,9
+US-2025-101643,2025-10-04,West,Home Office,Technology,Accessories,607.7,139.84,4
+US-2025-101644,2025-12-11,Central,Home Office,Furniture,Tables,338.7,32.6,4
+US-2025-101645,2025-03-07,East,Corporate,Office Supplies,Paper,635.03,-70.14,1
+US-2025-101646,2025-01-24,South,Home Office,Furniture,Bookcases,308.71,89.99,6
+US-2025-101647,2025-08-25,South,Consumer,Technology,Phones,263.49,7.77,8
+US-2025-101648,2025-03-21,South,Corporate,Office Supplies,Storage,511.45,133.45,5
+US-2025-101649,2025-05-21,West,Home Office,Office Supplies,Binders,210.45,9.28,2
+US-2025-101650,2025-03-11,South,Home Office,Office Supplies,Storage,53.11,2.65,2
+US-2025-101651,2025-09-01,East,Corporate,Office Supplies,Paper,986.54,129.41,1
+US-2025-101652,2025-06-28,West,Home Office,Office Supplies,Storage,117.98,-15.44,7
+US-2025-101653,2025-04-22,West,Consumer,Office Supplies,Binders,1001.12,144.6,7
+US-2025-101654,2025-09-23,Central,Consumer,Technology,Phones,279.1,-28.88,7
+US-2025-101655,2025-10-19,West,Corporate,Technology,Phones,755.98,-55.35,7
+US-2025-101656,2025-01-24,South,Home Office,Furniture,Chairs,344.29,-40.48,5
+US-2025-101657,2025-05-09,Central,Consumer,Technology,Accessories,613.32,47.64,5
+US-2025-101658,2025-07-27,Central,Consumer,Technology,Copiers,825.73,-110.13,7
+US-2025-101659,2025-09-27,East,Home Office,Office Supplies,Paper,673.67,124.03,7
+US-2025-101660,2025-09-17,Central,Consumer,Office Supplies,Storage,741.38,-43.26,6
+US-2025-101661,2025-03-24,South,Corporate,Technology,Phones,88.8,10.31,5
+US-2025-101662,2025-06-19,East,Consumer,Office Supplies,Storage,844.48,177.38,4
+US-2025-101663,2025-05-20,East,Consumer,Office Supplies,Binders,451.12,-19.62,2
+US-2025-101664,2025-07-10,West,Corporate,Furniture,Chairs,374.39,-51.17,5
+US-2025-101665,2025-04-30,East,Corporate,Office Supplies,Binders,455.52,19.63,6
+US-2025-101666,2025-10-22,South,Corporate,Office Supplies,Binders,533.67,-41.69,8
+US-2025-101667,2025-05-18,South,Consumer,Technology,Copiers,193.08,41.71,2
+US-2025-101668,2025-01-19,South,Corporate,Furniture,Tables,24.24,-9.25,8
+US-2025-101669,2025-12-22,South,Consumer,Office Supplies,Storage,392.43,95.41,2
+US-2025-101670,2025-03-05,Central,Home Office,Office Supplies,Storage,633.08,174.23,9
+US-2025-101671,2025-02-25,East,Consumer,Office Supplies,Binders,183.38,48.96,9
+US-2025-101672,2025-11-04,Central,Corporate,Furniture,Bookcases,434.76,-11.76,8
+US-2025-101673,2025-10-08,East,Home Office,Furniture,Tables,787.15,-36.41,5
+US-2025-101674,2025-10-17,South,Home Office,Office Supplies,Paper,114.46,22.86,6
+US-2025-101675,2025-09-08,Central,Corporate,Furniture,Bookcases,759.54,170.9,3
+US-2025-101676,2025-11-27,South,Consumer,Furniture,Tables,187.74,-46.31,5
+US-2025-101677,2025-09-05,West,Corporate,Office Supplies,Paper,50.82,-0.88,4
+US-2025-101678,2025-10-31,West,Home Office,Office Supplies,Paper,851.58,230.95,9
+US-2025-101679,2025-03-12,Central,Consumer,Furniture,Bookcases,306.86,23.8,1
+US-2025-101680,2025-10-12,Central,Home Office,Office Supplies,Storage,491.09,107.94,2
+US-2025-101681,2025-02-19,East,Consumer,Furniture,Chairs,809.43,-98.62,5
+US-2025-101682,2025-11-28,South,Corporate,Furniture,Bookcases,544.11,-8.46,1
+US-2025-101683,2025-08-20,East,Consumer,Office Supplies,Paper,782.79,-42.15,4
+US-2025-101684,2025-03-12,South,Home Office,Furniture,Bookcases,294.5,1.15,4
+US-2025-101685,2025-12-10,Central,Corporate,Furniture,Bookcases,107.49,0.17,9
+US-2025-101686,2025-06-27,West,Home Office,Technology,Phones,83.92,-11.25,8
+US-2025-101687,2025-05-03,West,Consumer,Technology,Accessories,119.0,36.68,6
+US-2025-101688,2025-03-14,East,Consumer,Furniture,Tables,790.01,-62.13,1
+US-2025-101689,2025-04-11,East,Home Office,Technology,Copiers,213.35,53.9,4
+US-2025-101690,2025-11-06,East,Corporate,Technology,Accessories,1438.88,409.92,2
+US-2025-101691,2025-10-07,Central,Corporate,Furniture,Tables,728.77,-215.97,2
+US-2025-101692,2025-12-15,West,Home Office,Technology,Copiers,731.5,167.87,1
+US-2025-101693,2025-02-15,West,Home Office,Furniture,Chairs,404.95,63.31,5
+US-2025-101694,2025-03-25,East,Consumer,Office Supplies,Paper,251.6,43.46,3
+US-2025-101695,2025-11-27,Central,Corporate,Technology,Phones,412.3,38.71,6
+US-2025-101696,2025-01-09,Central,Home Office,Technology,Phones,421.7,-42.82,6
+US-2025-101697,2025-01-31,West,Home Office,Technology,Accessories,1719.75,475.74,9
+US-2025-101698,2025-11-16,West,Home Office,Office Supplies,Binders,649.03,13.6,1
+US-2025-101699,2025-12-31,South,Consumer,Technology,Accessories,874.93,-23.45,2
+US-2025-101700,2025-08-12,East,Corporate,Office Supplies,Binders,402.26,118.19,3
+US-2025-101701,2025-04-23,West,Consumer,Technology,Accessories,1077.32,261.84,8
+US-2025-101702,2025-07-01,East,Home Office,Office Supplies,Paper,765.6,-86.57,4
+US-2025-101703,2025-10-15,West,Home Office,Office Supplies,Storage,899.51,127.54,1
+US-2025-101704,2025-11-30,East,Corporate,Furniture,Tables,181.38,0.61,7
+US-2025-101705,2025-12-27,West,Corporate,Technology,Phones,1131.93,223.88,6
+US-2025-101706,2025-06-18,Central,Corporate,Technology,Phones,921.78,66.36,8
+US-2025-101707,2025-08-20,South,Consumer,Technology,Accessories,311.06,-45.37,5
+US-2025-101708,2025-08-10,South,Home Office,Technology,Phones,983.26,-118.62,4
+US-2025-101709,2025-12-10,East,Home Office,Office Supplies,Binders,529.85,0.67,2
+US-2025-101710,2025-06-18,South,Home Office,Furniture,Tables,264.81,-16.55,3
+US-2025-101711,2025-04-29,South,Home Office,Furniture,Tables,89.38,-30.74,1
+US-2025-101712,2025-05-04,South,Consumer,Office Supplies,Storage,472.11,107.41,3
+US-2025-101713,2025-01-01,East,Corporate,Furniture,Tables,164.8,-41.93,7
+US-2025-101714,2025-09-02,South,Home Office,Technology,Phones,292.64,86.73,7
+US-2025-101715,2025-08-31,West,Home Office,Office Supplies,Storage,1028.78,345.03,4
+US-2025-101716,2025-04-06,West,Consumer,Technology,Copiers,487.6,117.18,4
+US-2025-101717,2025-12-31,Central,Home Office,Technology,Copiers,551.53,120.01,2
+US-2025-101718,2025-01-19,East,Home Office,Technology,Phones,1474.33,-167.59,2
+US-2025-101719,2025-04-18,East,Home Office,Technology,Phones,1439.09,21.05,6
+US-2025-101720,2025-12-07,East,Home Office,Furniture,Bookcases,287.29,-39.22,1
+US-2025-101721,2025-10-08,South,Home Office,Technology,Accessories,725.27,76.21,2
+US-2025-101722,2025-01-12,Central,Consumer,Technology,Phones,909.39,75.42,4
+US-2025-101723,2025-10-29,South,Home Office,Furniture,Bookcases,42.28,2.86,7
+US-2025-101724,2025-01-01,West,Home Office,Office Supplies,Binders,357.78,103.22,4
+US-2025-101725,2025-03-21,East,Consumer,Office Supplies,Paper,274.33,27.73,3
+US-2025-101726,2025-03-30,West,Consumer,Furniture,Tables,524.36,-86.18,8
+US-2025-101727,2025-03-05,Central,Home Office,Office Supplies,Binders,108.03,22.78,1
+US-2025-101728,2025-05-22,West,Home Office,Furniture,Tables,1092.86,91.7,8
+US-2025-101729,2025-03-08,South,Corporate,Furniture,Chairs,368.16,112.76,6
+US-2025-101730,2025-03-12,East,Corporate,Office Supplies,Paper,515.69,-72.31,8
+US-2025-101731,2025-11-13,South,Consumer,Office Supplies,Storage,244.57,-17.41,9
+US-2025-101732,2025-10-01,Central,Consumer,Technology,Copiers,975.82,-108.22,3
+US-2025-101733,2025-12-09,West,Corporate,Furniture,Bookcases,912.29,15.9,1
+US-2025-101734,2025-08-06,West,Corporate,Technology,Accessories,108.02,9.36,9
+US-2025-101735,2025-02-06,West,Home Office,Office Supplies,Storage,388.68,121.81,1
+US-2025-101736,2025-08-01,West,Consumer,Office Supplies,Storage,880.2,267.83,3
+US-2025-101737,2025-05-20,Central,Corporate,Technology,Accessories,1134.06,-90.81,3
+US-2025-101738,2025-07-05,South,Corporate,Office Supplies,Binders,520.51,20.79,3
+US-2025-101739,2025-03-31,East,Home Office,Technology,Copiers,1576.69,550.78,3
+US-2025-101740,2025-01-06,East,Corporate,Furniture,Chairs,723.66,-45.19,3
+US-2025-101741,2025-04-30,South,Home Office,Technology,Copiers,30.68,4.53,3
+US-2025-101742,2025-12-18,South,Home Office,Office Supplies,Paper,347.19,30.67,3
+US-2025-101743,2025-07-25,Central,Home Office,Office Supplies,Storage,35.63,-1.15,5
+US-2025-101744,2025-08-23,West,Consumer,Furniture,Tables,1116.47,-102.6,7
+US-2025-101745,2025-12-15,South,Consumer,Office Supplies,Paper,550.1,74.05,6
+US-2025-101746,2025-06-14,West,Home Office,Furniture,Chairs,822.43,129.55,2
+US-2025-101747,2025-06-24,South,Corporate,Furniture,Bookcases,349.2,53.69,2
+US-2025-101748,2025-12-07,West,Corporate,Furniture,Chairs,766.81,92.4,7
+US-2025-101749,2025-05-22,West,Consumer,Office Supplies,Binders,1008.94,-53.7,6
+US-2025-101750,2025-09-19,Central,Consumer,Furniture,Bookcases,442.68,22.54,4
+US-2025-101751,2025-05-04,Central,Home Office,Office Supplies,Paper,551.37,177.55,9
+US-2025-101752,2025-05-19,East,Corporate,Office Supplies,Storage,321.05,-43.12,3
+US-2025-101753,2025-05-12,East,Corporate,Office Supplies,Binders,639.37,-44.6,7
+US-2025-101754,2025-01-12,South,Home Office,Office Supplies,Storage,602.38,124.2,4
+US-2025-101755,2025-08-19,Central,Corporate,Technology,Copiers,120.79,13.36,4
+US-2025-101756,2025-01-08,Central,Corporate,Office Supplies,Storage,377.76,3.5,1
+US-2025-101757,2025-05-27,South,Corporate,Technology,Accessories,908.65,35.42,4
+US-2025-101758,2025-03-20,South,Consumer,Furniture,Bookcases,619.39,-82.4,7
+US-2025-101759,2025-09-20,West,Corporate,Office Supplies,Storage,518.89,-27.54,1
+US-2025-101760,2025-07-01,East,Home Office,Office Supplies,Paper,184.14,36.27,6
+US-2025-101761,2025-05-30,West,Corporate,Office Supplies,Paper,1096.68,108.77,3
+US-2025-101762,2025-01-30,South,Corporate,Furniture,Bookcases,230.2,18.73,6
+US-2025-101763,2025-08-22,West,Corporate,Furniture,Chairs,130.66,-17.62,2
+US-2025-101764,2025-01-07,Central,Home Office,Technology,Phones,844.84,-102.88,3
+US-2025-101765,2025-06-11,West,Home Office,Technology,Accessories,1772.56,90.41,7
+US-2025-101766,2025-08-11,West,Consumer,Office Supplies,Paper,766.99,58.84,6
+US-2025-101767,2025-02-28,East,Corporate,Technology,Copiers,1391.4,473.65,2
+US-2025-101768,2025-02-28,South,Home Office,Furniture,Chairs,478.26,78.86,9
+US-2025-101769,2025-09-15,South,Consumer,Furniture,Tables,262.96,-29.07,1
+US-2025-101770,2025-08-28,Central,Corporate,Office Supplies,Storage,577.55,-49.82,5
+US-2025-101771,2025-06-17,Central,Home Office,Technology,Phones,569.01,-22.71,5
+US-2025-101772,2025-09-02,West,Consumer,Furniture,Tables,492.02,-74.59,3
+US-2025-101773,2025-06-21,West,Home Office,Office Supplies,Binders,151.99,28.11,2
+US-2025-101774,2025-01-30,West,Corporate,Furniture,Tables,1093.95,-214.7,4
+US-2025-101775,2025-07-11,East,Home Office,Technology,Copiers,1183.41,118.15,6
+US-2025-101776,2025-03-30,Central,Consumer,Furniture,Chairs,187.04,37.25,6
+US-2025-101777,2025-06-14,East,Home Office,Technology,Accessories,476.21,94.27,2
+US-2025-101778,2025-08-13,West,Corporate,Furniture,Bookcases,690.54,-60.96,1
+US-2025-101779,2025-09-27,West,Corporate,Office Supplies,Storage,329.58,6.53,5
+US-2025-101780,2025-04-25,Central,Home Office,Furniture,Tables,303.46,-15.05,3
+US-2025-101781,2025-02-05,West,Home Office,Furniture,Chairs,1097.75,-87.34,7
+US-2025-101782,2025-01-12,West,Home Office,Office Supplies,Binders,1065.93,-46.28,4
+US-2025-101783,2025-11-07,South,Home Office,Office Supplies,Storage,53.47,14.46,2
+US-2025-101784,2025-07-06,South,Corporate,Technology,Accessories,323.51,-27.87,3
+US-2025-101785,2025-12-22,Central,Corporate,Technology,Accessories,939.41,54.29,3
+US-2025-101786,2025-12-16,West,Consumer,Office Supplies,Storage,724.23,190.91,8
+US-2025-101787,2025-11-29,South,Home Office,Office Supplies,Storage,351.04,66.2,3
+US-2025-101788,2025-12-19,West,Home Office,Technology,Accessories,90.23,1.67,9
+US-2025-101789,2025-08-31,East,Consumer,Furniture,Chairs,795.26,-67.98,4
+US-2025-101790,2025-03-07,South,Corporate,Furniture,Tables,548.21,-129.02,3
+US-2025-101791,2025-04-05,Central,Home Office,Office Supplies,Binders,725.13,218.43,4
+US-2025-101792,2025-03-10,South,Home Office,Technology,Copiers,119.31,23.45,5
+US-2025-101793,2025-02-19,Central,Home Office,Technology,Copiers,1187.69,-131.19,3
+US-2025-101794,2025-06-13,Central,Home Office,Furniture,Bookcases,697.54,204.69,6
+US-2025-101795,2025-10-19,South,Consumer,Technology,Copiers,520.85,17.74,6
+US-2025-101796,2025-11-16,East,Corporate,Furniture,Tables,690.3,-203.21,9
+US-2025-101797,2025-02-03,West,Consumer,Technology,Phones,1490.39,17.24,8
+US-2025-101798,2025-12-29,West,Corporate,Technology,Phones,1758.09,224.78,6
+US-2025-101799,2025-08-07,West,Corporate,Office Supplies,Paper,529.2,20.67,2
+US-2025-101800,2025-05-27,East,Consumer,Office Supplies,Storage,744.41,-110.88,8
+US-2025-101801,2025-05-24,South,Corporate,Technology,Copiers,861.08,-82.29,7
+US-2025-101802,2025-06-11,Central,Consumer,Technology,Copiers,429.46,6.96,3
+US-2025-101803,2025-05-27,West,Corporate,Technology,Phones,1081.8,77.64,7
+US-2025-101804,2025-08-08,Central,Consumer,Office Supplies,Binders,498.33,2.2,4
+US-2025-101805,2025-09-11,Central,Home Office,Technology,Phones,87.81,29.4,7
+US-2025-101806,2025-08-09,West,Home Office,Office Supplies,Paper,981.35,246.51,5
+US-2025-101807,2025-07-08,Central,Home Office,Furniture,Bookcases,175.4,-1.97,3
+US-2025-101808,2025-09-17,East,Consumer,Furniture,Chairs,120.45,6.86,5
+US-2025-101809,2025-02-21,East,Corporate,Furniture,Tables,331.93,-5.48,7
+US-2025-101810,2025-08-21,West,Consumer,Furniture,Tables,707.81,-64.13,4
+US-2025-101811,2025-11-30,East,Consumer,Technology,Copiers,300.77,50.56,6
+US-2025-101812,2025-09-11,West,Corporate,Technology,Copiers,1081.92,163.69,9
+US-2025-101813,2025-07-30,East,Consumer,Office Supplies,Paper,886.38,96.04,2
+US-2025-101814,2025-06-04,South,Home Office,Technology,Phones,832.43,92.08,3
+US-2025-101815,2025-02-08,Central,Corporate,Furniture,Tables,657.35,-215.09,1
+US-2025-101816,2025-03-18,East,Corporate,Technology,Phones,894.66,-15.05,8
+US-2025-101817,2025-04-26,Central,Consumer,Technology,Phones,1022.62,151.91,7
+US-2025-101818,2025-08-16,East,Corporate,Furniture,Bookcases,973.4,149.49,9
+US-2025-101819,2025-10-12,West,Corporate,Technology,Phones,1609.86,63.78,7
+US-2025-101820,2025-01-14,West,Home Office,Furniture,Chairs,437.96,-60.11,9
+US-2025-101821,2025-06-27,South,Consumer,Furniture,Bookcases,254.3,-19.75,2
+US-2025-101822,2025-12-30,South,Home Office,Technology,Accessories,209.12,9.88,2
+US-2025-101823,2025-06-30,South,Consumer,Office Supplies,Binders,45.64,14.59,3
+US-2025-101824,2025-10-04,East,Corporate,Technology,Phones,996.49,316.57,5
+US-2025-101825,2025-02-19,South,Home Office,Office Supplies,Paper,106.05,-7.71,7
+US-2025-101826,2025-09-14,West,Consumer,Technology,Phones,543.16,178.97,2
+US-2025-101827,2025-10-08,West,Corporate,Technology,Phones,235.18,-33.97,9
+US-2025-101828,2025-03-13,East,Consumer,Furniture,Chairs,786.16,66.1,2
+US-2025-101829,2025-05-08,West,Home Office,Furniture,Tables,391.75,27.75,3
+US-2025-101830,2025-03-19,East,Home Office,Office Supplies,Paper,381.12,113.17,8
+US-2025-101831,2025-05-15,Central,Corporate,Furniture,Chairs,195.86,53.37,4
+US-2025-101832,2025-04-01,West,Home Office,Technology,Phones,851.28,53.38,5
+US-2025-101833,2025-03-06,South,Corporate,Office Supplies,Binders,85.96,-9.77,6
+US-2025-101834,2025-03-28,West,Corporate,Technology,Accessories,1339.0,281.69,7
+US-2025-101835,2025-01-21,South,Home Office,Technology,Phones,861.41,-100.69,8
+US-2025-101836,2025-05-27,West,Corporate,Technology,Copiers,490.8,77.44,3
+US-2025-101837,2025-01-02,West,Consumer,Technology,Phones,426.47,136.3,5
+US-2025-101838,2025-06-25,South,Home Office,Furniture,Tables,459.53,-150.65,7
+US-2025-101839,2025-04-16,West,Consumer,Office Supplies,Paper,758.45,13.25,4
+US-2025-101840,2025-04-23,South,Corporate,Office Supplies,Binders,581.55,90.96,2
+US-2025-101841,2025-02-03,West,Corporate,Office Supplies,Paper,440.57,87.73,7
+US-2025-101842,2025-07-16,South,Consumer,Office Supplies,Binders,596.53,17.26,6
+US-2025-101843,2025-04-26,East,Home Office,Office Supplies,Paper,876.91,5.45,7
+US-2025-101844,2025-08-30,South,Corporate,Furniture,Chairs,96.81,13.59,3
+US-2025-101845,2025-06-25,East,Corporate,Technology,Copiers,1067.95,3.37,9
+US-2025-101846,2025-07-30,Central,Corporate,Furniture,Tables,321.98,-82.19,5
+US-2025-101847,2025-11-14,Central,Consumer,Office Supplies,Binders,191.31,-13.84,3
+US-2025-101848,2025-03-15,East,Corporate,Technology,Copiers,1387.26,270.34,1
+US-2025-101849,2025-09-01,Central,Consumer,Furniture,Tables,756.48,-258.85,9
+US-2025-101850,2025-03-01,West,Consumer,Office Supplies,Storage,260.69,74.89,8
+US-2025-101851,2025-12-18,East,Home Office,Technology,Accessories,951.65,91.89,4
+US-2025-101852,2025-01-10,East,Corporate,Technology,Copiers,1058.59,42.63,2
+US-2025-101853,2025-04-24,West,Home Office,Office Supplies,Binders,498.9,-8.17,3
+US-2025-101854,2025-10-17,West,Home Office,Office Supplies,Paper,394.64,73.26,9
+US-2025-101855,2025-03-01,East,Consumer,Technology,Phones,1253.29,87.38,1
+US-2025-101856,2025-02-18,South,Home Office,Technology,Copiers,697.89,-96.68,1
+US-2025-101857,2025-04-11,South,Corporate,Furniture,Tables,534.8,-189.13,8
+US-2025-101858,2025-12-14,South,Consumer,Furniture,Bookcases,546.86,78.06,7
+US-2025-101859,2025-12-03,South,Home Office,Technology,Phones,149.37,34.39,8
+US-2025-101860,2025-09-10,East,Corporate,Technology,Accessories,913.94,131.09,5
+US-2025-101861,2025-07-07,East,Home Office,Office Supplies,Paper,593.16,157.14,5
+US-2025-101862,2025-01-01,South,Home Office,Office Supplies,Storage,182.87,12.29,4
+US-2025-101863,2025-11-29,East,Home Office,Technology,Phones,1105.84,-44.81,9
+US-2025-101864,2025-09-11,South,Corporate,Technology,Phones,636.53,-45.29,2
+US-2025-101865,2025-09-20,West,Consumer,Furniture,Tables,951.46,42.81,7
+US-2025-101866,2025-07-13,South,Home Office,Office Supplies,Binders,512.48,140.45,6
+US-2025-101867,2025-07-08,Central,Home Office,Furniture,Chairs,332.79,-7.33,6
+US-2025-101868,2025-07-20,Central,Home Office,Furniture,Chairs,127.51,1.0,6
+US-2025-101869,2025-11-06,West,Corporate,Office Supplies,Storage,995.75,310.77,5
+US-2025-101870,2025-06-22,West,Corporate,Technology,Accessories,1186.48,243.68,9
+US-2025-101871,2025-05-17,Central,Home Office,Technology,Phones,584.49,-28.82,2
+US-2025-101872,2025-05-02,South,Corporate,Office Supplies,Storage,147.36,10.55,7
+US-2025-101873,2025-03-11,Central,Home Office,Furniture,Bookcases,670.47,190.2,5
+US-2025-101874,2025-08-25,East,Consumer,Furniture,Tables,775.91,-238.66,5
+US-2025-101875,2025-02-10,South,Corporate,Furniture,Chairs,125.35,34.16,6
+US-2025-101876,2025-05-05,Central,Consumer,Technology,Copiers,568.34,-47.19,6
+US-2025-101877,2025-03-12,East,Consumer,Furniture,Tables,493.92,-129.33,8
+US-2025-101878,2025-07-27,South,Home Office,Furniture,Bookcases,51.45,7.13,3
+US-2025-101879,2025-04-30,East,Consumer,Furniture,Bookcases,420.09,-51.22,7
+US-2025-101880,2025-12-10,West,Corporate,Furniture,Bookcases,844.04,101.16,2
+US-2025-101881,2025-03-06,West,Home Office,Technology,Phones,878.48,63.2,3
+US-2025-101882,2025-11-04,West,Corporate,Technology,Accessories,1143.15,-85.01,4
+US-2025-101883,2025-04-21,Central,Home Office,Technology,Phones,113.06,20.59,5
+US-2025-101884,2025-06-15,West,Consumer,Furniture,Chairs,737.51,209.67,3
+US-2025-101885,2025-03-26,East,Corporate,Furniture,Tables,545.22,-24.02,5
+US-2025-101886,2025-10-13,Central,Home Office,Office Supplies,Storage,303.25,7.08,2
+US-2025-101887,2025-11-26,South,Corporate,Technology,Phones,732.43,147.84,2
+US-2025-101888,2025-03-09,West,Corporate,Technology,Phones,191.41,56.46,3
+US-2025-101889,2025-04-13,East,Corporate,Furniture,Tables,451.1,-48.28,7
+US-2025-101890,2025-11-14,West,Home Office,Furniture,Bookcases,975.62,169.32,8
+US-2025-101891,2025-03-01,West,Home Office,Furniture,Bookcases,115.32,21.0,6
+US-2025-101892,2025-07-26,East,Corporate,Technology,Copiers,614.88,21.93,2
+US-2025-101893,2025-12-10,West,Corporate,Furniture,Bookcases,911.02,54.87,4
+US-2025-101894,2025-01-01,West,Home Office,Furniture,Tables,708.5,21.49,3
+US-2025-101895,2025-06-14,Central,Corporate,Technology,Accessories,646.63,65.19,5
+US-2025-101896,2025-01-10,South,Corporate,Furniture,Tables,156.3,-28.19,2
+US-2025-101897,2025-07-02,Central,Consumer,Office Supplies,Paper,482.77,122.57,3
+US-2025-101898,2025-12-30,East,Consumer,Office Supplies,Paper,194.63,60.8,1
+US-2025-101899,2025-08-06,East,Home Office,Technology,Accessories,685.32,204.5,8
+US-2025-101900,2025-03-28,West,Home Office,Furniture,Chairs,188.72,48.02,1
+US-2025-101901,2025-09-19,East,Home Office,Technology,Copiers,857.51,193.29,4
+US-2025-101902,2025-05-21,West,Consumer,Office Supplies,Binders,602.94,197.58,8
+US-2025-101903,2025-05-16,Central,Consumer,Office Supplies,Binders,687.63,25.06,3
+US-2025-101904,2025-11-02,East,Consumer,Furniture,Chairs,728.69,179.54,3
+US-2025-101905,2025-03-04,Central,Consumer,Technology,Phones,791.22,144.78,5
+US-2025-101906,2025-02-10,West,Corporate,Technology,Accessories,1066.49,292.38,5
+US-2025-101907,2025-03-03,Central,Corporate,Technology,Phones,368.51,48.55,1
+US-2025-101908,2025-03-03,South,Home Office,Furniture,Chairs,22.56,-0.73,6
+US-2025-101909,2025-01-11,South,Consumer,Technology,Accessories,630.02,21.13,6
+US-2025-101910,2025-03-25,West,Consumer,Office Supplies,Paper,1049.45,79.74,1
+US-2025-101911,2025-11-27,Central,Corporate,Office Supplies,Paper,535.12,16.95,4
+US-2025-101912,2025-09-16,Central,Consumer,Office Supplies,Binders,167.24,33.14,3
+US-2025-101913,2025-03-08,South,Consumer,Technology,Copiers,923.57,8.9,5
+US-2025-101914,2025-05-22,South,Home Office,Furniture,Bookcases,36.38,6.24,3
+US-2025-101915,2025-06-30,Central,Consumer,Furniture,Tables,658.39,-54.42,7
+US-2025-101916,2025-11-06,East,Home Office,Technology,Copiers,536.86,-51.77,2
+US-2025-101917,2025-04-10,South,Corporate,Office Supplies,Paper,196.34,0.45,5
+US-2025-101918,2025-10-14,Central,Consumer,Technology,Phones,232.62,20.96,9
+US-2025-101919,2025-05-02,South,Corporate,Furniture,Chairs,271.57,15.27,6
+US-2025-101920,2025-10-18,South,Consumer,Furniture,Bookcases,532.62,-44.79,2
+US-2025-101921,2025-12-21,South,Consumer,Furniture,Bookcases,423.63,-21.21,7
+US-2025-101922,2025-03-30,East,Corporate,Furniture,Tables,139.68,-18.69,1
+US-2025-101923,2025-11-23,West,Home Office,Furniture,Chairs,641.54,95.09,8
+US-2025-101924,2025-06-24,East,Home Office,Office Supplies,Storage,757.9,30.92,6
+US-2025-101925,2025-09-05,East,Corporate,Technology,Phones,1173.87,181.15,8
+US-2025-101926,2025-07-17,West,Home Office,Furniture,Tables,984.95,-100.6,2
+US-2025-101927,2025-07-22,East,Home Office,Office Supplies,Paper,340.19,54.92,9
+US-2025-101928,2025-07-27,West,Corporate,Technology,Copiers,318.7,9.14,6
+US-2025-101929,2025-09-29,East,Home Office,Office Supplies,Binders,422.3,28.23,3
+US-2025-101930,2025-01-01,South,Corporate,Office Supplies,Binders,549.65,-49.8,2
+US-2025-101931,2025-12-08,Central,Corporate,Technology,Copiers,855.01,39.78,9
+US-2025-101932,2025-03-12,West,Home Office,Furniture,Chairs,156.32,50.42,9
+US-2025-101933,2025-05-27,South,Consumer,Technology,Phones,617.9,-77.31,4
+US-2025-101934,2025-11-01,Central,Corporate,Technology,Phones,1103.35,217.5,9
+US-2025-101935,2025-04-29,West,Corporate,Furniture,Tables,358.87,-2.54,7
+US-2025-101936,2025-03-27,West,Corporate,Office Supplies,Binders,322.11,-16.88,5
+US-2025-101937,2025-02-17,South,Corporate,Furniture,Bookcases,299.29,102.16,8
+US-2025-101938,2025-12-07,South,Home Office,Technology,Accessories,854.49,187.12,8
+US-2025-101939,2025-09-01,East,Consumer,Office Supplies,Binders,453.99,93.23,8
+US-2025-101940,2025-02-08,Central,Corporate,Technology,Copiers,567.45,126.13,7
+US-2025-101941,2025-10-04,West,Consumer,Office Supplies,Storage,144.12,17.06,2
+US-2025-101942,2025-01-14,Central,Home Office,Office Supplies,Storage,313.61,-11.82,4
+US-2025-101943,2025-01-25,Central,Corporate,Furniture,Bookcases,506.5,-60.04,4
+US-2025-101944,2025-05-10,Central,Consumer,Furniture,Chairs,264.42,-5.72,7
+US-2025-101945,2025-06-22,South,Consumer,Technology,Copiers,525.14,-11.03,4
+US-2025-101946,2025-10-25,West,Corporate,Technology,Accessories,668.74,167.88,6
+US-2025-101947,2025-05-16,East,Corporate,Office Supplies,Binders,351.62,49.47,9
+US-2025-101948,2025-11-29,Central,Home Office,Technology,Copiers,1214.51,164.55,3
+US-2025-101949,2025-01-24,West,Corporate,Technology,Accessories,393.23,-40.8,9
+US-2025-101950,2025-10-27,Central,Corporate,Furniture,Bookcases,327.79,45.24,7
+US-2025-101951,2025-05-17,Central,Consumer,Technology,Copiers,1180.91,70.8,7
+US-2025-101952,2025-01-19,West,Consumer,Technology,Accessories,1720.43,426.68,2
+US-2025-101953,2025-05-25,West,Consumer,Office Supplies,Paper,825.25,-53.01,2
+US-2025-101954,2025-04-11,East,Corporate,Office Supplies,Storage,733.57,-51.79,9
+US-2025-101955,2025-09-18,South,Home Office,Office Supplies,Storage,106.33,-14.83,9
+US-2025-101956,2025-01-15,East,Home Office,Technology,Phones,639.79,10.33,8
+US-2025-101957,2025-07-30,West,Home Office,Furniture,Tables,178.05,0.51,8
+US-2025-101958,2025-09-22,Central,Corporate,Technology,Accessories,646.66,-54.16,2
+US-2025-101959,2025-03-01,East,Home Office,Technology,Phones,241.05,-28.78,2
+US-2025-101960,2025-05-20,East,Consumer,Furniture,Bookcases,129.21,27.97,2
+US-2025-101961,2025-01-17,West,Consumer,Furniture,Tables,84.38,-23.21,2
+US-2025-101962,2025-04-17,Central,Corporate,Office Supplies,Storage,200.08,22.75,6
+US-2025-101963,2025-06-20,East,Home Office,Furniture,Chairs,695.48,-83.81,6
+US-2025-101964,2025-03-08,South,Home Office,Furniture,Tables,191.02,1.4,1
+US-2025-101965,2025-05-15,East,Consumer,Furniture,Tables,282.0,-99.17,4
+US-2025-101966,2025-06-28,Central,Home Office,Technology,Phones,732.17,213.34,5
+US-2025-101967,2025-10-24,West,Home Office,Furniture,Bookcases,270.25,63.68,9
+US-2025-101968,2025-01-22,East,Corporate,Furniture,Tables,88.36,-19.9,7
+US-2025-101969,2025-02-23,West,Consumer,Furniture,Chairs,832.68,-107.37,5
+US-2025-101970,2025-05-26,East,Consumer,Office Supplies,Binders,757.27,24.06,2
+US-2025-101971,2025-04-13,West,Corporate,Technology,Accessories,1386.81,367.04,2
+US-2025-101972,2025-01-11,East,Corporate,Office Supplies,Binders,918.44,41.68,8
+US-2025-101973,2025-03-15,Central,Corporate,Technology,Phones,894.79,204.62,7
+US-2025-101974,2025-09-13,Central,Home Office,Furniture,Bookcases,755.32,29.45,2
+US-2025-101975,2025-01-16,East,Home Office,Technology,Copiers,378.68,-15.56,5
+US-2025-101976,2025-01-05,East,Home Office,Technology,Copiers,1567.54,-34.77,2
+US-2025-101977,2025-01-07,South,Corporate,Office Supplies,Paper,305.88,-30.24,9
+US-2025-101978,2025-02-12,West,Consumer,Furniture,Tables,502.88,-0.18,3
+US-2025-101979,2025-02-18,East,Home Office,Technology,Phones,1238.24,-91.25,4
+US-2025-101980,2025-09-02,West,Home Office,Office Supplies,Storage,48.96,6.28,1
+US-2025-101981,2025-05-05,East,Consumer,Technology,Copiers,1517.1,77.0,7
+US-2025-101982,2025-09-12,West,Consumer,Office Supplies,Paper,858.65,192.62,1
+US-2025-101983,2025-12-07,West,Consumer,Technology,Copiers,745.22,18.92,6
+US-2025-101984,2025-06-20,South,Corporate,Office Supplies,Binders,251.93,71.26,9
+US-2025-101985,2025-01-15,Central,Consumer,Technology,Copiers,484.4,153.53,3
+US-2025-101986,2025-11-14,East,Consumer,Furniture,Chairs,42.07,-5.0,8
+US-2025-101987,2025-10-06,East,Consumer,Furniture,Bookcases,922.84,321.15,6
+US-2025-101988,2025-09-12,Central,Corporate,Furniture,Bookcases,392.35,62.67,8
+US-2025-101989,2025-12-14,South,Corporate,Furniture,Chairs,603.93,72.5,1
+US-2025-101990,2025-06-30,Central,Home Office,Technology,Phones,821.92,-53.72,9
+US-2025-101991,2025-08-04,Central,Home Office,Furniture,Tables,437.08,-57.29,7
+US-2025-101992,2025-09-05,East,Consumer,Technology,Accessories,1478.71,446.01,5
+US-2025-101993,2025-03-14,Central,Corporate,Technology,Phones,437.86,69.88,9
+US-2025-101994,2025-03-18,East,Corporate,Technology,Accessories,1306.82,-13.92,9
+US-2025-101995,2025-10-31,East,Consumer,Furniture,Chairs,148.45,45.66,4
+US-2025-101996,2025-09-16,Central,Home Office,Office Supplies,Storage,662.07,-80.72,8
+US-2025-101997,2025-10-22,East,Home Office,Technology,Copiers,1401.34,142.58,2
+US-2025-101998,2025-09-25,West,Home Office,Furniture,Bookcases,447.11,-54.64,3
+US-2025-101999,2025-04-22,East,Home Office,Technology,Copiers,424.98,-52.35,5

@@ -1,0 +1,10 @@
+{
+  "en": {
+    "alt": "Superstore West region: $739,814 sales, $110,799 profit, 15.0% profit ratio, the best region; Colorado, Oregon, Arizona lose money.",
+    "summary": "Executive profitability dashboard for the West region, orders from January 2023 to December 2026. Sales total $739,814 with $110,799 profit, a 15.0% profit ratio, an average discount of 10.89% and 12,466 items sold, the highest sales and margin of the four regions. Colorado, Oregon and Arizona appear in orange with negative profit ratios, while California, Washington and western Canada are profitable."
+  },
+  "es": {
+    "alt": "Superstore región Oeste: ventas $739,814, beneficio $110,799, margen 15.0%, la mejor región; Colorado, Oregón y Arizona pierden.",
+    "summary": "Panel ejecutivo de rentabilidad de la región Oeste, pedidos de enero de 2023 a diciembre de 2026. Las ventas suman $739,814 con $110,799 de beneficio, un margen del 15.0%, un descuento medio del 10.89% y 12,466 unidades vendidas, las ventas y el margen más altos de las cuatro regiones. Colorado, Oregón y Arizona aparecen en naranja con margen negativo, mientras que California, Washington y el oeste de Canadá son rentables."
+  }
+}
